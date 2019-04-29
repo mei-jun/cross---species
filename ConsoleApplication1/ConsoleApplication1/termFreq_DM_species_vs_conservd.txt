@@ -1,0 +1,164 @@
+translation	0.0890037	0.0222381
+structural constituent of ribosome	0.0879651	0.0213399
+ribosome	0.0850888	0.0213089
+intracellular	0.0646089	0.0142627
+mitotic spindle elongation	0.0572053	0
+mitotic spindle organization	0.0544888	0
+cytosolic large ribosomal subunit	0.0523849	0.0149131
+centrosome duplication	0.0365389	0
+cytosolic small ribosomal subunit	0.0351008	0.00611701
+cytoplasm	0.0267118	0.0211231
+nucleolus	0.0160856	0.0126676
+RNA binding	0.0153666	0.0125902
+nuclear chromosome	0.0149937	0
+small ribosomal subunit	0.0143013	0
+centrosome organization	0.0135823	0
+nucleus	0.0115849	0.0152383
+proteasome-mediated ubiquitin-dependent protein catabolic process	0.0115582	0
+endopeptidase activity	0.010999	0.00182736
+neurogenesis	0.0107593	0
+microtubule associated complex	0.00998695	0
+proteolysis	0.00905484	0
+protein binding	0.00825588	0.0253508
+cellular response to DNA damage stimulus	0.00732376	0
+translational elongation	0.00689765	0.0214483
+proteasome complex	0.00655144	0.00461486
+ubiquitin-dependent protein catabolic process	0.00636502	0.00187382
+proteasome regulatory particle	0.00628512	0.00145569
+cytosolic ribosome	0.00617859	0
+proteasome core complex	0.00583238	0.0015641
+proteolysis involved in cellular protein catabolic process	0.00535301	0.0015641
+ribosome biogenesis	0.00535301	0
+threonine-type endopeptidase activity	0.00535301	0.0015641
+rRNA binding	0.00458068	0.00271007
+large ribosomal subunit	0.00388825	0.00198222
+cellular process	0.00386162	0
+ATP binding	0.00383499	0.00236937
+proteasome regulatory particle, base subcomplex	0.00378173	0.00226097
+nucleic acid binding	0.00351541	0
+negative regulation of neuron apoptotic process	0.00324909	0
+rRNA processing	0.00324909	0.00540465
+cell proliferation	0.00322246	0.00179639
+DNA repair	0.00319582	0
+DNA-(apurinic or apyrimidinic site) lyase activity	0.00314256	0
+cytosol	0.00276971	0.0281692
+hydrolase activity	0.00271645	0.00123889
+ribosomal small subunit biogenesis	0.00271645	0.00168799
+protein catabolic process	0.00258329	0
+myosin binding	0.00247676	0
+proteasome core complex, alpha-subunit complex	0.00247676	0
+mRNA binding	0.0024235	0
+lipid particle	0.00239687	0
+nucleotide binding	0.0023436	0.0023384
+proteasome regulatory particle, lid subcomplex	0.00199739	0
+translational initiation	0.00199739	0.0213244
+oogenesis	0.00197076	0
+intracellular ribonucleoprotein complex	0.0018376	0.00397993
+peripheral nervous system development	0.00181097	0
+compound eye development	0.00178434	0
+immune response	0.00178434	0
+mitotic nuclear division	0.00178434	0
+mitotic spindle assembly	0.00173107	0
+molecular_function	0.00167781	0
+insulin receptor signaling pathway	0.00162454	0.00476972
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.00159791	0.00182736
+neuronal cell body	0.00159791	0
+nuclear matrix	0.00159791	0
+oxidized purine nucleobase lesion DNA N-glycosylase activity	0.00159791	0
+regulation of cell size	0.00159791	0
+growth	0.00154465	0
+ribosome binding	0.00146475	0
+binding	0.00143812	0
+ribosomal small subunit assembly	0.00143812	0.00418125
+polytene chromosome puff	0.00141149	0
+pupariation	0.00135823	0
+cellular_component	0.0012517	0
+ATPase activity	0.00119843	0.00140924
+endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.0011718	0
+endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.0011718	0
+rRNA export from nucleus	0.0011718	0
+enzyme regulator activity	0.00114517	0
+metal ion binding	0.00114517	0.00154861
+regulation of protein catabolic process	0.00114517	0
+small-subunit processome	0.00109191	0
+DNA binding	0.00103864	0
+GTP binding	0.000985379	0
+GTPase activity	0.000958747	0
+zinc ion binding	0.000905484	0.00126986
+lateral inhibition	0.00085222	0
+translation elongation factor activity	0.00085222	0
+biological_process	0.000825588	0
+determination of adult lifespan	0.000772324	0
+integral component of membrane	0.000745692	0
+protein deubiquitination	0.000745692	0
+ubiquitin-specific protease activity	0.000745692	0
+eukaryotic translation elongation factor 1 complex	0.00071906	0
+plasma membrane	0.00071906	0.00161056
+regulation of transcription, DNA-templated	0.000665797	0
+transcription factor activity, sequence-specific DNA binding	0.000639165	0
+mRNA splicing, via spliceosome	0.000612533	0
+protein ubiquitination	0.000612533	0
+protein ubiquitination	0.000612533	0
+gene expression	0	0.0271007
+viral process	0	0.0259857
+poly(A) RNA binding	0	0.024019
+cellular protein metabolic process	0	0.0221916
+membrane	0	0.0218664
+viral life cycle	0	0.0211385
+SRP-dependent cotranslational protein targeting to membrane	0	0.0210766
+viral transcription	0	0.0210301
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	0	0.0209992
+translational termination	0	0.0209992
+extracellular exosome	0	0.0202558
+focal adhesion	0	0.0091368
+nucleoplasm	0	0.0071391
+small molecule metabolic process	0	0.00641125
+mitotic cell cycle	0	0.00585375
+small GTPase mediated signal transduction	0	0.00563694
+negative regulation of apoptotic process	0	0.00520333
+apoptotic process	0	0.00500201
+innate immune response	0	0.00494007
+axon guidance	0	0.00487812
+regulation of mRNA stability	0	0.00487812
+protein polyubiquitination	0	0.00484715
+positive regulation of canonical Wnt signaling pathway	0	0.00483167
+programmed cell death	0	0.00483167
+antigen processing and presentation of peptide antigen via MHC class I	0	0.00480069
+Fc-epsilon receptor signaling pathway	0	0.00478521
+T cell receptor signaling pathway	0	0.00478521
+Ras protein signal transduction	0	0.00476972
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	0	0.00476972
+neurotrophin TRK receptor signaling pathway	0	0.00476972
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	0	0.00476972
+regulation of apoptotic process	0	0.00476972
+regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	0	0.00476972
+stimulatory C-type lectin receptor signaling pathway	0	0.00476972
+vascular endothelial growth factor receptor signaling pathway	0	0.00476972
+MAPK cascade	0	0.00475424
+activation of MAPKK activity	0	0.00475424
+epidermal growth factor receptor signaling pathway	0	0.00475424
+fibroblast growth factor receptor signaling pathway	0	0.00475424
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	0	0.00473875
+NIK/NF-kappaB signaling	0	0.00473875
+antigen processing and presentation of exogenous peptide antigen via MHC class I	0	0.00473875
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	0	0.00473875
+negative regulation of canonical Wnt signaling pathway	0	0.00473875
+tumor necrosis factor-mediated signaling pathway	0	0.00473875
+negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	0	0.00469229
+G1/S transition of mitotic cell cycle	0	0.00466132
+cellular nitrogen compound metabolic process	0	0.00447549
+polyamine metabolic process	0	0.00442903
+regulation of cellular amino acid metabolic process	0	0.00442903
+ribosomal large subunit assembly	0	0.0040109
+cytoplasmic translation	0	0.00360826
+mitochondrion	0	0.00325208
+ribosomal large subunit biogenesis	0	0.00301979
+proteasome accessory complex	0	0.00215257
+erythrocyte differentiation	0	0.00173444
+maturation of SSU-rRNA	0	0.00170347
+endoplasmic reticulum	0	0.00157958
+protein kinase binding	0	0.00151764
+negative regulation of transcription from RNA polymerase II promoter	0	0.00148667
+osteoblast differentiation	0	0.00142472
+protein homodimerization activity	0	0.00133181
+hydrolase activity	0	0.00123889

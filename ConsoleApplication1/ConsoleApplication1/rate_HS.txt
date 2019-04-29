@@ -1,0 +1,111 @@
+protein binding	0.036225
+nucleoplasm	0.0247855
+nucleus	0.0238322
+gene expression	0.0162059
+cytoplasm	0.0152526
+RNA splicing	0.0123928
+extracellular exosome	0.0123928
+mRNA splicing, via spliceosome	0.0123928
+catalytic step 2 spliceosome	0.0114395
+cytosol	0.0104862
+membrane	0.0085796
+nucleolus	0.0085796
+poly(A) RNA binding	0.0085796
+DNA repair	0.00762631
+mitotic cell cycle	0.00762631
+small molecule metabolic process	0.00762631
+spliceosomal complex	0.00762631
+Prp19 complex	0.00667302
+binding	0.00667302
+cytoplasmic translational initiation	0.00667302
+eukaryotic 43S preinitiation complex	0.00667302
+eukaryotic 48S preinitiation complex	0.00667302
+eukaryotic translation initiation factor 3 complex	0.00667302
+eukaryotic translation initiation factor 3 complex, eIF3m	0.00667302
+formation of translation preinitiation complex	0.00667302
+nuclear speck	0.00667302
+regulation of transcription, DNA-templated	0.00667302
+regulation of translational initiation	0.00667302
+transcription, DNA-templated	0.00667302
+translation	0.00667302
+translation initiation factor activity	0.00667302
+translation initiation factor binding	0.00667302
+translational initiation	0.00667302
+DNA replication factor A complex	0.00571973
+negative regulation of apoptotic process	0.00571973
+small nuclear ribonucleoprotein complex	0.00571973
+DNA binding	0.00476644
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	0.00476644
+axon guidance	0.00476644
+focal adhesion	0.00476644
+identical protein binding	0.00476644
+negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	0.00476644
+nucleic acid binding	0.00476644
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	0.00476644
+protein polyubiquitination	0.00476644
+regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	0.00476644
+viral process	0.00476644
+double-strand break repair via nonhomologous end joining	0.00381316
+innate immune response	0.00381316
+integral component of membrane	0.00381316
+intracellular ribonucleoprotein complex	0.00381316
+mRNA processing	0.00381316
+plasma membrane	0.00381316
+regulation of mRNA stability	0.00381316
+signal transduction involved in DNA damage checkpoint	0.00381316
+ubiquitin-dependent protein catabolic process	0.00381316
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	0.00285987
+Fc-epsilon receptor signaling pathway	0.00285987
+G1/S transition of mitotic cell cycle	0.00285987
+MAPK cascade	0.00285987
+NIK/NF-kappaB signaling	0.00285987
+RNA binding	0.00285987
+RNA splicing, via transesterification reactions	0.00285987
+Ras protein signal transduction	0.00285987
+T cell receptor signaling pathway	0.00285987
+U12-type spliceosomal complex	0.00285987
+U2 snRNP	0.00285987
+activation of MAPKK activity	0.00285987
+antigen processing and presentation of exogenous peptide antigen via MHC class I	0.00285987
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	0.00285987
+antigen processing and presentation of peptide antigen via MHC class I	0.00285987
+apoptotic process	0.00285987
+cellular nitrogen compound metabolic process	0.00285987
+chromatin organization	0.00285987
+endopeptidase activity	0.00285987
+enzyme binding	0.00285987
+epidermal growth factor receptor signaling pathway	0.00285987
+extracellular space	0.00285987
+fibroblast growth factor receptor signaling pathway	0.00285987
+insulin receptor signaling pathway	0.00285987
+intracellular	0.00285987
+mitochondrion	0.00285987
+myelin sheath	0.00285987
+negative regulation of canonical Wnt signaling pathway	0.00285987
+negative regulation of protein catabolic process	0.00285987
+neurotrophin TRK receptor signaling pathway	0.00285987
+nucleotide-excision repair	0.00285987
+oxidation-reduction process	0.00285987
+perinuclear region of cytoplasm	0.00285987
+polyamine metabolic process	0.00285987
+positive regulation of canonical Wnt signaling pathway	0.00285987
+positive regulation of mRNA splicing, via spliceosome	0.00285987
+programmed cell death	0.00285987
+proteasome complex	0.00285987
+proteasome core complex	0.00285987
+proteasome core complex, alpha-subunit complex	0.00285987
+protein complex	0.00285987
+protein complex assembly	0.00285987
+protein kinase binding	0.00285987
+proteolysis involved in cellular protein catabolic process	0.00285987
+regulation of apoptotic process	0.00285987
+regulation of cellular amino acid metabolic process	0.00285987
+small GTPase mediated signal transduction	0.00285987
+spindle	0.00285987
+stimulatory C-type lectin receptor signaling pathway	0.00285987
+threonine-type endopeptidase activity	0.00285987
+transcription-coupled nucleotide-excision repair	0.00285987
+tumor necrosis factor-mediated signaling pathway	0.00285987
+ubiquitin-protein transferase activity	0.00285987
+vascular endothelial growth factor receptor signaling pathway	0.00285987
+viral nucleocapsid	0.00285987

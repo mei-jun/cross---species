@@ -1,0 +1,100 @@
+protein binding	0.0483271
+cytoplasm	0.0354045
+membrane	0.0336343
+extracellular exosome	0.0319231
+nucleus	0.0305069
+poly(A) RNA binding	0.0289727
+structural constituent of ribosome	0.0208887
+translation	0.0198855
+nucleolus	0.015932
+focal adhesion	0.015637
+ribosome	0.0149289
+nucleoplasm	0.0146339
+intracellular	0.0126276
+RNA binding	0.0116835
+cytosolic large ribosomal subunit	0.0107984
+proteasome complex	0.00967723
+proteasome accessory complex	0.00950021
+cytosolic small ribosomal subunit	0.00932318
+ATP binding	0.00902815
+cytosol	0.00684487
+intracellular ribonucleoprotein complex	0.00684487
+small ribosomal subunit	0.00678586
+proteasome regulatory particle, base subcomplex	0.00613678
+proteasome regulatory particle	0.00560571
+molecular_function	0.00519266
+transcription, DNA-templated	0.00483861
+nuclear proteasome complex	0.00424854
+cytosolic proteasome complex	0.00413052
+proteasome-mediated ubiquitin-dependent protein catabolic process	0.00413052
+catalytic step 2 spliceosome	0.00401251
+hydrolase activity	0.00383549
+mitochondrion	0.00371747
+metal ion binding	0.00359946
+nucleotide binding	0.00359946
+rRNA binding	0.00348144
+rRNA processing	0.00342243
+ER-associated ubiquitin-dependent protein catabolic process	0.00336343
+TBP-class protein binding	0.00336343
+positive regulation of RNA polymerase II transcriptional preinitiation complex assembly	0.00336343
+positive regulation of proteasomal protein catabolic process	0.00336343
+proteasome-activating ATPase activity	0.00336343
+protein catabolic process	0.00336343
+nucleic acid binding	0.00330442
+positive regulation of cell proliferation	0.00330442
+ribosomal large subunit assembly	0.00330442
+DNA binding	0.0031274
+metabolic process	0.00306839
+proteasome regulatory particle, lid subcomplex	0.00306839
+protein complex	0.00306839
+translation initiation factor activity	0.00306839
+regulation of translational initiation	0.00300938
+cytoplasmic ribonucleoprotein granule	0.00295037
+eukaryotic 43S preinitiation complex	0.00295037
+eukaryotic 48S preinitiation complex	0.00295037
+eukaryotic translation initiation factor 3 complex	0.00295037
+formation of translation preinitiation complex	0.00295037
+U5 snRNP	0.00289137
+translational elongation	0.00289137
+ubiquitin-dependent protein catabolic process	0.00283236
+proteasome assembly	0.00277335
+identical protein binding	0.00271434
+extracellular space	0.00265534
+nuclear chromatin	0.00265534
+translational initiation	0.00265534
+myelin sheath	0.00253732
+binding	0.00247831
+negative regulation of apoptotic process	0.00247831
+BAF-type complex	0.0023603
+aminoacyl-tRNA synthetase multienzyme complex	0.0023603
+enzyme binding	0.0023603
+mRNA binding	0.0023603
+mRNA splicing, via spliceosome	0.0023603
+regulation of transcription, DNA-templated	0.00230129
+transcription factor binding	0.00230129
+endopeptidase activity	0.00224228
+chromatin remodeling	0.00218328
+negative regulation of transcription from RNA polymerase II promoter	0.00218328
+nuclear speck	0.00218328
+SWI/SNF complex	0.00212427
+eukaryotic translation initiation factor 3 complex, eIF3m	0.00212427
+plasma membrane	0.00212427
+protein kinase binding	0.00212427
+cell body	0.00206526
+ribosomal small subunit assembly	0.00200625
+translation regulator activity	0.00200625
+ATP-dependent chromatin remodeling	0.00194725
+RNA polymerase II core promoter proximal region sequence-specific DNA binding	0.00194725
+chromatin binding	0.00194725
+negative regulation of transcription, DNA-templated	0.00194725
+zinc ion binding	0.00194725
+npBAF complex	0.00188824
+polysome	0.00188824
+aminoacyl-tRNA ligase activity	0.00182923
+positive regulation of transcription from RNA polymerase II promoter	0.00182923
+regulation of translation	0.00182923
+tRNA aminoacylation for protein translation	0.00182923
+U1 snRNP	0.00177022
+dendrite	0.00177022
+regulation of protein catabolic process	0.00177022
+vesicle	0.00177022

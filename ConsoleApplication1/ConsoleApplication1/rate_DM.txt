@@ -1,0 +1,138 @@
+protein binding	0.0303282
+nucleus	0.0294973
+cytoplasm	0.0220191
+neurogenesis	0.0157873
+nucleic acid binding	0.0153718
+microtubule associated complex	0.0132946
+mRNA splicing, via spliceosome	0.0112173
+zinc ion binding	0.0112173
+precatalytic spliceosome	0.0103864
+catalytic step 2 spliceosome	0.00997092
+mitotic spindle organization	0.00997092
+ATP binding	0.00955546
+lipid particle	0.00955546
+DNA binding	0.00872455
+plasma membrane	0.0083091
+mitochondrion	0.00789364
+proteasome-mediated ubiquitin-dependent protein catabolic process	0.00789364
+endopeptidase activity	0.00747819
+oogenesis	0.00747819
+regulation of transcription, DNA-templated	0.00747819
+binding	0.00706273
+catalytic activity	0.00706273
+U2 snRNP	0.00664728
+metal ion binding	0.00664728
+proteasome core complex	0.00664728
+proteolysis involved in cellular protein catabolic process	0.00664728
+spliceosomal complex	0.00664728
+threonine-type endopeptidase activity	0.00664728
+cytosol	0.00623182
+regulation of cell cycle	0.00623182
+cell proliferation	0.00581637
+metabolic process	0.00581637
+positive regulation of transcription, DNA-templated	0.00581637
+proteolysis	0.00581637
+ubiquitin-dependent protein catabolic process	0.00581637
+nucleotide binding	0.00540091
+determination of adult lifespan	0.00498546
+proteasome complex	0.00498546
+cellular process	0.00457
+cellular response to DNA damage stimulus	0.00457
+intracellular protein transport	0.00457
+chromatin binding	0.00415455
+endoplasmic reticulum	0.00415455
+mRNA binding	0.00415455
+small nuclear ribonucleoprotein complex	0.00415455
+transcription factor activity, sequence-specific DNA binding	0.00415455
+glycolytic process	0.00373909
+phagocytosis	0.00373909
+proteasome core complex, alpha-subunit complex	0.00373909
+protein folding	0.00373909
+transcription, DNA-templated	0.00373909
+damaged DNA binding	0.00332364
+imaginal disc-derived leg morphogenesis	0.00332364
+mitotic G2 DNA damage checkpoint	0.00332364
+oxidation-reduction process	0.00332364
+oxidoreductase activity	0.00332364
+polytene chromosome	0.00332364
+protein dimerization activity	0.00332364
+protein transporter activity	0.00332364
+protein ubiquitination	0.00332364
+structural molecule activity	0.00332364
+translation initiation factor activity	0.00332364
+unfolded protein binding	0.00332364
+DNA-directed RNA polymerase I complex	0.00290818
+DNA-directed RNA polymerase activity	0.00290818
+Golgi organization	0.00290818
+Golgi stack	0.00290818
+actin binding	0.00290818
+imaginal disc-derived wing margin morphogenesis	0.00290818
+membrane	0.00290818
+mitotic spindle elongation	0.00290818
+perinuclear region of cytoplasm	0.00290818
+sperm individualization	0.00290818
+transcription from RNA polymerase I promoter	0.00290818
+translational initiation	0.00290818
+ubiquitin-protein transferase activity	0.00290818
+GTP binding	0.00249273
+GTPase activity	0.00249273
+Golgi membrane	0.00249273
+Golgi vesicle transport	0.00249273
+RNA binding	0.00249273
+border follicle cell migration	0.00249273
+calcium ion binding	0.00249273
+cell morphogenesis	0.00249273
+dendrite morphogenesis	0.00249273
+hydrolase activity	0.00249273
+mitotic spindle assembly	0.00249273
+protein complex	0.00249273
+vesicle docking involved in exocytosis	0.00249273
+vesicle fusion with Golgi apparatus	0.00249273
+DNA endoreduplication	0.00207727
+M band	0.00207727
+PBAF complex	0.00207727
+Z disc	0.00207727
+acetoacetyl-CoA reductase activity	0.00207727
+actin filament organization	0.00207727
+acyl-CoA metabolic process	0.00207727
+androgen metabolic process	0.00207727
+cell competition in a multicellular organism	0.00207727
+cellular_component	0.00207727
+ecdysone metabolic process	0.00207727
+embryo development ending in birth or egg hatching	0.00207727
+embryonic pattern specification	0.00207727
+endocytosis	0.00207727
+estradiol 17-beta-dehydrogenase activity	0.00207727
+estrogen metabolic process	0.00207727
+euchromatin	0.00207727
+eukaryotic translation initiation factor 3 complex	0.00207727
+fatty acid metabolic process	0.00207727
+gene silencing	0.00207727
+heterochromatin	0.00207727
+histone locus body	0.00207727
+imaginal disc-derived wing vein specification	0.00207727
+intracellular ribonucleoprotein complex	0.00207727
+mRNA processing	0.00207727
+mitochondrial matrix	0.00207727
+mitotic nuclear division	0.00207727
+myoblast fusion	0.00207727
+negative regulation of Notch signaling pathway	0.00207727
+negative regulation of chromatin silencing	0.00207727
+negative regulation of transcription, DNA-templated	0.00207727
+positive regulation of JAK-STAT cascade	0.00207727
+positive regulation of NFAT protein import into nucleus	0.00207727
+positive regulation of cell growth	0.00207727
+positive regulation of developmental growth	0.00207727
+positive regulation of growth	0.00207727
+positive regulation of multicellular organism growth	0.00207727
+regulation of apoptotic process	0.00207727
+regulation of autophagy	0.00207727
+regulation of cell growth	0.00207727
+regulation of cell size	0.00207727
+regulation of imaginal disc-derived wing size	0.00207727
+regulation of organ growth	0.00207727
+response to oxidative stress	0.00207727
+signal transduction	0.00207727
+steroid dehydrogenase activity	0.00207727
+steroid metabolic process	0.00207727
+testosterone dehydrogenase (NAD+) activity	0.00207727

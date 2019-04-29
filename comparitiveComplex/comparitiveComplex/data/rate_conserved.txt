@@ -1,0 +1,2080 @@
+'de novo' UMP biosynthetic process	#0.000123889
+'de novo' posttranslational protein folding	#0.000154861
+'de novo' protein folding	#9.29167e-05
+'de novo' pyrimidine nucleobase biosynthetic process	#0.000123889
+ADP binding	#1.54861e-05
+ADP-dependent NAD(P)H-hydrate dehydratase activity	#1.54861e-05
+AMP binding	#3.09722e-05
+AMP salvage	#3.09722e-05
+ASAP complex	#3.09722e-05
+AT DNA binding	#3.09722e-05
+ATP binding	#0.00236937
+ATP biosynthetic process	#7.74305e-05
+ATP hydrolysis coupled proton transport	#4.64583e-05
+ATP hydrolysis coupled transmembrane transport	#0.000108403
+ATP metabolic process	#0.000139375
+ATP synthesis coupled electron transport	#3.09722e-05
+ATP synthesis coupled proton transport	#6.19444e-05
+ATP-dependent NAD(P)H-hydrate dehydratase activity	#1.54861e-05
+ATP-dependent RNA helicase activity	#0.000247778
+ATP-dependent chromatin remodeling	#3.09722e-05
+ATP-dependent protein binding	#3.09722e-05
+ATPase activator activity	#0.000123889
+ATPase activity	#0.00140924
+ATPase activity, coupled	#0.000108403
+ATPase activity, coupled to transmembrane movement of substances	#3.09722e-05
+ATPase binding	#0.000325208
+Ada2/Gcn5/Ada3 transcription activator complex	#1.54861e-05
+BAT3 complex binding	#1.54861e-05
+C-rich single-stranded DNA binding	#3.09722e-05
+C2H2 zinc finger domain binding	#3.09722e-05
+C3HC4-type RING finger domain binding	#0.000108403
+CAF-1 complex	#1.54861e-05
+CD4-positive, alpha-beta T cell activation	#1.54861e-05
+CENP-A containing nucleosome assembly	#1.54861e-05
+COP9 signalosome	#3.09722e-05
+COPII vesicle coating	#0.000123889
+COPII-coated vesicle budding	#9.29167e-05
+CRD-mediated mRNA stability complex	#1.54861e-05
+CRD-mediated mRNA stabilization	#1.54861e-05
+CTP binding	#1.54861e-05
+CTP biosynthetic process	#0.000108403
+CURI complex	#0.00091368
+Cajal body	#0.00027875
+Cul4-RING E3 ubiquitin ligase complex	#3.09722e-05
+Cul4A-RING E3 ubiquitin ligase complex	#1.54861e-05
+Cul4B-RING E3 ubiquitin ligase complex	#1.54861e-05
+D-glucuronate catabolic process	#1.54861e-05
+DBIRD complex	#6.19444e-05
+DNA binding	#0.00105306
+DNA binding, bending	#3.09722e-05
+DNA clamp loader activity	#3.09722e-05
+DNA damage response, detection of DNA damage	#0.000464583
+DNA damage response, signal transduction by p53 class mediator	#1.54861e-05
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	#0.00473875
+DNA deamination	#7.74305e-05
+DNA metabolic process	#3.09722e-05
+DNA repair	#0.000727847
+DNA replication	#4.64583e-05
+DNA replication factor A complex	#0.000108403
+DNA replication factor C complex	#3.09722e-05
+DNA replication-dependent nucleosome assembly	#1.54861e-05
+DNA replication-independent nucleosome assembly	#1.54861e-05
+DNA strand elongation involved in DNA replication	#3.09722e-05
+DNA-dependent ATPase activity	#1.54861e-05
+DNA-dependent DNA replication	#4.64583e-05
+DNA-directed DNA polymerase activity	#1.54861e-05
+DNA-directed RNA polymerase I complex	#3.09722e-05
+DNA-directed RNA polymerase II, core complex	#7.74305e-05
+DNA-directed RNA polymerase III complex	#1.54861e-05
+DNA-directed RNA polymerase activity	#9.29167e-05
+ER to Golgi transport vesicle	#7.74305e-05
+ER to Golgi transport vesicle membrane	#9.29167e-05
+ER to Golgi vesicle-mediated transport	#0.000216806
+ER-associated ubiquitin-dependent protein catabolic process	#0.00120792
+ER-mitochondrion membrane contact site	#6.19444e-05
+ERAD pathway	#1.54861e-05
+ESC/E(Z) complex	#1.54861e-05
+ESCRT II complex	#1.54861e-05
+Elongator holoenzyme complex	#0.000108403
+F-actin capping protein complex	#1.54861e-05
+FFAT motif binding	#9.29167e-05
+FK506 binding	#0.000123889
+Fc-epsilon receptor signaling pathway	#0.00478521
+Fc-gamma receptor signaling pathway involved in phagocytosis	#6.19444e-05
+G-protein beta/gamma-subunit complex binding	#3.09722e-05
+G-protein coupled receptor binding	#0.000139375
+G-protein coupled receptor signaling pathway	#3.09722e-05
+G-protein coupled serotonin receptor binding	#3.09722e-05
+G1/S transition of mitotic cell cycle	#0.00466132
+G2/M transition of mitotic cell cycle	#0.000402639
+GAIT complex	#0.000944653
+GDP binding	#3.09722e-05
+GTP binding	#0.000650417
+GTP biosynthetic process	#0.000108403
+GTPase activating protein binding	#7.74305e-05
+GTPase activity	#0.000619444
+GTPase binding	#4.64583e-05
+Golgi apparatus	#0.000511042
+Golgi membrane	#0.000263264
+Golgi organization	#4.64583e-05
+Golgi stack	#1.54861e-05
+Golgi-associated vesicle	#1.54861e-05
+Hsp70 protein binding	#0.000108403
+Hsp90 protein binding	#4.64583e-05
+I-kappaB kinase/NF-kappaB signaling	#0.000309722
+IRE1-mediated unfolded protein response	#0.000123889
+IgE binding	#1.54861e-05
+JAK-STAT cascade	#1.54861e-05
+JNK cascade	#0.000309722
+K63-linked polyubiquitin binding	#3.09722e-05
+L-ascorbic acid biosynthetic process	#1.54861e-05
+L-ascorbic acid metabolic process	#1.54861e-05
+L-asparagine biosynthetic process	#1.54861e-05
+L-dopa decarboxylase activator activity	#1.54861e-05
+L-glucuronate reductase activity	#1.54861e-05
+L-lactate dehydrogenase activity	#0.000123889
+L-phenylalanine catabolic process	#1.54861e-05
+MAPK cascade	#0.00475424
+MHC class I protein binding	#4.64583e-05
+MHC class II protein complex binding	#0.000108403
+MLL1 complex	#3.09722e-05
+MLL5-L complex	#1.54861e-05
+Mpp10 complex	#9.29167e-05
+MyD88-dependent toll-like receptor signaling pathway	#0.000340694
+MyD88-independent toll-like receptor signaling pathway	#0.000309722
+N-acetyltransferase activity	#4.64583e-05
+N-terminal peptidyl-methionine acetylation	#3.09722e-05
+N-terminal protein amino acid acetylation	#3.09722e-05
+N6-methyladenosine-containing RNA binding	#1.54861e-05
+NAD binding	#0.000232292
+NAD metabolic process	#9.29167e-05
+NADH binding	#1.54861e-05
+NADH dehydrogenase (ubiquinone) activity	#0.000139375
+NADH dehydrogenase activity	#6.19444e-05
+NADP binding	#7.74305e-05
+NADPH binding	#1.54861e-05
+NELF complex	#7.74305e-05
+NIK/NF-kappaB signaling	#0.00473875
+NLS-bearing protein import into nucleus	#3.09722e-05
+NURF complex	#1.54861e-05
+NatA complex	#3.09722e-05
+Notch receptor processing	#0.000309722
+Notch signaling pathway	#0.00114597
+NuRD complex	#1.54861e-05
+PDZ domain binding	#1.54861e-05
+PERK-mediated unfolded protein response	#3.09722e-05
+PML body	#3.09722e-05
+Prp19 complex	#0.000201319
+RNA binding	#0.0125902
+RNA catabolic process	#0.000216806
+RNA helicase activity	#0.000170347
+RNA metabolic process	#0.000170347
+RNA nuclear export complex	#1.54861e-05
+RNA polymerase I activity	#3.09722e-05
+RNA polymerase I transcription factor binding	#1.54861e-05
+RNA polymerase I transcriptional preinitiation complex assembly at the promoter for the nuclear large rRNA transcript	#1.54861e-05
+RNA polymerase II activity	#7.74305e-05
+RNA polymerase II core binding	#6.19444e-05
+RNA polymerase II core promoter proximal region sequence-specific DNA binding	#6.19444e-05
+RNA polymerase II distal enhancer sequence-specific DNA binding	#3.09722e-05
+RNA polymerase II regulatory region sequence-specific DNA binding	#1.54861e-05
+RNA polymerase II transcription cofactor activity	#1.54861e-05
+RNA polymerase III activity	#1.54861e-05
+RNA processing	#0.000464583
+RNA secondary structure unwinding	#0.000232292
+RNA splicing	#0.000898194
+RNA splicing, via transesterification reactions	#0.000154861
+RNA stem-loop binding	#1.54861e-05
+RNA transmembrane transporter activity	#1.54861e-05
+RNA-dependent ATPase activity	#3.09722e-05
+RNA-dependent DNA replication	#3.09722e-05
+RNA-directed RNA polymerase activity	#3.09722e-05
+RS domain binding	#1.54861e-05
+Rac GTPase binding	#1.54861e-05
+Ran GTPase binding	#6.19444e-05
+Ran protein signal transduction	#1.54861e-05
+Ras protein signal transduction	#0.00476972
+Rho GDP-dissociation inhibitor binding	#1.54861e-05
+Rho protein signal transduction	#6.19444e-05
+SAGA-type complex	#1.54861e-05
+SMAD binding	#6.19444e-05
+SMAD protein complex assembly	#4.64583e-05
+SMN-Sm protein complex	#1.54861e-05
+SREBP signaling pathway	#1.54861e-05
+SRP-dependent cotranslational protein targeting to membrane	#0.0210766
+Sec61 translocon complex	#6.19444e-05
+Set1C/COMPASS complex	#3.09722e-05
+Sin3 complex	#1.54861e-05
+T cell activation	#4.64583e-05
+T cell proliferation	#6.19444e-05
+T cell receptor complex	#1.54861e-05
+T cell receptor signaling pathway	#0.00478521
+TBP-class protein binding	#0.001115
+TFIID-class transcription factor binding	#0.000170347
+TORC2 complex	#0.000882708
+TPR domain binding	#3.09722e-05
+TRIF-dependent toll-like receptor signaling pathway	#0.000309722
+Type II pneumocyte differentiation	#1.54861e-05
+U1 snRNA binding	#3.09722e-05
+U1 snRNP	#3.09722e-05
+U12-type spliceosomal complex	#6.19444e-05
+U2 snRNA binding	#6.19444e-05
+U2 snRNP	#9.29167e-05
+U2-type prespliceosome	#4.64583e-05
+U2-type spliceosomal complex	#3.09722e-05
+U4 snRNA 3'-end processing	#7.74305e-05
+U4 snRNA binding	#7.74305e-05
+U4 snRNP	#6.19444e-05
+U4/U6 snRNP	#3.09722e-05
+U4/U6 x U5 tri-snRNP complex	#7.74305e-05
+U4atac snRNA binding	#1.54861e-05
+U4atac snRNP	#1.54861e-05
+U5 snRNA binding	#3.09722e-05
+U5 snRNP	#4.64583e-05
+U6 snRNA binding	#0.000108403
+U6 snRNP	#4.64583e-05
+U7 snRNA binding	#1.54861e-05
+U7 snRNP	#1.54861e-05
+UBC13-UEV1A complex	#3.09722e-05
+UDP-N-acetylglucosamine biosynthetic process	#7.74305e-05
+UDP-N-acetylglucosamine metabolic process	#7.74305e-05
+UTP binding	#1.54861e-05
+UTP biosynthetic process	#0.000232292
+UTP-C complex	#0.00091368
+UV protection	#3.09722e-05
+UV-damage excision repair	#1.54861e-05
+VCP-NSFL1C complex	#1.54861e-05
+WD40-repeat domain binding	#6.19444e-05
+Wnt signaling pathway	#7.74305e-05
+Z disc	#0.000123889
+acetyltransferase activity	#3.09722e-05
+acrosomal vesicle	#3.09722e-05
+actin binding	#0.000216806
+actin cytoskeleton	#0.000108403
+actin cytoskeleton organization	#0.000108403
+actin filament binding	#3.09722e-05
+actin filament depolymerization	#4.64583e-05
+actin filament organization	#3.09722e-05
+actinin binding	#3.09722e-05
+activation of MAPK activity	#0.000309722
+activation of MAPKK activity	#0.00475424
+activation of anaphase-promoting complex activity	#1.54861e-05
+activation of protein kinase B activity	#1.54861e-05
+activation of protein kinase activity	#1.54861e-05
+activin binding	#4.64583e-05
+acute-phase response	#3.09722e-05
+adenine binding	#3.09722e-05
+adenine metabolic process	#3.09722e-05
+adenine phosphoribosyltransferase activity	#3.09722e-05
+adenine salvage	#3.09722e-05
+adenine transport	#3.09722e-05
+adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway	#3.09722e-05
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	#3.09722e-05
+adherens junction organization	#1.54861e-05
+adrenergic receptor binding	#1.54861e-05
+adult locomotory behavior	#1.54861e-05
+aerobic respiration	#0.000139375
+age-dependent response to oxidative stress	#1.54861e-05
+age-dependent response to reactive oxygen species	#1.54861e-05
+aggresome	#3.09722e-05
+aging	#0.000232292
+aldehyde catabolic process	#3.09722e-05
+alditol:NADP+ 1-oxidoreductase activity	#3.09722e-05
+alpha-beta T cell differentiation	#0.000867222
+alternative mRNA splicing, via spliceosome	#1.54861e-05
+amino acid binding	#0.000201319
+aminoacyl-tRNA ligase activity	#1.54861e-05
+aminoacyl-tRNA synthetase multienzyme complex	#1.54861e-05
+aminoacylase activity	#3.09722e-05
+aminomethyltransferase activity	#1.54861e-05
+amyloid fibril formation	#4.64583e-05
+anaphase-promoting complex	#3.09722e-05
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	#0.00476972
+anatomical structure morphogenesis	#3.09722e-05
+androgen receptor binding	#3.09722e-05
+androgen receptor signaling pathway	#7.74305e-05
+angiogenesis	#4.64583e-05
+anion channel activity	#3.09722e-05
+anion transmembrane transport	#3.09722e-05
+anion transport	#6.19444e-05
+antigen processing and presentation of exogenous peptide antigen via MHC class I	#0.00473875
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	#0.00473875
+antigen processing and presentation of exogenous peptide antigen via MHC class II	#0.000123889
+antigen processing and presentation of peptide antigen via MHC class I	#0.00480069
+antioxidant activity	#3.09722e-05
+apical part of cell	#9.29167e-05
+apical plasma membrane	#9.29167e-05
+apolipoprotein binding	#6.19444e-05
+apoptotic DNA fragmentation	#1.54861e-05
+apoptotic chromosome condensation	#3.09722e-05
+apoptotic mitochondrial changes	#4.64583e-05
+apoptotic process	#0.00500201
+apoptotic process involved in morphogenesis	#1.54861e-05
+apoptotic signaling pathway	#0.000325208
+arachidonic acid metabolic process	#7.74305e-05
+arginine biosynthetic process	#0.000123889
+arsenite transmembrane transporter activity	#4.64583e-05
+asparagine biosynthetic process	#1.54861e-05
+asparagine metabolic process	#1.54861e-05
+asparagine synthase (glutamine-hydrolyzing) activity	#1.54861e-05
+aspartate binding	#0.000123889
+aspartate carbamoyltransferase activity	#0.000123889
+assembly of large subunit precursor of preribosome	#0.000882708
+astral microtubule organization	#1.54861e-05
+auditory receptor cell differentiation	#1.54861e-05
+autophagosome assembly	#3.09722e-05
+autophagosome membrane	#4.64583e-05
+autophagy	#6.19444e-05
+axon	#0.000108403
+axon guidance	#0.00487812
+axon terminus	#7.74305e-05
+bHLH transcription factor binding	#0.000139375
+barbed-end actin filament capping	#1.54861e-05
+base-excision repair	#3.09722e-05
+basolateral plasma membrane	#9.29167e-05
+behavioral fear response	#3.09722e-05
+bicellular tight junction	#9.29167e-05
+bile acid biosynthetic process	#1.54861e-05
+bile acid metabolic process	#1.54861e-05
+binding	#0.000882708
+binding of sperm to zona pellucida	#0.000185833
+biological_process	#0.000294236
+bisphosphoglycerate 2-phosphatase activity	#4.64583e-05
+bisphosphoglycerate mutase activity	#4.64583e-05
+blastocyst development	#0.00027875
+blastocyst formation	#0.000929167
+blood coagulation	#0.000418125
+blood coagulation, intrinsic pathway	#1.54861e-05
+blood microparticle	#0.000433611
+bone development	#1.54861e-05
+box C/D snoRNA 3'-end processing	#0.000123889
+box C/D snoRNP complex	#0.000170347
+box H/ACA scaRNP complex	#1.54861e-05
+box H/ACA snoRNA binding	#1.54861e-05
+box H/ACA snoRNP complex	#1.54861e-05
+box H/ACA telomerase RNP complex	#1.54861e-05
+brain development	#7.74305e-05
+brush border	#4.64583e-05
+brush border membrane	#1.54861e-05
+calcium channel complex	#4.64583e-05
+calcium channel inhibitor activity	#4.64583e-05
+calcium ion binding	#0.000232292
+calcium ion transmembrane transport	#9.29167e-05
+calcium-dependent cysteine-type endopeptidase activity	#1.54861e-05
+calcium-dependent protein binding	#4.64583e-05
+calcium-mediated signaling using intracellular calcium source	#4.64583e-05
+camera-type eye development	#3.09722e-05
+canonical glycolysis	#0.000216806
+carbamoyl-phosphate synthase (ammonia) activity	#0.000123889
+carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	#0.000123889
+carbohydrate binding	#0.000185833
+carbohydrate derivative biosynthetic process	#7.74305e-05
+carbohydrate metabolic process	#0.00102208
+carboxyl- or carbamoyltransferase activity	#0.000123889
+carboxylic acid metabolic process	#0.000123889
+cardiac muscle cell apoptotic process	#1.54861e-05
+cardiolipin binding	#1.54861e-05
+cargo loading into COPII-coated vesicle	#3.09722e-05
+catalase activity	#3.09722e-05
+catalytic activity	#0.000340694
+catalytic step 2 spliceosome	#0.000449097
+cation channel activity	#1.54861e-05
+cation transmembrane transport	#1.54861e-05
+caveola	#0.000108403
+cell adhesion	#0.000201319
+cell adhesion molecule binding	#4.64583e-05
+cell aging	#3.09722e-05
+cell body	#0.00103757
+cell communication by electrical coupling involved in cardiac conduction	#4.64583e-05
+cell cortex	#3.09722e-05
+cell cycle	#0.000170347
+cell cycle arrest	#1.54861e-05
+cell death	#9.29167e-05
+cell differentiation	#0.00091368
+cell division	#0.000139375
+cell growth	#4.64583e-05
+cell junction assembly	#1.54861e-05
+cell migration	#4.64583e-05
+cell morphogenesis	#1.54861e-05
+cell periphery	#0.000123889
+cell projection	#0.000247778
+cell proliferation	#0.00179639
+cell proliferation in forebrain	#3.09722e-05
+cell recognition	#1.54861e-05
+cell redox homeostasis	#1.54861e-05
+cell separation after cytokinesis	#3.09722e-05
+cell surface	#0.000139375
+cell surface receptor signaling pathway	#0.000309722
+cell-cell adherens junction	#3.09722e-05
+cell-cell junction	#6.19444e-05
+cell-cell junction organization	#1.54861e-05
+cell-substrate junction	#1.54861e-05
+cellular aldehyde metabolic process	#3.09722e-05
+cellular amino acid biosynthetic process	#1.54861e-05
+cellular amino acid metabolic process	#0.000154861
+cellular calcium ion homeostasis	#1.54861e-05
+cellular carbohydrate metabolic process	#1.54861e-05
+cellular component disassembly involved in execution phase of apoptosis	#6.19444e-05
+cellular copper ion homeostasis	#3.09722e-05
+cellular iron ion homeostasis	#1.54861e-05
+cellular lipid metabolic process	#0.000139375
+cellular metabolic process	#0.000542014
+cellular nitrogen compound metabolic process	#0.00447549
+cellular oxidant detoxification	#0.000108403
+cellular potassium ion homeostasis	#0.000108403
+cellular process	#1.54861e-05
+cellular protein complex localization	#1.54861e-05
+cellular protein localization	#4.64583e-05
+cellular protein metabolic process	#0.0221916
+cellular protein modification process	#0.000387153
+cellular respiration	#3.09722e-05
+cellular response to DNA damage stimulus	#0.000216806
+cellular response to UV	#1.54861e-05
+cellular response to UV-A	#1.54861e-05
+cellular response to UV-B	#3.09722e-05
+cellular response to amino acid starvation	#1.54861e-05
+cellular response to amino acid stimulus	#3.09722e-05
+cellular response to antibiotic	#3.09722e-05
+cellular response to arsenic-containing substance	#1.54861e-05
+cellular response to brain-derived neurotrophic factor stimulus	#3.09722e-05
+cellular response to carcinoembryonic antigen	#1.54861e-05
+cellular response to drug	#0.000154861
+cellular response to epidermal growth factor stimulus	#0.000464583
+cellular response to ethanol	#1.54861e-05
+cellular response to fatty acid	#6.19444e-05
+cellular response to fibroblast growth factor stimulus	#6.19444e-05
+cellular response to forskolin	#3.09722e-05
+cellular response to glucose starvation	#1.54861e-05
+cellular response to glucose stimulus	#9.29167e-05
+cellular response to glyoxal	#1.54861e-05
+cellular response to growth factor stimulus	#9.29167e-05
+cellular response to heat	#0.000232292
+cellular response to hormone stimulus	#1.54861e-05
+cellular response to hydrogen peroxide	#1.54861e-05
+cellular response to hypoxia	#0.000309722
+cellular response to insulin stimulus	#0.000139375
+cellular response to interferon-gamma	#0.000944653
+cellular response to interleukin-1	#7.74305e-05
+cellular response to interleukin-2	#6.19444e-05
+cellular response to leucine	#1.54861e-05
+cellular response to lipopolysaccharide	#0.000108403
+cellular response to mineralocorticoid stimulus	#1.54861e-05
+cellular response to misfolded protein	#1.54861e-05
+cellular response to nerve growth factor stimulus	#6.19444e-05
+cellular response to organic cyclic compound	#0.000108403
+cellular response to oxidative stress	#6.19444e-05
+cellular response to oxygen levels	#3.09722e-05
+cellular response to prolactin	#6.19444e-05
+cellular response to rapamycin	#3.09722e-05
+cellular response to reactive oxygen species	#1.54861e-05
+cellular response to starvation	#6.19444e-05
+cellular response to testosterone stimulus	#3.09722e-05
+cellular response to tumor necrosis factor	#3.09722e-05
+cellular response to wortmannin	#6.19444e-05
+cellular sodium ion homeostasis	#0.000108403
+cellular_component	#1.54861e-05
+central nervous system development	#3.09722e-05
+centriole	#1.54861e-05
+centrosome	#0.00027875
+cerebellum development	#3.09722e-05
+cerebral cortex development	#4.64583e-05
+channel regulator activity	#1.54861e-05
+chaperone binding	#9.29167e-05
+chaperone mediated protein folding requiring cofactor	#6.19444e-05
+chaperone-mediated autophagy	#7.74305e-05
+chaperone-mediated autophagy translocation complex disassembly	#6.19444e-05
+chaperone-mediated protein complex assembly	#1.54861e-05
+chaperone-mediated protein folding	#0.000201319
+chaperone-mediated protein transport involved in chaperone-mediated autophagy	#6.19444e-05
+chaperonin-containing T-complex	#0.000154861
+chemoattractant activity	#1.54861e-05
+chloride channel activity	#4.64583e-05
+chloride channel complex	#4.64583e-05
+chloride transmembrane transport	#4.64583e-05
+chloride transport	#4.64583e-05
+cholestanetriol 26-monooxygenase activity	#1.54861e-05
+cholesterol metabolic process	#3.09722e-05
+chromatin	#4.64583e-05
+chromatin assembly	#1.54861e-05
+chromatin assembly or disassembly	#1.54861e-05
+chromatin binding	#7.74305e-05
+chromatin organization	#0.000154861
+chromatin remodeling	#1.54861e-05
+chromatin silencing	#1.54861e-05
+chromatin silencing at telomere	#1.54861e-05
+chromosome	#7.74305e-05
+chromosome organization	#1.54861e-05
+chromosome separation	#1.54861e-05
+chromosome, centromeric region	#1.54861e-05
+chromosome, telomeric region	#4.64583e-05
+ciliary membrane	#1.54861e-05
+cilium	#7.74305e-05
+circadian regulation of gene expression	#7.74305e-05
+circadian rhythm	#0.000387153
+citrate transmembrane transporter activity	#6.19444e-05
+citrate transport	#6.19444e-05
+clathrin coat	#3.09722e-05
+clathrin coat disassembly	#6.19444e-05
+clathrin coat of coated pit	#3.09722e-05
+clathrin coat of trans-Golgi network vesicle	#3.09722e-05
+clathrin complex	#3.09722e-05
+clathrin light chain binding	#3.09722e-05
+clathrin-coated endocytic vesicle membrane	#3.09722e-05
+clathrin-coated vesicle	#4.64583e-05
+clathrin-mediated endocytosis	#6.19444e-05
+clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane	#6.19444e-05
+cleavage furrow	#1.54861e-05
+co-translational protein modification	#1.54861e-05
+cobalamin metabolic process	#3.09722e-05
+coenzyme binding	#1.54861e-05
+cofactor binding	#1.54861e-05
+cohesin core heterodimer	#1.54861e-05
+commitment complex	#1.54861e-05
+complement activation, classical pathway	#1.54861e-05
+complement component C1q binding	#1.54861e-05
+condensed chromosome kinetochore	#1.54861e-05
+condensed chromosome outer kinetochore	#1.54861e-05
+condensed chromosome, centromeric region	#1.54861e-05
+condensed nuclear chromosome	#0.000170347
+copper chaperone activity	#4.64583e-05
+copper ion binding	#9.29167e-05
+copper ion transmembrane transport	#3.09722e-05
+copper ion transmembrane transporter activity	#3.09722e-05
+copper ion transport	#4.64583e-05
+copper-dependent protein binding	#3.09722e-05
+core promoter binding	#6.19444e-05
+core promoter proximal region DNA binding	#3.09722e-05
+core promoter sequence-specific DNA binding	#1.54861e-05
+cortical actin cytoskeleton	#0.000340694
+cortical cytoskeleton	#3.09722e-05
+costamere	#1.54861e-05
+cotranslational protein targeting to membrane	#6.19444e-05
+cullin deneddylation	#1.54861e-05
+cupric ion binding	#1.54861e-05
+cuprous ion binding	#1.54861e-05
+cyclic nucleotide binding	#4.64583e-05
+cyclosporin A binding	#1.54861e-05
+cysteine-type endopeptidase activity	#7.74305e-05
+cytochrome-c oxidase activity	#7.74305e-05
+cytokine activity	#1.54861e-05
+cytokine binding	#1.54861e-05
+cytokine-mediated signaling pathway	#0.000696875
+cytoplasm	#0.0211231
+cytoplasmic dynein complex	#3.09722e-05
+cytoplasmic exosome (RNase complex)	#7.74305e-05
+cytoplasmic mRNA processing body	#0.000572986
+cytoplasmic mRNA processing body assembly	#1.54861e-05
+cytoplasmic membrane-bounded vesicle	#0.000154861
+cytoplasmic microtubule	#6.19444e-05
+cytoplasmic ribonucleoprotein granule	#0.00083625
+cytoplasmic sequestering of NF-kappaB	#0.000232292
+cytoplasmic side of endoplasmic reticulum membrane	#4.64583e-05
+cytoplasmic side of lysosomal membrane	#0.000402639
+cytoplasmic side of plasma membrane	#1.54861e-05
+cytoplasmic stress granule	#0.000185833
+cytoplasmic translation	#0.00360826
+cytoplasmic translational initiation	#1.54861e-05
+cytoplasmic vesicle	#0.000294236
+cytoplasmic vesicle membrane	#1.54861e-05
+cytoskeletal protein binding	#3.09722e-05
+cytoskeleton	#0.000232292
+cytoskeleton organization	#4.64583e-05
+cytoskeleton-dependent intracellular transport	#1.54861e-05
+cytosol	#0.0281692
+cytosolic calcium ion homeostasis	#4.64583e-05
+cytosolic large ribosomal subunit	#0.0149131
+cytosolic proteasome complex	#0.001115
+cytosolic small ribosomal subunit	#0.00611701
+dATP binding	#1.54861e-05
+damaged DNA binding	#1.54861e-05
+daunorubicin metabolic process	#1.54861e-05
+defense response to bacterium	#3.09722e-05
+defense response to fungus	#1.54861e-05
+dendrite	#0.000882708
+dendrite cytoplasm	#6.19444e-05
+dendritic spine	#9.29167e-05
+dense fibrillar component	#0.000123889
+deoxyribonuclease activity	#1.54861e-05
+dephosphorylation	#4.64583e-05
+desmosome	#6.19444e-05
+detection of oxygen	#1.54861e-05
+detection of stimulus	#1.54861e-05
+detoxification of copper ion	#1.54861e-05
+detoxification of mercury ion	#1.54861e-05
+dihydrobiopterin metabolic process	#1.54861e-05
+dihydroorotase activity	#0.000123889
+dolichol-linked oligosaccharide biosynthetic process	#7.74305e-05
+dolichyl-diphosphooligosaccharide-protein glycotransferase activity	#6.19444e-05
+dopamine uptake involved in synaptic transmission	#1.54861e-05
+double-strand break repair	#0.000340694
+double-strand break repair via homologous recombination	#0.000340694
+double-strand break repair via nonhomologous end joining	#3.09722e-05
+double-stranded DNA binding	#3.09722e-05
+double-stranded RNA binding	#6.19444e-05
+doxorubicin metabolic process	#1.54861e-05
+drug binding	#4.64583e-05
+drug metabolic process	#0.000123889
+dynein intermediate chain binding	#1.54861e-05
+dystrophin-associated glycoprotein complex	#1.54861e-05
+early endosome	#0.000170347
+early endosome membrane	#1.54861e-05
+early endosome to late endosome transport	#1.54861e-05
+early phagosome	#1.54861e-05
+electron carrier activity	#0.000139375
+electron transport chain	#3.09722e-05
+embryonic neurocranium morphogenesis	#1.54861e-05
+embryonic viscerocranium morphogenesis	#1.54861e-05
+endocytic recycling	#1.54861e-05
+endocytic vesicle	#7.74305e-05
+endocytic vesicle lumen	#1.54861e-05
+endocytic vesicle membrane	#0.000309722
+endocytosis	#7.74305e-05
+endolysosome membrane	#3.09722e-05
+endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	#3.09722e-05
+endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	#0.000108403
+endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	#3.09722e-05
+endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	#3.09722e-05
+endopeptidase activator activity	#0.000263264
+endopeptidase activity	#0.00182736
+endopeptidase inhibitor activity	#6.19444e-05
+endoplasmic reticulum	#0.00157958
+endoplasmic reticulum exit site	#3.09722e-05
+endoplasmic reticulum lumen	#6.19444e-05
+endoplasmic reticulum membrane	#0.00063493
+endoplasmic reticulum tubular network	#1.54861e-05
+endoplasmic reticulum unfolded protein response	#0.000170347
+endoplasmic reticulum-Golgi intermediate compartment	#7.74305e-05
+endoplasmic reticulum-Golgi intermediate compartment membrane	#9.29167e-05
+endosomal transport	#0.000340694
+endosome membrane	#0.000340694
+energy reserve metabolic process	#7.74305e-05
+entry into host cell	#3.09722e-05
+enzyme active site formation via L-cysteine sulfinic acid	#1.54861e-05
+enzyme binding	#0.000572986
+enzyme inhibitor activity	#6.19444e-05
+enzyme regulator activity	#0.000526528
+enzyme-directed rRNA 2'-O-methylation	#9.29167e-05
+eosinophil chemotaxis	#1.54861e-05
+ephrin receptor signaling pathway	#4.64583e-05
+epidermal growth factor receptor signaling pathway	#0.00475424
+epithelial cell differentiation	#0.000139375
+epithelial cell proliferation	#3.09722e-05
+error-free translesion synthesis	#0.000340694
+error-prone translesion synthesis	#0.000356181
+erythrocyte development	#3.09722e-05
+erythrocyte differentiation	#0.00173444
+erythrocyte homeostasis	#1.54861e-05
+erythrophore differentiation	#1.54861e-05
+establishment of endothelial barrier	#3.09722e-05
+establishment of epithelial cell apical/basal polarity	#3.09722e-05
+establishment of integrated proviral latency	#3.09722e-05
+establishment of mitotic spindle localization	#1.54861e-05
+establishment of mitotic spindle orientation	#1.54861e-05
+establishment of protein localization	#1.54861e-05
+establishment or maintenance of transmembrane electrochemical gradient	#0.000108403
+estradiol 17-beta-dehydrogenase activity	#3.09722e-05
+estrogen biosynthetic process	#3.09722e-05
+estrogen receptor binding	#1.54861e-05
+eukaryotic 43S preinitiation complex	#4.64583e-05
+eukaryotic 48S preinitiation complex	#6.19444e-05
+eukaryotic translation elongation factor 1 complex	#0.000402639
+eukaryotic translation initiation factor 2 complex	#3.09722e-05
+eukaryotic translation initiation factor 2B complex	#1.54861e-05
+eukaryotic translation initiation factor 3 complex	#4.64583e-05
+eukaryotic translation initiation factor 3 complex, eIF3m	#4.64583e-05
+exit from mitosis	#1.54861e-05
+exon-exon junction complex	#6.19444e-05
+exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay	#9.29167e-05
+exosome (RNase complex)	#7.74305e-05
+extracellular exosome	#0.0202558
+extracellular fibril organization	#4.64583e-05
+extracellular matrix	#0.000108403
+extracellular matrix organization	#1.54861e-05
+extracellular region	#6.19444e-05
+extracellular space	#0.0010066
+extracellular vesicle	#0.000108403
+extrinsic apoptotic signaling pathway via death domain receptors	#1.54861e-05
+extrinsic component of membrane	#6.19444e-05
+extrinsic component of plasma membrane	#1.54861e-05
+fat cell differentiation	#0.000263264
+fatty acid binding	#4.64583e-05
+fatty acid elongation	#3.09722e-05
+female pregnancy	#0.000185833
+fibroblast growth factor binding	#0.000851736
+fibroblast growth factor receptor signaling pathway	#0.00475424
+filamentous actin	#1.54861e-05
+filopodium	#3.09722e-05
+focal adhesion	#0.0091368
+folic acid metabolic process	#1.54861e-05
+folic acid-containing compound biosynthetic process	#1.54861e-05
+folic acid-containing compound metabolic process	#1.54861e-05
+formate metabolic process	#1.54861e-05
+formate-tetrahydrofolate ligase activity	#1.54861e-05
+formation of translation preinitiation complex	#6.19444e-05
+free ubiquitin chain polymerization	#1.54861e-05
+fructose 1,6-bisphosphate metabolic process	#1.54861e-05
+fructose 6-phosphate metabolic process	#9.29167e-05
+fructose binding	#1.54861e-05
+fructose-6-phosphate binding	#1.54861e-05
+galactose catabolic process	#3.09722e-05
+gamma-tubulin binding	#1.54861e-05
+gene expression	#0.0271007
+gene silencing by RNA	#0.000170347
+generation of precursor metabolites and energy	#6.19444e-05
+gland morphogenesis	#3.09722e-05
+glial cell proliferation	#3.09722e-05
+glial limiting end-foot	#1.54861e-05
+global genome nucleotide-excision repair	#0.000387153
+gluconeogenesis	#0.00027875
+glucosamine biosynthetic process	#7.74305e-05
+glucose 6-phosphate metabolic process	#1.54861e-05
+glucose homeostasis	#3.09722e-05
+glucose metabolic process	#0.00063493
+glucose transport	#6.19444e-05
+glucose-6-phosphate isomerase activity	#1.54861e-05
+glucuronate catabolic process to xylulose 5-phosphate	#1.54861e-05
+glutamate-tRNA ligase activity	#1.54861e-05
+glutamine metabolic process	#0.000232292
+glutamine-fructose-6-phosphate transaminase (isomerizing) activity	#7.74305e-05
+glutamyl-tRNA aminoacylation	#1.54861e-05
+glutathione dehydrogenase (ascorbate) activity	#1.54861e-05
+glutathione derivative biosynthetic process	#3.09722e-05
+glutathione metabolic process	#4.64583e-05
+glutathione peroxidase activity	#4.64583e-05
+glutathione transferase activity	#3.09722e-05
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity	#4.64583e-05
+glycerophospholipid biosynthetic process	#1.54861e-05
+glycine catabolic process	#1.54861e-05
+glycine cleavage complex	#1.54861e-05
+glycine decarboxylation via glycine cleavage system	#1.54861e-05
+glycogen biosynthetic process	#0.000340694
+glycogen catabolic process	#3.09722e-05
+glycolate biosynthetic process	#1.54861e-05
+glycolytic process	#0.000263264
+glycolytic process through fructose-6-phosphate	#1.54861e-05
+glycoprotein binding	#6.19444e-05
+glycoprotein catabolic process	#1.54861e-05
+glyoxal catabolic process	#1.54861e-05
+glyoxalase (glycolic acid-forming) activity	#1.54861e-05
+glyoxalase III activity	#1.54861e-05
+glyoxylate metabolic process	#1.54861e-05
+granular component	#0.000123889
+grooming behavior	#3.09722e-05
+growth cone	#4.64583e-05
+growth factor activity	#1.54861e-05
+growth hormone secretion	#3.09722e-05
+guanyl nucleotide binding	#3.09722e-05
+heart development	#0.000185833
+heart morphogenesis	#4.64583e-05
+heart trabecula formation	#4.64583e-05
+heat shock protein binding	#0.000170347
+helicase activity	#0.000232292
+hematopoietic progenitor cell differentiation	#7.74305e-05
+heme binding	#4.64583e-05
+hemoglobin metabolic process	#3.09722e-05
+hemopoiesis	#1.54861e-05
+hemostasis	#1.54861e-05
+heparin binding	#0.000867222
+hepatocyte apoptotic process	#3.09722e-05
+heterochromatin	#3.09722e-05
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	#1.54861e-05
+heterotrimeric G-protein complex	#3.09722e-05
+hexose transport	#6.19444e-05
+hippo signaling	#1.54861e-05
+hippocampus development	#7.74305e-05
+histone H2A monoubiquitination	#1.54861e-05
+histone H2A ubiquitination	#1.54861e-05
+histone H3-K4 methylation	#1.54861e-05
+histone H4-K16 acetylation	#1.54861e-05
+histone H4-K5 acetylation	#1.54861e-05
+histone H4-K8 acetylation	#1.54861e-05
+histone acetyltransferase activity (H4-K16 specific)	#1.54861e-05
+histone acetyltransferase activity (H4-K5 specific)	#1.54861e-05
+histone acetyltransferase activity (H4-K8 specific)	#1.54861e-05
+histone acetyltransferase complex	#1.54861e-05
+histone binding	#1.54861e-05
+histone deacetylase binding	#4.64583e-05
+histone glutamine methylation	#0.000123889
+histone mRNA metabolic process	#1.54861e-05
+histone methyltransferase activity (H3-K4 specific)	#1.54861e-05
+histone methyltransferase complex	#1.54861e-05
+histone pre-mRNA 3'end processing complex	#1.54861e-05
+histone pre-mRNA DCP binding	#1.54861e-05
+histone-glutamine methyltransferase activity	#0.000123889
+homophilic cell adhesion via plasma membrane adhesion molecules	#1.54861e-05
+humoral immune response	#3.09722e-05
+hyaluronic acid binding	#1.54861e-05
+hydrogen ion transmembrane transport	#7.74305e-05
+hydrogen peroxide biosynthetic process	#1.54861e-05
+hydrogen peroxide catabolic process	#3.09722e-05
+hydrogen peroxide metabolic process	#3.09722e-05
+hydrolase activity	#0.00123889
+hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances	#4.64583e-05
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	#0.000139375
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides	#0.000123889
+identical protein binding	#0.00102208
+immune response	#4.64583e-05
+immunological synapse	#6.19444e-05
+importin-alpha family protein binding	#1.54861e-05
+in utero embryonic development	#7.74305e-05
+inclusion body	#0.0005575
+inflammatory response	#1.54861e-05
+innate immune response	#0.00494007
+inner cell mass cell proliferation	#3.09722e-05
+inorganic anion transport	#4.64583e-05
+insulin processing	#1.54861e-05
+insulin receptor signaling pathway	#0.00476972
+insulin secretion	#4.64583e-05
+integral component of endoplasmic reticulum membrane	#9.29167e-05
+integral component of lumenal side of endoplasmic reticulum membrane	#6.19444e-05
+integral component of membrane	#0.00102208
+integral component of plasma membrane	#0.000340694
+integrin-mediated signaling pathway	#4.64583e-05
+interaction with symbiont	#1.54861e-05
+intercalated disc	#1.54861e-05
+interleukin-2 production	#1.54861e-05
+interleukin-8 secretion	#3.09722e-05
+intermediate filament	#7.74305e-05
+intermediate filament binding	#6.19444e-05
+intermediate filament cytoskeleton	#0.000309722
+interstrand cross-link repair	#0.000309722
+intra-Golgi vesicle-mediated transport	#1.54861e-05
+intracellular	#0.0142627
+intracellular copper ion transport	#3.09722e-05
+intracellular membrane-bounded organelle	#0.000542014
+intracellular protein transport	#0.000123889
+intracellular ribonucleoprotein complex	#0.00397993
+intracellular signal transduction	#1.54861e-05
+intracellular steroid hormone receptor signaling pathway	#1.54861e-05
+intracellular transport	#3.09722e-05
+intracellular transport of virus	#0.000340694
+intralumenal vesicle formation	#1.54861e-05
+intramolecular transferase activity	#1.54861e-05
+intramolecular transferase activity, phosphotransferases	#9.29167e-05
+intrinsic apoptotic signaling pathway	#3.09722e-05
+intrinsic apoptotic signaling pathway in response to DNA damage	#4.64583e-05
+intrinsic apoptotic signaling pathway in response to oxidative stress	#1.54861e-05
+ion channel binding	#0.000170347
+ion transmembrane transport	#0.000480069
+ionotropic glutamate receptor binding	#6.19444e-05
+iron ion binding	#6.19444e-05
+iron ion homeostasis	#1.54861e-05
+iron-sulfur cluster binding	#4.64583e-05
+isocitrate dehydrogenase (NAD+) activity	#7.74305e-05
+isomerase activity	#3.09722e-05
+isotype switching	#7.74305e-05
+keratinization	#4.64583e-05
+kidney development	#6.19444e-05
+kinase activity	#1.54861e-05
+kinase binding	#0.000139375
+kinesin complex	#1.54861e-05
+kinetochore	#3.09722e-05
+kinetochore binding	#1.54861e-05
+kininogen binding	#1.54861e-05
+lactate biosynthetic process	#1.54861e-05
+lactate dehydrogenase activity	#9.29167e-05
+lactate metabolic process	#9.29167e-05
+lactation	#0.000201319
+lamellipodium	#4.64583e-05
+lamellipodium membrane	#4.64583e-05
+lamin binding	#3.09722e-05
+laminin binding	#1.54861e-05
+large ribosomal subunit	#0.00198222
+late endosomal microautophagy	#6.19444e-05
+late endosome	#0.000139375
+late endosome membrane	#1.54861e-05
+learning	#3.09722e-05
+learning or memory	#1.54861e-05
+leucine binding	#1.54861e-05
+leucine zipper domain binding	#6.19444e-05
+leukocyte cell-cell adhesion	#3.09722e-05
+leukocyte migration	#0.000170347
+leukotriene metabolic process	#3.09722e-05
+ligand-dependent nuclear receptor transcription coactivator activity	#4.64583e-05
+ligase activity	#0.000123889
+ligase activity, forming aminoacyl-tRNA and related compounds	#1.54861e-05
+lipid binding	#4.64583e-05
+lipid biosynthetic process	#3.09722e-05
+lipid localization	#1.54861e-05
+lipid metabolic process	#0.000123889
+lipid particle	#7.74305e-05
+lipid particle organization	#4.64583e-05
+lipopolysaccharide binding	#0.000263264
+lipoxygenase pathway	#4.64583e-05
+liver development	#0.000247778
+locomotory behavior	#1.54861e-05
+long-chain fatty-acyl-CoA biosynthetic process	#0.000139375
+low-density lipoprotein particle receptor binding	#4.64583e-05
+lumenal side of lysosomal membrane	#6.19444e-05
+lung development	#3.09722e-05
+lysine-acetylated histone binding	#7.74305e-05
+lysosomal lumen	#7.74305e-05
+lysosomal membrane	#0.000480069
+lysosome	#3.09722e-05
+mRNA 3'-UTR binding	#0.000139375
+mRNA 3'-end processing	#3.09722e-05
+mRNA 3'-splice site recognition	#3.09722e-05
+mRNA 5'-UTR binding	#0.000944653
+mRNA CDS binding	#3.09722e-05
+mRNA binding	#0.000991111
+mRNA cis splicing, via spliceosome	#1.54861e-05
+mRNA destabilization	#4.64583e-05
+mRNA export from nucleus	#9.29167e-05
+mRNA processing	#0.000325208
+mRNA splice site selection	#1.54861e-05
+mRNA splicing, via spliceosome	#0.000774305
+mRNA stabilization	#1.54861e-05
+mRNA transport	#0.000108403
+macroautophagy	#0.000340694
+macrolide binding	#4.64583e-05
+macromitophagy	#0.000340694
+macrophage chemotaxis	#1.54861e-05
+magnesium ion binding	#0.000201319
+male germ cell nucleus	#1.54861e-05
+male meiosis I	#1.54861e-05
+mammary gland development	#1.54861e-05
+manchette	#1.54861e-05
+manganese ion binding	#1.54861e-05
+maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	#9.29167e-05
+maturation of 5S rRNA	#1.54861e-05
+maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	#0.000108403
+maturation of SSU-rRNA	#0.00170347
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	#0.00182736
+mature ribosome assembly	#0.000247778
+mediator complex	#1.54861e-05
+mediator complex binding	#1.54861e-05
+meiotic chromosome condensation	#1.54861e-05
+meiotic cohesin complex	#1.54861e-05
+meiotic nuclear division	#1.54861e-05
+melanosome	#0.000371667
+melanosome transport	#3.09722e-05
+membrane	#0.0218664
+membrane coat	#3.09722e-05
+membrane depolarization	#1.54861e-05
+membrane fusion	#0.000108403
+membrane hyperpolarization	#1.54861e-05
+membrane invagination	#1.54861e-05
+membrane organization	#0.0005575
+membrane raft	#0.000232292
+membrane repolarization	#0.000108403
+membrane repolarization during cardiac muscle cell action potential	#1.54861e-05
+membrane to membrane docking	#3.09722e-05
+mercury ion binding	#1.54861e-05
+mesoderm formation	#1.54861e-05
+messenger ribonucleoprotein complex	#1.54861e-05
+metabolic process	#0.00116146
+metal ion binding	#0.00154861
+metal ion transport	#0.000139375
+metallochaperone activity	#3.09722e-05
+metalloendopeptidase activity	#7.74305e-05
+metallopeptidase activity	#1.54861e-05
+metaphase/anaphase transition of mitotic cell cycle	#1.54861e-05
+methylarsonate reductase activity	#1.54861e-05
+methylated histone binding	#3.09722e-05
+methylation	#0.000232292
+methylenetetrahydrofolate dehydrogenase (NADP+) activity	#1.54861e-05
+methylglyoxal biosynthetic process	#1.54861e-05
+methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	#1.54861e-05
+methylosome	#1.54861e-05
+methyltransferase activity	#0.000216806
+microtubule	#0.000201319
+microtubule binding	#0.000170347
+microtubule cytoskeleton	#0.000216806
+microtubule cytoskeleton organization	#4.64583e-05
+microtubule motor activity	#4.64583e-05
+microtubule organizing center	#0.000929167
+microtubule-based movement	#3.09722e-05
+microtubule-based process	#1.54861e-05
+microvillus	#4.64583e-05
+microvillus assembly	#1.54861e-05
+microvillus membrane	#3.09722e-05
+midbody	#7.74305e-05
+misfolded or incompletely synthesized protein catabolic process	#1.54861e-05
+misfolded protein binding	#1.54861e-05
+mitochondrial ATP synthesis coupled proton transport	#7.74305e-05
+mitochondrial calcium ion transport	#4.64583e-05
+mitochondrial electron transport, NADH to ubiquinone	#0.000108403
+mitochondrial electron transport, cytochrome c to oxygen	#4.64583e-05
+mitochondrial electron transport, ubiquinol to cytochrome c	#7.74305e-05
+mitochondrial envelope	#3.09722e-05
+mitochondrial fragmentation involved in apoptotic process	#6.19444e-05
+mitochondrial inner membrane	#0.000774305
+mitochondrial intermembrane space	#0.000108403
+mitochondrial large ribosomal subunit	#9.29167e-05
+mitochondrial matrix	#0.000433611
+mitochondrial membrane	#0.000123889
+mitochondrial nucleoid	#9.29167e-05
+mitochondrial outer membrane	#0.000108403
+mitochondrial protein processing	#1.54861e-05
+mitochondrial proton-transporting ATP synthase complex	#6.19444e-05
+mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)	#3.09722e-05
+mitochondrial proton-transporting ATP synthase, catalytic core	#3.09722e-05
+mitochondrial respiratory chain complex I	#0.000154861
+mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	#1.54861e-05
+mitochondrial respiratory chain complex III	#7.74305e-05
+mitochondrial respiratory chain complex IV	#1.54861e-05
+mitochondrial ribosome	#3.09722e-05
+mitochondrial ribosome binding	#1.54861e-05
+mitochondrial small ribosomal subunit	#0.000154861
+mitochondrial translation	#0.000247778
+mitochondrial translational elongation	#0.000247778
+mitochondrial translational initiation	#0.000247778
+mitochondrial translational termination	#0.000247778
+mitochondrial transport	#1.54861e-05
+mitochondrion	#0.00325208
+mitochondrion organization	#9.29167e-05
+mitogen-activated protein kinase kinase binding	#3.09722e-05
+mitophagy in response to mitochondrial depolarization	#0.000123889
+mitotic cell cycle	#0.00585375
+mitotic cell cycle checkpoint	#1.54861e-05
+mitotic chromosome condensation	#1.54861e-05
+mitotic chromosome movement towards spindle pole	#1.54861e-05
+mitotic cytokinesis	#1.54861e-05
+mitotic metaphase plate congression	#7.74305e-05
+mitotic nuclear division	#4.64583e-05
+mitotic nuclear envelope disassembly	#6.19444e-05
+mitotic sister chromatid cohesion	#1.54861e-05
+mitotic sister chromatid segregation	#1.54861e-05
+mitotic spindle assembly	#1.54861e-05
+mitotic spindle assembly checkpoint	#0.000154861
+mitotic spindle organization	#3.09722e-05
+modulation by virus of host morphology or physiology	#9.29167e-05
+modulation by virus of host process	#9.29167e-05
+molecular_function	#0.000263264
+monocyte chemotaxis	#0.000851736
+mononuclear cell migration	#1.54861e-05
+monosaccharide binding	#3.09722e-05
+movement of cell or subcellular component	#0.000123889
+multi-eIF complex	#1.54861e-05
+multicellular organismal development	#6.19444e-05
+multivesicular body	#7.74305e-05
+muscle contraction	#9.29167e-05
+muscle filament sliding	#6.19444e-05
+muscle thin filament tropomyosin	#6.19444e-05
+myelin sheath	#0.00091368
+myofibril assembly	#3.09722e-05
+myosin V binding	#1.54861e-05
+natural killer cell mediated cytotoxicity	#1.54861e-05
+ncRNA metabolic process	#1.54861e-05
+necroptotic process	#0.000309722
+negative regulation by host of viral genome replication	#9.29167e-05
+negative regulation of DNA damage checkpoint	#3.09722e-05
+negative regulation of DNA damage response, signal transduction by p53 class mediator	#0.000232292
+negative regulation of DNA endoreduplication	#1.54861e-05
+negative regulation of ER-associated ubiquitin-dependent protein catabolic process	#6.19444e-05
+negative regulation of ERK1 and ERK2 cascade	#3.09722e-05
+negative regulation of JUN kinase activity	#7.74305e-05
+negative regulation of MAPK cascade	#0.000232292
+negative regulation of MDA-5 signaling pathway	#1.54861e-05
+negative regulation of NF-kappaB transcription factor activity	#0.000263264
+negative regulation of RIG-I signaling pathway	#1.54861e-05
+negative regulation of Ras protein signal transduction	#1.54861e-05
+negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	#1.54861e-05
+negative regulation of T cell receptor signaling pathway	#1.54861e-05
+negative regulation of TOR signaling	#1.54861e-05
+negative regulation of TRAIL-activated apoptotic signaling pathway	#1.54861e-05
+negative regulation of adenylate cyclase activity	#1.54861e-05
+negative regulation of apoptotic process	#0.00520333
+negative regulation of branching morphogenesis of a nerve	#3.09722e-05
+negative regulation of canonical Wnt signaling pathway	#0.00473875
+negative regulation of catalytic activity	#0.000154861
+negative regulation of cell adhesion involved in substrate-bound cell migration	#3.09722e-05
+negative regulation of cell cycle	#3.09722e-05
+negative regulation of cell death	#1.54861e-05
+negative regulation of cell growth	#7.74305e-05
+negative regulation of cell motility	#3.09722e-05
+negative regulation of cell proliferation	#0.000123889
+negative regulation of cyclin-dependent protein serine/threonine kinase by cyclin degradation	#1.54861e-05
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	#1.54861e-05
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	#1.54861e-05
+negative regulation of death-inducing signaling complex assembly	#1.54861e-05
+negative regulation of defense response to virus	#1.54861e-05
+negative regulation of double-strand break repair	#3.09722e-05
+negative regulation of early endosome to late endosome transport	#3.09722e-05
+negative regulation of endocytosis	#1.54861e-05
+negative regulation of endopeptidase activity	#7.74305e-05
+negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	#1.54861e-05
+negative regulation of epidermal growth factor receptor signaling pathway	#0.000309722
+negative regulation of extrinsic apoptotic signaling pathway	#3.09722e-05
+negative regulation of fat cell differentiation	#1.54861e-05
+negative regulation of fibril organization	#6.19444e-05
+negative regulation of fibroblast proliferation	#1.54861e-05
+negative regulation of formation of translation preinitiation complex	#0.000867222
+negative regulation of gene expression	#7.74305e-05
+negative regulation of gene expression, epigenetic	#4.64583e-05
+negative regulation of glycogen biosynthetic process	#7.74305e-05
+negative regulation of heart rate	#4.64583e-05
+negative regulation of histone H2A K63-linked ubiquitination	#3.09722e-05
+negative regulation of hyaluronan biosynthetic process	#3.09722e-05
+negative regulation of hydrogen peroxide-induced cell death	#1.54861e-05
+negative regulation of hydrogen peroxide-induced neuron death	#1.54861e-05
+negative regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway	#1.54861e-05
+negative regulation of immunological synapse formation	#1.54861e-05
+negative regulation of inflammatory response to antigenic stimulus	#0.000263264
+negative regulation of insulin secretion	#0.000154861
+negative regulation of insulin secretion involved in cellular response to glucose stimulus	#4.64583e-05
+negative regulation of interferon-gamma production	#1.54861e-05
+negative regulation of interleukin-12 production	#1.54861e-05
+negative regulation of intrinsic apoptotic signaling pathway	#1.54861e-05
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage	#6.19444e-05
+negative regulation of mRNA modification	#1.54861e-05
+negative regulation of mRNA polyadenylation	#7.74305e-05
+negative regulation of mRNA splicing, via spliceosome	#7.74305e-05
+negative regulation of myeloid leukocyte differentiation	#6.19444e-05
+negative regulation of myofibroblast differentiation	#3.09722e-05
+negative regulation of neuron apoptotic process	#9.29167e-05
+negative regulation of neuron death	#1.54861e-05
+negative regulation of neuron differentiation	#3.09722e-05
+negative regulation of nucleic acid-templated transcription	#0.000325208
+negative regulation of oxidative stress-induced cell death	#1.54861e-05
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	#1.54861e-05
+negative regulation of oxidative stress-induced neuron death	#1.54861e-05
+negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	#1.54861e-05
+negative regulation of peptidyl-serine dephosphorylation	#1.54861e-05
+negative regulation of phagocytosis	#1.54861e-05
+negative regulation of phosphatase activity	#9.29167e-05
+negative regulation of phosphatidylinositol 3-kinase signaling	#1.54861e-05
+negative regulation of programmed cell death	#0.000294236
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	#7.74305e-05
+negative regulation of protein K48-linked deubiquitination	#1.54861e-05
+negative regulation of protein acetylation	#1.54861e-05
+negative regulation of protein binding	#6.19444e-05
+negative regulation of protein catabolic process	#7.74305e-05
+negative regulation of protein dephosphorylation	#1.54861e-05
+negative regulation of protein export from nucleus	#1.54861e-05
+negative regulation of protein kinase activity	#1.54861e-05
+negative regulation of protein localization to plasma membrane	#3.09722e-05
+negative regulation of protein phosphatase type 2B activity	#9.29167e-05
+negative regulation of protein phosphorylation	#1.54861e-05
+negative regulation of protein processing	#1.54861e-05
+negative regulation of protein sumoylation	#1.54861e-05
+negative regulation of protein transport	#3.09722e-05
+negative regulation of protein ubiquitination	#6.19444e-05
+negative regulation of reactive oxygen species metabolic process	#3.09722e-05
+negative regulation of release of cytochrome c from mitochondria	#0.000232292
+negative regulation of release of sequestered calcium ion into cytosol	#4.64583e-05
+negative regulation of respiratory burst involved in inflammatory response	#0.00083625
+negative regulation of ryanodine-sensitive calcium-release channel activity	#4.64583e-05
+negative regulation of striated muscle tissue development	#1.54861e-05
+negative regulation of synaptic transmission	#1.54861e-05
+negative regulation of telomere maintenance via telomerase	#6.19444e-05
+negative regulation of transcription from RNA polymerase II promoter	#0.00148667
+negative regulation of transcription, DNA-templated	#0.000449097
+negative regulation of transforming growth factor beta receptor signaling pathway	#0.000356181
+negative regulation of translation	#0.000975625
+negative regulation of translational initiation in response to stress	#1.54861e-05
+negative regulation of type I interferon production	#0.000340694
+negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	#0.00469229
+negative regulation of ubiquitin-protein transferase activity	#1.54861e-05
+negative regulation of ubiquitin-specific protease activity	#1.54861e-05
+negative regulation of viral entry into host cell	#1.54861e-05
+nervous system development	#4.64583e-05
+neural tube closure	#0.000867222
+neurogenesis	#3.09722e-05
+neuron apoptotic process	#4.64583e-05
+neuron development	#1.54861e-05
+neuron differentiation	#6.19444e-05
+neuron migration	#3.09722e-05
+neuron projection	#0.000123889
+neuron projection development	#9.29167e-05
+neuron-neuron synaptic transmission	#3.09722e-05
+neuronal action potential propagation	#4.64583e-05
+neuronal cell body	#0.000356181
+neuronal stem cell population maintenance	#1.54861e-05
+neurotransmitter secretion	#6.19444e-05
+neurotrophin TRK receptor signaling pathway	#0.00476972
+neutrophil chemotaxis	#1.54861e-05
+nitric oxide metabolic process	#1.54861e-05
+nitric-oxide synthase regulator activity	#1.54861e-05
+nitrogen compound metabolic process	#0.000139375
+nuclear chromatin	#0.000123889
+nuclear chromosome, telomeric region	#7.74305e-05
+nuclear condensin complex	#1.54861e-05
+nuclear envelope	#0.000139375
+nuclear envelope lumen	#1.54861e-05
+nuclear envelope reassembly	#1.54861e-05
+nuclear euchromatin	#3.09722e-05
+nuclear exosome (RNase complex)	#7.74305e-05
+nuclear export	#1.54861e-05
+nuclear heterochromatin	#3.09722e-05
+nuclear inclusion body	#4.64583e-05
+nuclear localization sequence binding	#3.09722e-05
+nuclear mRNA surveillance	#7.74305e-05
+nuclear matrix	#0.000216806
+nuclear membrane	#0.000247778
+nuclear pericentric heterochromatin	#1.54861e-05
+nuclear periphery	#1.54861e-05
+nuclear pore	#0.000139375
+nuclear pore nuclear basket	#3.09722e-05
+nuclear proteasome complex	#0.001115
+nuclear speck	#0.000480069
+nuclear-transcribed mRNA catabolic process	#3.09722e-05
+nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	#9.29167e-05
+nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'	#7.74305e-05
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	#0.0209992
+nucleic acid binding	#0.000960139
+nucleic acid phosphodiester bond hydrolysis	#1.54861e-05
+nucleobase-containing small molecule interconversion	#6.19444e-05
+nucleobase-containing small molecule metabolic process	#0.000247778
+nucleocytoplasmic transport	#6.19444e-05
+nucleolus	#0.0126676
+nucleolus organization	#0.00083625
+nucleoplasm	#0.0071391
+nucleoside diphosphate kinase activity	#0.000108403
+nucleoside diphosphate phosphorylation	#0.000108403
+nucleoside metabolic process	#3.09722e-05
+nucleoside triphosphate biosynthetic process	#6.19444e-05
+nucleosomal DNA binding	#3.09722e-05
+nucleosome assembly	#1.54861e-05
+nucleotide binding	#0.0023384
+nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway	#0.000340694
+nucleotide-binding oligomerization domain containing signaling pathway	#0.000340694
+nucleotide-excision repair	#0.000495555
+nucleotide-excision repair, DNA damage recognition	#0.000340694
+nucleotide-excision repair, DNA gap filling	#0.000340694
+nucleotide-excision repair, DNA incision	#0.000356181
+nucleus	#0.0152383
+oligosaccharyl transferase activity	#1.54861e-05
+oligosaccharyltransferase complex	#6.19444e-05
+omega-amidase activity	#1.54861e-05
+one-carbon metabolic process	#1.54861e-05
+organ regeneration	#0.000139375
+organelle organization	#0.000371667
+organic substance metabolic process	#4.64583e-05
+osteoblast differentiation	#0.00142472
+ovarian follicle development	#3.09722e-05
+oxaloacetate metabolic process	#1.54861e-05
+oxidation-reduction process	#0.000712361
+oxidative phosphorylation	#0.000108403
+oxidoreductase activity	#0.000356181
+oxidoreductase activity, acting on NAD(P)H	#4.64583e-05
+oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor	#1.54861e-05
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	#1.54861e-05
+oxidoreductase activity, acting on peroxide as acceptor	#4.64583e-05
+oxidoreductase activity, acting on the CH-CH group of donors	#3.09722e-05
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	#0.000247778
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	#4.64583e-05
+oxygen binding	#1.54861e-05
+oxygen homeostasis	#1.54861e-05
+p53 binding	#4.64583e-05
+pICln-Sm protein complex	#1.54861e-05
+paraspeckles	#1.54861e-05
+pentose catabolic process	#1.54861e-05
+pentose-phosphate shunt	#1.54861e-05
+pentose-phosphate shunt, non-oxidative branch	#1.54861e-05
+peptidase activator activity	#7.74305e-05
+peptidase activity	#1.54861e-05
+peptide alpha-N-acetyltransferase activity	#3.09722e-05
+peptide binding	#6.19444e-05
+peptidyl-cysteine S-nitrosylase activity	#4.64583e-05
+peptidyl-cysteine S-trans-nitrosylation	#4.64583e-05
+peptidyl-diphthamide biosynthetic process from peptidyl-histidine	#3.09722e-05
+peptidyl-histidine phosphorylation	#4.64583e-05
+peptidyl-lysine modification to peptidyl-hypusine	#1.54861e-05
+peptidyl-prolyl cis-trans isomerase activity	#0.000232292
+peptidyl-threonine phosphorylation	#0.000123889
+pericentriolar material	#3.09722e-05
+perikaryon	#3.09722e-05
+perinuclear region of cytoplasm	#0.000511042
+peripheral nervous system development	#3.09722e-05
+peroxiredoxin activity	#1.54861e-05
+peroxisomal matrix	#3.09722e-05
+peroxisomal membrane	#3.09722e-05
+peroxisome	#3.09722e-05
+phagosome maturation	#1.54861e-05
+phenanthrene-9,10-epoxide hydrolase activity	#1.54861e-05
+phosphatidylethanolamine binding	#1.54861e-05
+phosphatidylinositol 3-kinase signaling	#1.54861e-05
+phosphatidylinositol binding	#3.09722e-05
+phosphatidylinositol-3,5-bisphosphate binding	#1.54861e-05
+phosphatidylinositol-3-phosphate binding	#1.54861e-05
+phosphatidylinositol-4-phosphate binding	#1.54861e-05
+phosphatidylinositol-5-phosphate binding	#1.54861e-05
+phosphatidylserine binding	#6.19444e-05
+phosphoglucomutase activity	#3.09722e-05
+phosphogluconate dehydrogenase (decarboxylating) activity	#1.54861e-05
+phosphoglycerate kinase activity	#6.19444e-05
+phosphoglycerate mutase activity	#4.64583e-05
+phospholipid binding	#1.54861e-05
+phospholipid metabolic process	#6.19444e-05
+phospholipid transport	#1.54861e-05
+phospholipid-hydroperoxide glutathione peroxidase activity	#4.64583e-05
+phosphoprotein binding	#3.09722e-05
+phosphopyruvate hydratase activity	#3.09722e-05
+phosphopyruvate hydratase complex	#3.09722e-05
+phosphorylation	#6.19444e-05
+phosphoserine binding	#4.64583e-05
+phosphothreonine binding	#3.09722e-05
+photoreceptor inner segment	#3.09722e-05
+piRNA metabolic process	#7.74305e-05
+plasma membrane	#0.00161056
+platelet activation	#0.000108403
+platelet aggregation	#3.09722e-05
+platelet degranulation	#7.74305e-05
+podosome	#4.64583e-05
+pointed-end actin filament capping	#3.09722e-05
+poly(A) RNA binding	#0.024019
+poly(A) binding	#0.000185833
+poly(U) RNA binding	#0.000185833
+polyadenylation-dependent snoRNA 3'-end processing	#7.74305e-05
+polyamine homeostasis	#1.54861e-05
+polyamine metabolic process	#0.00442903
+polysomal ribosome	#3.09722e-05
+polysome	#4.64583e-05
+polyubiquitin binding	#0.000263264
+pore complex	#6.19444e-05
+pore complex assembly	#9.29167e-05
+porin activity	#6.19444e-05
+positive chemotaxis	#1.54861e-05
+positive regulation by host of viral genome replication	#9.29167e-05
+positive regulation by host of viral process	#4.64583e-05
+positive regulation by host of viral release from host cell	#9.29167e-05
+positive regulation by virus of viral protein levels in host cell	#1.54861e-05
+positive regulation of ATPase activity	#0.000123889
+positive regulation of DNA binding	#1.54861e-05
+positive regulation of DNA biosynthetic process	#3.09722e-05
+positive regulation of DNA damage checkpoint	#6.19444e-05
+positive regulation of DNA-templated transcription, elongation	#3.09722e-05
+positive regulation of ER-associated ubiquitin-dependent protein catabolic process	#1.54861e-05
+positive regulation of G1/S transition of mitotic cell cycle	#1.54861e-05
+positive regulation of GTPase activity	#3.09722e-05
+positive regulation of I-kappaB kinase/NF-kappaB signaling	#0.000480069
+positive regulation of L-dopa biosynthetic process	#1.54861e-05
+positive regulation of L-dopa decarboxylase activity	#1.54861e-05
+positive regulation of NF-kappaB transcription factor activity	#0.000371667
+positive regulation of RNA polymerase II transcriptional preinitiation complex assembly	#0.001115
+positive regulation of RNA splicing	#6.19444e-05
+positive regulation of androgen receptor activity	#1.54861e-05
+positive regulation of apoptotic process	#0.000588472
+positive regulation of astrocyte differentiation	#3.09722e-05
+positive regulation of axon regeneration	#4.64583e-05
+positive regulation of cAMP biosynthetic process	#4.64583e-05
+positive regulation of calcium ion import	#1.54861e-05
+positive regulation of canonical Wnt signaling pathway	#0.00483167
+positive regulation of cardiac muscle contraction	#1.54861e-05
+positive regulation of cardiolipin metabolic process	#1.54861e-05
+positive regulation of catenin import into nucleus	#3.09722e-05
+positive regulation of cell adhesion	#1.54861e-05
+positive regulation of cell cycle	#0.00091368
+positive regulation of cell division	#3.09722e-05
+positive regulation of cell growth	#0.000232292
+positive regulation of cell growth involved in cardiac muscle cell development	#6.19444e-05
+positive regulation of cell migration	#0.000139375
+positive regulation of cell proliferation	#0.000960139
+positive regulation of cell size	#1.54861e-05
+positive regulation of cellular component movement	#0.00083625
+positive regulation of cellular protein catabolic process	#3.09722e-05
+positive regulation of chaperone-mediated protein complex assembly	#1.54861e-05
+positive regulation of circadian rhythm	#1.54861e-05
+positive regulation of cyclin-dependent protein serine/threonine kinase activity	#0.000232292
+positive regulation of cytokine secretion	#1.54861e-05
+positive regulation of cytoplasmic translation	#3.09722e-05
+positive regulation of cytosolic calcium ion concentration	#4.64583e-05
+positive regulation of cytotoxic T cell differentiation	#1.54861e-05
+positive regulation of defense response to virus by host	#0.000371667
+positive regulation of dendrite extension	#3.09722e-05
+positive regulation of dendritic cell chemotaxis	#1.54861e-05
+positive regulation of dendritic spine development	#3.09722e-05
+positive regulation of dopamine biosynthetic process	#1.54861e-05
+positive regulation of early endosome to late endosome transport	#3.09722e-05
+positive regulation of endopeptidase activity	#0.000263264
+positive regulation of epithelial cell proliferation	#6.19444e-05
+positive regulation of exit from mitosis	#1.54861e-05
+positive regulation of exosomal secretion	#4.64583e-05
+positive regulation of extracellular exosome assembly	#3.09722e-05
+positive regulation of extrinsic apoptotic signaling pathway in absence of ligand	#1.54861e-05
+positive regulation of gene expression	#7.74305e-05
+positive regulation of glycoprotein metabolic process	#3.09722e-05
+positive regulation of inclusion body assembly	#0.0005575
+positive regulation of insulin secretion	#0.000139375
+positive regulation of interleukin-8 production	#1.54861e-05
+positive regulation of keratinocyte differentiation	#4.64583e-05
+positive regulation of lamellipodium assembly	#1.54861e-05
+positive regulation of lipid kinase activity	#6.19444e-05
+positive regulation of long-term synaptic potentiation	#3.09722e-05
+positive regulation of low-density lipoprotein particle receptor biosynthetic process	#3.09722e-05
+positive regulation of mRNA catabolic process	#4.64583e-05
+positive regulation of mRNA splicing, via spliceosome	#0.000108403
+positive regulation of mitochondrial DNA replication	#1.54861e-05
+positive regulation of mitochondrial electron transport, NADH to ubiquinone	#1.54861e-05
+positive regulation of mitochondrial membrane potential	#1.54861e-05
+positive regulation of mitochondrial translation	#1.54861e-05
+positive regulation of mitophagy	#1.54861e-05
+positive regulation of mitotic cell cycle	#1.54861e-05
+positive regulation of mitotic cell cycle phase transition	#3.09722e-05
+positive regulation of monocyte differentiation	#3.09722e-05
+positive regulation of mononuclear cell migration	#1.54861e-05
+positive regulation of natural killer cell mediated cytotoxicity	#1.54861e-05
+positive regulation of neurogenesis	#1.54861e-05
+positive regulation of neuron apoptotic process	#3.09722e-05
+positive regulation of neuron death	#1.54861e-05
+positive regulation of neuron projection development	#0.000139375
+positive regulation of neutrophil chemotaxis	#1.54861e-05
+positive regulation of nitric oxide biosynthetic process	#3.09722e-05
+positive regulation of oxidative phosphorylation uncoupler activity	#1.54861e-05
+positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	#1.54861e-05
+positive regulation of peptidase activity	#7.74305e-05
+positive regulation of peptidyl-serine phosphorylation	#1.54861e-05
+positive regulation of phosphatidylinositol 3-kinase signaling	#3.09722e-05
+positive regulation of podosome assembly	#3.09722e-05
+positive regulation of potassium ion import	#0.000108403
+positive regulation of potassium ion transmembrane transporter activity	#0.000108403
+positive regulation of proteasomal protein catabolic process	#0.001115
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process	#0.000247778
+positive regulation of protein binding	#6.19444e-05
+positive regulation of protein catabolic process	#1.54861e-05
+positive regulation of protein dephosphorylation	#3.09722e-05
+positive regulation of protein homodimerization activity	#1.54861e-05
+positive regulation of protein import	#1.54861e-05
+positive regulation of protein import into nucleus, translocation	#4.64583e-05
+positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway	#1.54861e-05
+positive regulation of protein kinase B signaling	#3.09722e-05
+positive regulation of protein localization to cell surface	#3.09722e-05
+positive regulation of protein localization to early endosome	#3.09722e-05
+positive regulation of protein localization to nucleus	#3.09722e-05
+positive regulation of protein phosphorylation	#3.09722e-05
+positive regulation of protein secretion	#4.64583e-05
+positive regulation of protein targeting to mitochondrion	#0.000820764
+positive regulation of protein ubiquitination	#0.000309722
+positive regulation of pyrroline-5-carboxylate reductase activity	#1.54861e-05
+positive regulation of reactive oxygen species biosynthetic process	#1.54861e-05
+positive regulation of receptor-mediated endocytosis	#3.09722e-05
+positive regulation of respiratory burst involved in inflammatory response	#0.00083625
+positive regulation of sequence-specific DNA binding transcription factor activity	#1.54861e-05
+positive regulation of sequestering of calcium ion	#4.64583e-05
+positive regulation of signal transduction	#1.54861e-05
+positive regulation of smooth muscle cell apoptotic process	#3.09722e-05
+positive regulation of sodium ion export from cell	#0.000108403
+positive regulation of substrate adhesion-dependent cell spreading	#1.54861e-05
+positive regulation of superoxide dismutase activity	#1.54861e-05
+positive regulation of synapse maturation	#3.09722e-05
+positive regulation of synaptic transmission	#3.09722e-05
+positive regulation of transcription from RNA polymerase II promoter	#0.000433611
+positive regulation of transcription regulatory region DNA binding	#1.54861e-05
+positive regulation of transcription, DNA-templated	#0.000526528
+positive regulation of translation	#7.74305e-05
+positive regulation of translational elongation	#3.09722e-05
+positive regulation of translational termination	#3.09722e-05
+positive regulation of trophoblast cell migration	#1.54861e-05
+positive regulation of type B pancreatic cell apoptotic process	#1.54861e-05
+positive regulation of type I interferon production	#0.000325208
+positive regulation of tyrosine 3-monooxygenase activity	#1.54861e-05
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	#0.00476972
+positive regulation of ubiquitin-protein transferase activity	#4.64583e-05
+positive regulation of vascular smooth muscle cell proliferation	#3.09722e-05
+positive regulation of viral genome replication	#6.19444e-05
+positive regulation of viral release from host cell	#1.54861e-05
+positive regulation of viral transcription	#0.000154861
+post-Golgi vesicle-mediated transport	#0.000108403
+post-embryonic development	#1.54861e-05
+post-embryonic organ development	#4.64583e-05
+post-translational protein modification	#0.000464583
+postreplication repair	#3.09722e-05
+postsynaptic density	#3.09722e-05
+potassium channel regulator activity	#1.54861e-05
+potassium ion binding	#1.54861e-05
+potassium ion import	#0.000108403
+potassium ion transport	#0.000108403
+pre-mRNA 3'-splice site binding	#3.09722e-05
+pre-mRNA binding	#1.54861e-05
+pre-mRNA intronic binding	#3.09722e-05
+pre-miRNA binding	#1.54861e-05
+pre-miRNA export from nucleus	#1.54861e-05
+pre-miRNA transporter activity	#1.54861e-05
+pre-snoRNP complex	#4.64583e-05
+precatalytic spliceosome	#6.19444e-05
+prepulse inhibition	#3.09722e-05
+preribosome, large subunit precursor	#0.000139375
+preribosome, small subunit precursor	#0.000123889
+prespliceosome	#1.54861e-05
+primary miRNA processing	#1.54861e-05
+progesterone receptor signaling pathway	#3.09722e-05
+programmed cell death	#0.00483167
+programmed necrotic cell death	#0.000309722
+proline-tRNA ligase activity	#1.54861e-05
+prolyl-tRNA aminoacylation	#1.54861e-05
+pronucleus	#1.54861e-05
+prostate gland stromal morphogenesis	#3.09722e-05
+protease binding	#0.000263264
+proteasomal protein catabolic process	#3.09722e-05
+proteasomal ubiquitin-independent protein catabolic process	#7.74305e-05
+proteasome accessory complex	#0.00215257
+proteasome assembly	#0.000898194
+proteasome binding	#0.000325208
+proteasome complex	#0.00461486
+proteasome core complex	#0.0015641
+proteasome core complex, alpha-subunit complex	#0.000511042
+proteasome regulatory particle	#0.00145569
+proteasome regulatory particle assembly	#0.000619444
+proteasome regulatory particle, base subcomplex	#0.00226097
+proteasome regulatory particle, lid subcomplex	#0.000263264
+proteasome storage granule	#0.000263264
+proteasome-activating ATPase activity	#0.001115
+proteasome-mediated ubiquitin-dependent protein catabolic process	#0.00113049
+protein C-terminus binding	#4.64583e-05
+protein K11-linked ubiquitination	#3.09722e-05
+protein K48-linked ubiquitination	#1.54861e-05
+protein K63-linked ubiquitination	#7.74305e-05
+protein N-linked glycosylation	#0.000123889
+protein N-linked glycosylation via asparagine	#0.000325208
+protein N-terminus binding	#7.74305e-05
+protein antigen binding	#1.54861e-05
+protein autophosphorylation	#0.000201319
+protein autoubiquitination	#1.54861e-05
+protein binding	#0.0253508
+protein binding involved in protein folding	#3.09722e-05
+protein binding, bridging	#0.00027875
+protein catabolic process	#0.00113049
+protein complex	#0.000464583
+protein complex assembly	#0.000170347
+protein complex binding	#0.000232292
+protein deglycosylation	#1.54861e-05
+protein destabilization	#1.54861e-05
+protein deubiquitination	#9.29167e-05
+protein dimerization activity	#6.19444e-05
+protein disulfide isomerase activity	#1.54861e-05
+protein disulfide oxidoreductase activity	#1.54861e-05
+protein domain specific binding	#0.000232292
+protein export from nucleus	#3.09722e-05
+protein folding	#0.000619444
+protein folding in endoplasmic reticulum	#6.19444e-05
+protein glycosylation	#1.54861e-05
+protein heterodimerization activity	#0.000139375
+protein histidine kinase activity	#4.64583e-05
+protein homodimerization activity	#0.00133181
+protein homooligomerization	#1.54861e-05
+protein homotetramerization	#0.000139375
+protein import into mitochondrial outer membrane	#1.54861e-05
+protein import into nucleus	#9.29167e-05
+protein import into nucleus, docking	#1.54861e-05
+protein import into nucleus, translocation	#3.09722e-05
+protein insertion into ER membrane	#4.64583e-05
+protein kinase C binding	#1.54861e-05
+protein kinase activity	#0.000139375
+protein kinase binding	#0.00151764
+protein localization to endoplasmic reticulum	#9.29167e-05
+protein localization to kinetochore	#1.54861e-05
+protein localization to mitochondrion	#7.74305e-05
+protein localization to nucleolus	#1.54861e-05
+protein localization to nucleus	#0.000898194
+protein localization to plasma membrane	#0.000108403
+protein maturation	#1.54861e-05
+protein maturation by protein folding	#0.000108403
+protein methylation	#7.74305e-05
+protein oligomerization	#7.74305e-05
+protein peptidyl-prolyl isomerization	#0.000232292
+protein phosphatase 1 binding	#6.19444e-05
+protein phosphatase binding	#4.64583e-05
+protein phosphatase type 1 regulator activity	#1.54861e-05
+protein phosphatase type 2A regulator activity	#1.54861e-05
+protein phosphorylation	#3.09722e-05
+protein polyubiquitination	#0.00484715
+protein processing	#7.74305e-05
+protein refolding	#0.000170347
+protein repair	#3.09722e-05
+protein secretion	#6.19444e-05
+protein serine/threonine kinase activity	#6.19444e-05
+protein stabilization	#0.000216806
+protein sumoylation	#9.29167e-05
+protein tag	#1.54861e-05
+protein targeting	#0.000898194
+protein targeting to lysosome	#6.19444e-05
+protein targeting to lysosome involved in chaperone-mediated autophagy	#6.19444e-05
+protein targeting to mitochondrion	#1.54861e-05
+protein targeting to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	#1.54861e-05
+protein tetramerization	#0.000867222
+protein to membrane docking	#1.54861e-05
+protein transport	#0.000263264
+protein transporter activity	#4.64583e-05
+protein ubiquitination	#9.29167e-05
+protein ubiquitination involved in ubiquitin-dependent protein catabolic process	#6.19444e-05
+protein unfolding	#1.54861e-05
+protein-DNA complex	#9.29167e-05
+protein-L-isoaspartate (D-aspartate) O-methyltransferase activity	#3.09722e-05
+proteinase activated receptor binding	#3.09722e-05
+proteolysis	#0.000108403
+proteolysis involved in cellular protein catabolic process	#0.0015641
+proton transport	#4.64583e-05
+proton-transporting ATP synthase activity, rotational mechanism	#6.19444e-05
+proton-transporting ATP synthase complex, catalytic core F(1)	#6.19444e-05
+proton-transporting ATPase activity, rotational mechanism	#7.74305e-05
+proton-transporting V-type ATPase, V1 domain	#1.54861e-05
+proton-transporting two-sector ATPase complex	#1.54861e-05
+proton-transporting two-sector ATPase complex, catalytic domain	#4.64583e-05
+proximal dendrite	#1.54861e-05
+pseudopodium	#3.09722e-05
+pseudouridine synthesis	#1.54861e-05
+purine nucleobase metabolic process	#6.19444e-05
+purine nucleotide catabolic process	#3.09722e-05
+purine nucleotide metabolic process	#6.19444e-05
+purine ribonucleoside salvage	#3.09722e-05
+purine-containing compound salvage	#3.09722e-05
+pyrimidine nucleobase metabolic process	#0.000123889
+pyrimidine nucleoside biosynthetic process	#0.000123889
+pyrimidine nucleotide metabolic process	#6.19444e-05
+pyruvate biosynthetic process	#1.54861e-05
+pyruvate kinase activity	#1.54861e-05
+pyruvate metabolic process	#9.29167e-05
+rRNA (adenine-N6,N6-)-dimethyltransferase activity	#4.64583e-05
+rRNA (guanine) methyltransferase activity	#9.29167e-05
+rRNA (uridine-2'-O-)-methyltransferase activity	#9.29167e-05
+rRNA 3'-end processing	#7.74305e-05
+rRNA binding	#0.00271007
+rRNA catabolic process	#7.74305e-05
+rRNA metabolic process	#4.64583e-05
+rRNA methylation	#0.000263264
+rRNA methyltransferase activity	#0.000263264
+rRNA modification	#9.29167e-05
+rRNA processing	#0.00540465
+rRNA transcription	#6.19444e-05
+racemase and epimerase activity, acting on carbohydrates and derivatives	#1.54861e-05
+reactive oxygen species metabolic process	#4.64583e-05
+receptor activity	#3.09722e-05
+receptor binding	#0.000449097
+receptor internalization	#3.09722e-05
+receptor-mediated endocytosis	#4.64583e-05
+recycling endosome	#3.09722e-05
+recycling endosome membrane	#1.54861e-05
+regulation of DNA repair	#3.09722e-05
+regulation of DNA-templated transcription, elongation	#6.19444e-05
+regulation of MAPK cascade	#1.54861e-05
+regulation of T cell apoptotic process	#1.54861e-05
+regulation of T cell proliferation	#1.54861e-05
+regulation of Wnt signaling pathway	#1.54861e-05
+regulation of activin receptor signaling pathway	#4.64583e-05
+regulation of alternative mRNA splicing, via spliceosome	#3.09722e-05
+regulation of amyloid precursor protein catabolic process	#4.64583e-05
+regulation of androgen receptor signaling pathway	#1.54861e-05
+regulation of anion transmembrane transport	#6.19444e-05
+regulation of anion transport	#6.19444e-05
+regulation of apoptotic process	#0.00476972
+regulation of autophagy	#1.54861e-05
+regulation of blood pressure	#1.54861e-05
+regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	#4.64583e-05
+regulation of catalytic activity	#0.000309722
+regulation of cell cycle	#0.000232292
+regulation of cell morphogenesis	#4.64583e-05
+regulation of cell shape	#3.09722e-05
+regulation of cell size	#3.09722e-05
+regulation of cellular amino acid metabolic process	#0.00442903
+regulation of cellular response to heat	#0.000216806
+regulation of centrosome duplication	#3.09722e-05
+regulation of chaperone-mediated autophagy	#0.000402639
+regulation of chemotaxis	#6.19444e-05
+regulation of cilium assembly	#3.09722e-05
+regulation of circadian rhythm	#6.19444e-05
+regulation of complement activation	#1.54861e-05
+regulation of cysteine-type endopeptidase activity involved in apoptotic process	#1.54861e-05
+regulation of cytokine biosynthetic process	#3.09722e-05
+regulation of cytokinesis	#3.09722e-05
+regulation of dendritic spine morphogenesis	#4.64583e-05
+regulation of endocytosis	#1.54861e-05
+regulation of epidermis development	#4.64583e-05
+regulation of extracellular exosome assembly	#3.09722e-05
+regulation of extrinsic apoptotic signaling pathway via death domain receptors	#1.54861e-05
+regulation of fibril organization	#1.54861e-05
+regulation of gene expression	#4.64583e-05
+regulation of gene expression, epigenetic	#4.64583e-05
+regulation of glucocorticoid metabolic process	#1.54861e-05
+regulation of glucose transport	#6.19444e-05
+regulation of glycolytic process	#4.64583e-05
+regulation of heart rate	#4.64583e-05
+regulation of heart rate by cardiac conduction	#1.54861e-05
+regulation of heart rate by hormone	#1.54861e-05
+regulation of hydrogen peroxide-induced cell death	#1.54861e-05
+regulation of immune response	#4.64583e-05
+regulation of inflammatory response	#1.54861e-05
+regulation of intracellular pH	#3.09722e-05
+regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	#3.09722e-05
+regulation of ion transmembrane transport	#4.64583e-05
+regulation of lipid transport by positive regulation of transcription from RNA polymerase II promoter	#3.09722e-05
+regulation of low-density lipoprotein particle clearance	#3.09722e-05
+regulation of lymphocyte migration	#3.09722e-05
+regulation of mRNA stability	#0.00487812
+regulation of macrophage apoptotic process	#3.09722e-05
+regulation of membrane repolarization	#1.54861e-05
+regulation of mitochondrial membrane permeability involved in apoptotic process	#3.09722e-05
+regulation of mitochondrial membrane potential	#6.19444e-05
+regulation of mitophagy	#0.000851736
+regulation of mitotic cell cycle	#1.54861e-05
+regulation of mitotic cell cycle phase transition	#1.54861e-05
+regulation of mitotic metaphase/anaphase transition	#1.54861e-05
+regulation of mitotic nuclear division	#3.09722e-05
+regulation of multivesicular body size involved in endosome transport	#1.54861e-05
+regulation of necrotic cell death	#0.000309722
+regulation of neuron apoptotic process	#1.54861e-05
+regulation of nitric-oxide synthase activity	#1.54861e-05
+regulation of organelle assembly	#3.09722e-05
+regulation of pathway-restricted SMAD protein phosphorylation	#3.09722e-05
+regulation of pentose-phosphate shunt	#4.64583e-05
+regulation of potassium ion transmembrane transporter activity	#1.54861e-05
+regulation of proteasomal protein catabolic process	#6.19444e-05
+regulation of protein ADP-ribosylation	#1.54861e-05
+regulation of protein binding	#1.54861e-05
+regulation of protein catabolic process	#0.000542014
+regulation of protein complex assembly	#9.29167e-05
+regulation of protein complex stability	#7.74305e-05
+regulation of protein deacetylation	#6.19444e-05
+regulation of protein import	#6.19444e-05
+regulation of protein localization	#4.64583e-05
+regulation of protein metabolic process	#3.09722e-05
+regulation of protein phosphatase type 2A activity	#1.54861e-05
+regulation of protein stability	#0.000139375
+regulation of protein transport	#4.64583e-05
+regulation of protein ubiquitination	#1.54861e-05
+regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	#4.64583e-05
+regulation of ryanodine-sensitive calcium-release channel activity	#9.29167e-05
+regulation of transcription from RNA polymerase II promoter	#6.19444e-05
+regulation of transcription from RNA polymerase II promoter in response to hypoxia	#0.000309722
+regulation of transcription, DNA-templated	#0.000774305
+regulation of translation	#0.000898194
+regulation of translational initiation	#7.74305e-05
+regulation of translational initiation in response to stress	#1.54861e-05
+regulation of translational termination	#3.09722e-05
+regulation of tumor necrosis factor-mediated signaling pathway	#0.000309722
+regulation of type I interferon production	#0.000309722
+regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	#0.00476972
+regulation of viral budding via host ESCRT complex	#1.54861e-05
+regulation of viral genome replication	#3.09722e-05
+release from viral latency	#1.54861e-05
+release of cytochrome c from mitochondria	#1.54861e-05
+release of sequestered calcium ion into cytosol	#4.64583e-05
+release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	#4.64583e-05
+removal of superoxide radicals	#1.54861e-05
+repressing transcription factor binding	#1.54861e-05
+respiratory burst	#4.64583e-05
+respiratory chain complex II	#1.54861e-05
+respiratory chain complex IV	#3.09722e-05
+respiratory electron transport chain	#0.000387153
+respiratory gaseous exchange	#6.19444e-05
+response to L-ascorbic acid	#4.64583e-05
+response to UV	#9.29167e-05
+response to activity	#7.74305e-05
+response to aluminum ion	#1.54861e-05
+response to amine	#0.000139375
+response to amino acid	#1.54861e-05
+response to antibiotic	#1.54861e-05
+response to arsenic-containing substance	#1.54861e-05
+response to axon injury	#1.54861e-05
+response to bacterium	#1.54861e-05
+response to cAMP	#6.19444e-05
+response to cadmium ion	#4.64583e-05
+response to caffeine	#0.000123889
+response to calcium ion	#1.54861e-05
+response to cold	#6.19444e-05
+response to cortisol	#0.000123889
+response to drug	#0.000201319
+response to electrical stimulus	#7.74305e-05
+response to endoplasmic reticulum stress	#4.64583e-05
+response to estradiol	#6.19444e-05
+response to estrogen	#6.19444e-05
+response to ethanol	#6.19444e-05
+response to extracellular stimulus	#0.00083625
+response to fatty acid	#3.09722e-05
+response to fluoxetine	#3.09722e-05
+response to folic acid	#3.09722e-05
+response to follicle-stimulating hormone	#1.54861e-05
+response to gamma radiation	#1.54861e-05
+response to glucagon	#1.54861e-05
+response to glucose	#0.000108403
+response to gravity	#1.54861e-05
+response to growth hormone	#4.64583e-05
+response to heat	#6.19444e-05
+response to hydrogen peroxide	#0.000216806
+response to hyperoxia	#4.64583e-05
+response to hypoxia	#0.000108403
+response to immobilization stress	#1.54861e-05
+response to inactivity	#3.09722e-05
+response to inorganic substance	#6.19444e-05
+response to insulin	#0.000123889
+response to ischemia	#3.09722e-05
+response to isolation stress	#1.54861e-05
+response to lead ion	#4.64583e-05
+response to light intensity	#3.09722e-05
+response to light stimulus	#1.54861e-05
+response to lipopolysaccharide	#1.54861e-05
+response to magnetism	#1.54861e-05
+response to manganese ion	#1.54861e-05
+response to manganese-induced endoplasmic reticulum stress	#1.54861e-05
+response to mechanical stimulus	#1.54861e-05
+response to methotrexate	#1.54861e-05
+response to muscle inactivity	#1.54861e-05
+response to nutrient	#7.74305e-05
+response to nutrient levels	#3.09722e-05
+response to organic cyclic compound	#9.29167e-05
+response to organic substance	#0.000154861
+response to oxidative stress	#0.000170347
+response to ozone	#3.09722e-05
+response to peptide hormone	#1.54861e-05
+response to phenylpropanoid	#3.09722e-05
+response to radiation	#6.19444e-05
+response to reactive oxygen species	#7.74305e-05
+response to redox state	#4.64583e-05
+response to retinoic acid	#6.19444e-05
+response to salt	#3.09722e-05
+response to salt stress	#1.54861e-05
+response to selenium ion	#1.54861e-05
+response to silicon dioxide	#1.54861e-05
+response to stress	#6.19444e-05
+response to sucrose	#7.74305e-05
+response to superoxide	#1.54861e-05
+response to testosterone	#0.000139375
+response to toxic substance	#6.19444e-05
+response to unfolded protein	#0.000154861
+response to virus	#0.0010066
+response to vitamin A	#3.09722e-05
+response to vitamin E	#7.74305e-05
+response to zinc ion	#4.64583e-05
+retrograde transport, endosome to Golgi	#4.64583e-05
+retrograde vesicle-mediated transport, Golgi to ER	#1.54861e-05
+retromer complex	#1.54861e-05
+rhythmic process	#6.19444e-05
+ribonuclease inhibitor activity	#4.64583e-05
+ribonucleoprotein complex binding	#4.64583e-05
+ribonucleoprotein complex localization	#1.54861e-05
+ribonucleoprotein granule	#1.54861e-05
+ribonucleoside binding	#1.54861e-05
+ribosomal large subunit assembly	#0.0040109
+ribosomal large subunit binding	#0.000232292
+ribosomal large subunit biogenesis	#0.00301979
+ribosomal large subunit export from nucleus	#6.19444e-05
+ribosomal protein import into nucleus	#1.54861e-05
+ribosomal small subunit assembly	#0.00418125
+ribosomal small subunit binding	#1.54861e-05
+ribosomal small subunit biogenesis	#0.00168799
+ribosomal small subunit export from nucleus	#1.54861e-05
+ribosomal subunit export from nucleus	#0.000232292
+ribosome	#0.0213089
+ribosome assembly	#1.54861e-05
+ribosome binding	#0.000433611
+ribosome biogenesis	#0.000139375
+ribosome disassembly	#3.09722e-05
+ribulose-phosphate 3-epimerase activity	#1.54861e-05
+rough endoplasmic reticulum	#0.000108403
+ruffle	#4.64583e-05
+ruffle membrane	#0.000418125
+ryanodine-sensitive calcium-release channel activity	#4.64583e-05
+sarcolemma	#1.54861e-05
+sarcoplasmic reticulum	#4.64583e-05
+sarcoplasmic reticulum membrane	#4.64583e-05
+scaffold protein binding	#1.54861e-05
+second spliceosomal transesterification activity	#3.09722e-05
+serine-type endopeptidase inhibitor activity	#1.54861e-05
+signal transducer activity	#0.000170347
+signal transduction	#0.000325208
+signal transduction by protein phosphorylation	#1.54861e-05
+signal transduction in response to DNA damage	#1.54861e-05
+signal transduction involved in DNA damage checkpoint	#9.29167e-05
+single fertilization	#4.64583e-05
+single-stranded DNA binding	#6.19444e-05
+sister chromatid cohesion	#1.54861e-05
+site of double-strand break	#3.09722e-05
+skeletal muscle cell differentiation	#3.09722e-05
+skeletal muscle contraction	#4.64583e-05
+skeletal muscle tissue regeneration	#1.54861e-05
+small GTPase mediated signal transduction	#0.00563694
+small molecule metabolic process	#0.00641125
+small nuclear ribonucleoprotein complex	#0.000123889
+small nucleolar ribonucleoprotein complex	#9.29167e-05
+small protein activating enzyme binding	#1.54861e-05
+small ribosomal subunit	#0.000185833
+small ribosomal subunit rRNA binding	#0.000898194
+small-subunit processome	#0.00120792
+smooth endoplasmic reticulum	#6.19444e-05
+smooth muscle contraction	#4.64583e-05
+snRNP binding	#1.54861e-05
+snRNP protein import into nucleus	#4.64583e-05
+snoRNA binding	#9.29167e-05
+snoRNA localization	#0.000170347
+snoRNA metabolic process	#0.000123889
+sodium ion export from cell	#0.000108403
+sodium ion transport	#0.000123889
+sodium:potassium-exchanging ATPase activity	#0.000108403
+sodium:potassium-exchanging ATPase complex	#0.000108403
+somatic stem cell population maintenance	#7.74305e-05
+sperm fibrous sheath	#1.54861e-05
+sperm flagellum	#1.54861e-05
+sperm motility	#6.19444e-05
+spermatid development	#1.54861e-05
+spermatogenesis	#9.29167e-05
+spermatogenesis, exchange of chromosomal proteins	#7.74305e-05
+spermatoproteasome complex	#0.000356181
+sphingolipid biosynthetic process	#9.29167e-05
+sphingolipid metabolic process	#9.29167e-05
+spindle	#7.74305e-05
+spindle assembly	#1.54861e-05
+spindle checkpoint	#1.54861e-05
+spindle microtubule	#1.54861e-05
+spindle pole	#1.54861e-05
+spliceosomal complex	#0.000464583
+spliceosomal complex assembly	#9.29167e-05
+spliceosomal snRNP assembly	#4.64583e-05
+spliceosomal snRNP complex	#3.09722e-05
+spliceosomal tri-snRNP complex	#3.09722e-05
+spliceosomal tri-snRNP complex assembly	#9.29167e-05
+spot adherens junction	#1.54861e-05
+startle response	#3.09722e-05
+stearoyl-CoA 9-desaturase activity	#4.64583e-05
+stem cell population maintenance	#1.54861e-05
+stereocilium	#1.54861e-05
+steroid biosynthetic process	#1.54861e-05
+steroid hydroxylase activity	#1.54861e-05
+steroid metabolic process	#3.09722e-05
+sterol metabolic process	#1.54861e-05
+stimulatory C-type lectin receptor signaling pathway	#0.00476972
+stress fiber	#7.74305e-05
+stress-activated MAPK cascade	#0.000309722
+stress-activated protein kinase signaling cascade	#1.54861e-05
+stress-induced mitochondrial fusion	#1.54861e-05
+striated muscle thin filament	#3.09722e-05
+structural constituent of cytoskeleton	#9.29167e-05
+structural constituent of muscle	#1.54861e-05
+structural constituent of ribosome	#0.0213399
+structural molecule activity	#7.74305e-05
+substantia nigra development	#7.74305e-05
+substrate adhesion-dependent cell spreading	#3.09722e-05
+succinate dehydrogenase (ubiquinone) activity	#1.54861e-05
+succinate metabolic process	#1.54861e-05
+sulfonylurea receptor binding	#1.54861e-05
+superoxide anion generation	#1.54861e-05
+superoxide dismutase activity	#1.54861e-05
+superoxide dismutase copper chaperone activity	#1.54861e-05
+superoxide metabolic process	#1.54861e-05
+susceptibility to natural killer cell mediated cytotoxicity	#1.54861e-05
+synapse	#7.74305e-05
+synaptic transmission	#0.000185833
+synaptic transmission, dopaminergic	#1.54861e-05
+synaptic vesicle	#3.09722e-05
+synaptic vesicle endocytosis	#6.19444e-05
+tRNA aminoacylation	#1.54861e-05
+tRNA aminoacylation for protein translation	#3.09722e-05
+tRNA binding	#0.00114597
+tRNA export from nucleus	#6.19444e-05
+tRNA guanylyltransferase activity	#6.19444e-05
+tRNA modification	#1.54861e-05
+tRNA processing	#0.000216806
+telomerase RNA binding	#4.64583e-05
+telomerase holoenzyme complex	#9.29167e-05
+telomere maintenance	#3.09722e-05
+telomere maintenance via recombination	#3.09722e-05
+telomere maintenance via semi-conservative replication	#3.09722e-05
+telomere maintenance via telomerase	#1.54861e-05
+terminal bouton	#0.000123889
+terminal cisterna	#4.64583e-05
+termination of RNA polymerase I transcription	#3.09722e-05
+termination of RNA polymerase II transcription	#3.09722e-05
+termination of RNA polymerase III transcription	#1.54861e-05
+tetrahydrobiopterin biosynthetic process	#1.54861e-05
+tetrahydrofolate interconversion	#1.54861e-05
+tetrahydrofolate metabolic process	#1.54861e-05
+threonine-type endopeptidase activity	#0.0015641
+thymus development	#3.09722e-05
+thyroid hormone receptor binding	#1.54861e-05
+thyrotropin-releasing hormone receptor binding	#0.000294236
+toll-like receptor 10 signaling pathway	#0.000340694
+toll-like receptor 2 signaling pathway	#0.000340694
+toll-like receptor 3 signaling pathway	#0.000309722
+toll-like receptor 4 signaling pathway	#0.000340694
+toll-like receptor 5 signaling pathway	#0.000340694
+toll-like receptor 9 signaling pathway	#0.000340694
+toll-like receptor TLR1:TLR2 signaling pathway	#0.000340694
+toll-like receptor TLR6:TLR2 signaling pathway	#0.000340694
+toll-like receptor signaling pathway	#0.000340694
+toxin transport	#0.000201319
+trans-Golgi network	#1.54861e-05
+trans-Golgi network membrane	#4.64583e-05
+transcription coactivator activity	#0.000511042
+transcription cofactor activity	#0.000309722
+transcription corepressor activity	#0.000340694
+transcription corepressor binding	#6.19444e-05
+transcription elongation from RNA polymerase I promoter	#3.09722e-05
+transcription elongation from RNA polymerase II promoter	#0.000418125
+transcription elongation from RNA polymerase III promoter	#1.54861e-05
+transcription export complex	#3.09722e-05
+transcription factor activity, sequence-specific DNA binding	#6.19444e-05
+transcription factor binding	#0.000882708
+transcription factor complex	#4.64583e-05
+transcription from RNA polymerase I promoter	#3.09722e-05
+transcription from RNA polymerase II promoter	#0.000526528
+transcription from RNA polymerase III promoter	#1.54861e-05
+transcription initiation from RNA polymerase I promoter	#3.09722e-05
+transcription initiation from RNA polymerase II promoter	#0.000511042
+transcription, DNA-templated	#0.00120792
+transcription, RNA-templated	#3.09722e-05
+transcription-coupled nucleotide-excision repair	#0.000480069
+transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding	#3.09722e-05
+transcriptional activator activity, RNA polymerase II distal enhancer sequence-specific binding	#1.54861e-05
+transferase activity	#3.09722e-05
+transferrin transport	#4.64583e-05
+transforming growth factor beta receptor binding	#4.64583e-05
+transforming growth factor beta receptor signaling pathway	#0.000371667
+transketolase activity	#3.09722e-05
+translation	#0.0222381
+translation elongation factor activity	#0.000511042
+translation factor activity, RNA binding	#7.74305e-05
+translation initiation factor activity	#0.000356181
+translation initiation factor binding	#1.54861e-05
+translation initiation ternary complex	#1.54861e-05
+translation regulator activity	#0.000898194
+translation release factor activity	#3.09722e-05
+translation release factor activity, codon specific	#3.09722e-05
+translation termination factor activity	#3.09722e-05
+translational elongation	#0.0214483
+translational frameshifting	#3.09722e-05
+translational initiation	#0.0213244
+translational termination	#0.0209992
+translesion synthesis	#0.000387153
+translocation of peptides or proteins into host cell cytoplasm	#3.09722e-05
+transmembrane transport	#0.000774305
+transmembrane transporter activity	#6.19444e-05
+transport	#0.000387153
+transport vesicle	#1.54861e-05
+transporter activity	#0.000139375
+tricarboxylic acid cycle	#9.29167e-05
+triglyceride biosynthetic process	#0.000139375
+triglyceride catabolic process	#3.09722e-05
+triglyceride metabolic process	#3.09722e-05
+trophectodermal cell differentiation	#6.19444e-05
+tropomyosin binding	#3.09722e-05
+tubulin complex assembly	#3.09722e-05
+tumor necrosis factor-mediated signaling pathway	#0.00473875
+type I interferon signaling pathway	#0.000263264
+type I transforming growth factor beta receptor binding	#4.64583e-05
+tyrosine 3-monooxygenase activator activity	#1.54861e-05
+ubiquinone binding	#1.54861e-05
+ubiquinone-6 biosynthetic process	#1.54861e-05
+ubiquitin binding	#4.64583e-05
+ubiquitin conjugating enzyme activity	#1.54861e-05
+ubiquitin conjugating enzyme complex	#4.64583e-05
+ubiquitin ligase complex	#0.000170347
+ubiquitin protein ligase activity	#0.000108403
+ubiquitin protein ligase activity involved in ERAD pathway	#1.54861e-05
+ubiquitin protein ligase binding	#0.000294236
+ubiquitin-dependent SMAD protein catabolic process	#1.54861e-05
+ubiquitin-dependent protein catabolic process	#0.00187382
+ubiquitin-dependent protein catabolic process via the N-end rule pathway	#1.54861e-05
+ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway	#3.09722e-05
+ubiquitin-like protein conjugating enzyme binding	#1.54861e-05
+ubiquitin-protein transferase activity	#9.29167e-05
+ubiquitin-specific protease activity	#9.29167e-05
+ubiquitin-specific protease binding	#1.54861e-05
+ubiquitin-ubiquitin ligase activity	#7.74305e-05
+ubiquitinyl hydrolase activity	#7.74305e-05
+uncoating of virus	#3.09722e-05
+unfolded protein binding	#0.000433611
+unsaturated fatty acid biosynthetic process	#4.64583e-05
+urea cycle	#0.000123889
+ureteric bud development	#3.09722e-05
+uropod	#3.09722e-05
+vascular endothelial growth factor receptor signaling pathway	#0.00476972
+vasodilation	#1.54861e-05
+vasodilation by acetylcholine involved in regulation of systemic arterial blood pressure	#1.54861e-05
+ventricular cardiac muscle tissue morphogenesis	#4.64583e-05
+very long-chain fatty acid biosynthetic process	#3.09722e-05
+vesicle	#0.000340694
+vesicle fusion	#1.54861e-05
+vesicle organization	#1.54861e-05
+vesicle transport along microtubule	#3.09722e-05
+vesicle-mediated transport	#6.19444e-05
+viral budding via host ESCRT complex	#3.09722e-05
+viral life cycle	#0.0211385
+viral mRNA export from host cell nucleus	#3.09722e-05
+viral nucleocapsid	#9.29167e-05
+viral process	#0.0259857
+viral protein processing	#0.000309722
+viral release from host cell	#4.64583e-05
+viral transcription	#0.0210301
+virion assembly	#0.000371667
+virion binding	#3.09722e-05
+vitamin D receptor binding	#1.54861e-05
+vitamin metabolic process	#6.19444e-05
+voltage-gated anion channel activity	#6.19444e-05
+voltage-gated ion channel activity	#4.64583e-05
+water-soluble vitamin metabolic process	#6.19444e-05
+xenobiotic metabolic process	#6.19444e-05
+xenophagy	#0.000371667
+zeta DNA polymerase complex	#1.54861e-05
+zinc ion binding	#0.00126986
+zona pellucida receptor complex	#0.000154861
+zymogen granule	#1.54861e-05

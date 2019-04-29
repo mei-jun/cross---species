@@ -1,0 +1,114 @@
+cytosol	0.0240814	0.0281692
+gene expression	0.0235797	0.0271007
+protein binding	0.0232787	0.0253508
+viral process	0.0228171	0.0259857
+poly(A) RNA binding	0.0192852	0.024019
+membrane	0.0185226	0.0218664
+cytoplasm	0.018061	0.0211231
+nucleus	0.0178804	0.0152383
+extracellular exosome	0.0176998	0.0202558
+translation	0.015091	0.0222381
+cellular protein metabolic process	0.0149505	0.0221916
+translational elongation	0.0144087	0.0214483
+structural constituent of ribosome	0.0143485	0.0213399
+translational initiation	0.0143084	0.0213244
+ribosome	0.0142682	0.0213089
+SRP-dependent cotranslational protein targeting to membrane	0.0140475	0.0210766
+nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	0.0140073	0.0209992
+translational termination	0.0140073	0.0209992
+viral life cycle	0.0140073	0.0211385
+viral transcription	0.0140073	0.0210301
+nucleolus	0.0123016	0.0126676
+nucleoplasm	0.0109771	0.0071391
+intracellular	0.00999378	0.0142627
+cytosolic large ribosomal subunit	0.0097931	0.0149131
+small molecule metabolic process	0.00965263	0.00641125
+RNA binding	0.0092914	0.0125902
+mitotic cell cycle	0.00911079	0.00585375
+small GTPase mediated signal transduction	0.00905059	0.00563694
+proteasome complex	0.00886998	0.00461486
+negative regulation of apoptotic process	0.00884991	0.00520333
+apoptotic process	0.00872951	0.00500201
+axon guidance	0.00870944	0.00487812
+regulation of mRNA stability	0.00870944	0.00487812
+innate immune response	0.0086693	0.00494007
+programmed cell death	0.00864923	0.00483167
+positive regulation of canonical Wnt signaling pathway	0.00862917	0.00483167
+antigen processing and presentation of peptide antigen via MHC class I	0.0086091	0.00480069
+insulin receptor signaling pathway	0.0086091	0.00476972
+regulation of apoptotic process	0.0086091	0.00476972
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	0.00858903	0.00473875
+Fc-epsilon receptor signaling pathway	0.00858903	0.00478521
+MAPK cascade	0.00858903	0.00475424
+NIK/NF-kappaB signaling	0.00858903	0.00473875
+Ras protein signal transduction	0.00858903	0.00476972
+T cell receptor signaling pathway	0.00858903	0.00478521
+activation of MAPKK activity	0.00858903	0.00475424
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	0.00858903	0.00476972
+antigen processing and presentation of exogenous peptide antigen via MHC class I	0.00858903	0.00473875
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	0.00858903	0.00473875
+epidermal growth factor receptor signaling pathway	0.00858903	0.00475424
+fibroblast growth factor receptor signaling pathway	0.00858903	0.00475424
+negative regulation of canonical Wnt signaling pathway	0.00858903	0.00473875
+neurotrophin TRK receptor signaling pathway	0.00858903	0.00476972
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	0.00858903	0.00476972
+protein polyubiquitination	0.00858903	0.00484715
+regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	0.00858903	0.00476972
+stimulatory C-type lectin receptor signaling pathway	0.00858903	0.00476972
+tumor necrosis factor-mediated signaling pathway	0.00858903	0.00473875
+vascular endothelial growth factor receptor signaling pathway	0.00858903	0.00476972
+cellular nitrogen compound metabolic process	0.00856896	0.00447549
+G1/S transition of mitotic cell cycle	0.00852883	0.00466132
+negative regulation of ubiquitin-protein ligase activity involved in mitotic cell cycle	0.00852883	0.00469229
+polyamine metabolic process	0.00852883	0.00442903
+regulation of cellular amino acid metabolic process	0.00852883	0.00442903
+focal adhesion	0.00658225	0.0091368
+rRNA processing	0.0046156	0.00540465
+proteasome regulatory particle, base subcomplex	0.00427445	0.00226097
+cytosolic small ribosomal subunit	0.00421424	0.00611701
+proteasome accessory complex	0.00417411	0.00215257
+endopeptidase activity	0.00369248	0.00182736
+ubiquitin-dependent protein catabolic process	0.00359214	0.00187382
+ATP binding	0.00339146	0.00236937
+proteasome core complex	0.00317072	0.0015641
+proteolysis involved in cellular protein catabolic process	0.00317072	0.0015641
+threonine-type endopeptidase activity	0.00317072	0.0015641
+intracellular ribonucleoprotein complex	0.00315065	0.00397993
+ribosomal large subunit assembly	0.00301017	0.0040109
+proteasome regulatory particle	0.00266902	0.00145569
+ATPase activity	0.00256868	0.00140924
+mitochondrion	0.00252855	0.00325208
+hydrolase activity	0.0023078	0.00123889
+ER-associated ubiquitin-dependent protein catabolic process	0.00226766	0
+ribosomal small subunit assembly	0.00226766	0.00418125
+cytoplasmic translation	0.0022476	0.00360826
+rRNA binding	0.0022476	0.00271007
+ribosomal large subunit biogenesis	0.00222753	0.00301979
+TBP-class protein binding	0.00216733	0
+cytosolic proteasome complex	0.00216733	0
+nuclear proteasome complex	0.00216733	0
+positive regulation of RNA polymerase II transcriptional preinitiation complex assembly	0.00216733	0
+positive regulation of proteasomal protein catabolic process	0.00216733	0
+proteasome-activating ATPase activity	0.00216733	0
+protein catabolic process	0.00216733	0
+proteasome-mediated ubiquitin-dependent protein catabolic process	0.00212719	0
+small-subunit processome	0.0018061	0
+osteoblast differentiation	0.00164556	0.00142472
+endoplasmic reticulum	0.00162549	0.00157958
+binding	0.00152516	0
+proteasome assembly	0.00150509	0
+nucleotide binding	0.00148502	0.0023384
+nucleotide binding	0.00148502	0.0023384
+large ribosomal subunit	0	0.00198222
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0	0.00182736
+cell proliferation	0	0.00179639
+erythrocyte differentiation	0	0.00173444
+maturation of SSU-rRNA	0	0.00170347
+ribosomal small subunit biogenesis	0	0.00168799
+plasma membrane	0	0.00161056
+metal ion binding	0	0.00154861
+protein kinase binding	0	0.00151764
+negative regulation of transcription from RNA polymerase II promoter	0	0.00148667
+protein homodimerization activity	0	0.00133181
+zinc ion binding	0	0.00126986
+hydrolase activity	0	0.00123889

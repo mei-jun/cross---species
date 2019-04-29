@@ -1,0 +1,1388 @@
+DM:
+
+'de novo' protein folding	147	1	0.00151584
+'de novo' pyrimidine nucleobase biosynthetic process	147	1	0.000909504
+acetoacetyl-coa reductase activity	147	1	0.000151584
+acetyl-coa c-acyltransferase activity	147	1	0.000606336
+actin binding	147	7	0.0183417
+actin cytoskeleton	147	3	0.00348643
+actin cytoskeleton organization	147	2	0.00833712
+actin filament	147	2	0.00363802
+actin filament depolymerization	147	1	0.00075792
+actin filament organization	147	3	0.0119751
+actin filament polymerization	147	2	0.00106109
+actin filament reorganization involved in cell cycle	147	2	0.00075792
+actin filament-based process	147	1	0.000909504
+activation of cysteine-type endopeptidase activity	147	1	0.000151584
+actomyosin contractile ring assembly	147	1	0.00272851
+acyl-coa metabolic process	147	1	0.000303168
+adenosine kinase activity	147	1	0.00075792
+adherens junction	147	1	0.0066697
+adult feeding behavior	147	1	0.00151584
+adult locomotory behavior	147	2	0.00606336
+age-dependent response to oxidative stress	147	1	0.000303168
+aging	147	2	0.00075792
+amino acid binding	147	1	0.000606336
+aminoacyl-trna ligase activity	147	1	0.00500227
+androgen metabolic process	147	1	0.000151584
+anterograde axon cargo transport	147	1	0.000909504
+antioxidant activity	147	3	0.00212218
+apoptosome	147	1	0.000454752
+arp2/3 complex-mediated actin nucleation	147	3	0.00166742
+arp2/3 protein complex	147	3	0.00136426
+aspartate carbamoyltransferase activity	147	1	0.000151584
+aster	147	1	0.000606336
+atp binding	147	14	0.0958011
+atp biosynthetic process	147	1	0.000454752
+atp hydrolysis coupled proton transport	147	1	0.00621495
+atp metabolic process	147	1	0.00121267
+atp-dependent chromatin remodeling	147	1	0.000606336
+atp-dependent helicase activity	147	3	0.00712445
+atp-dependent rna helicase activity	147	1	0.00636653
+atpase activator activity	147	1	0.000606336
+atpase activity	147	3	0.0169774
+autophagy	147	1	0.00606336
+axon cargo transport	147	1	0.00227376
+axon guidance	147	2	0.0257693
+axon transport of mitochondrion	147	1	0.000606336
+axonal fasciculation	147	2	0.00242534
+axonogenesis	147	3	0.00803395
+barbed-end actin filament capping	147	1	0.000303168
+basolateral plasma membrane	147	1	0.00424435
+binding	147	8	0.0295589
+biological_process	147	1	0.314992
+biotin carboxylase activity	147	1	0.000454752
+blastoderm segmentation	147	1	0.00348643
+border follicle cell migration	147	5	0.0172806
+brahma complex	147	3	0.00136426
+branch fusion, open tracheal system	147	1	0.00318327
+brush border	147	1	0.000606336
+cadherin binding	147	1	0.00121267
+calcium ion binding	147	3	0.0315295
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	147	1	0.00348643
+carbamoyl phosphate biosynthetic process	147	1	0.000151584
+carbamoyl-phosphate synthase (ammonia) activity	147	1	0.000151584
+carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	147	1	0.000151584
+carbohydrate metabolic process	147	1	0.018948
+carboxyl- or carbamoyltransferase activity	147	1	0.000151584
+catalase activity	147	1	0.000454752
+catalytic activity	147	12	0.107018
+catalytic step 2 spliceosome	147	11	0.0186448
+cation transmembrane transporter activity	147	1	0.00212218
+cation transport	147	1	0.00848871
+cation-transporting atpase activity	147	1	0.00242534
+cell adhesion mediated by integrin	147	1	0.00151584
+cell competition in a multicellular organism	147	1	0.00151584
+cell cortex	147	1	0.0118236
+cell dedifferentiation	147	1	0.000303168
+cell fate determination	147	1	0.00409277
+cell morphogenesis	147	6	0.00788237
+cell proliferation	147	7	0.0115204
+cell redox homeostasis	147	1	0.00742762
+cellular amino acid metabolic process	147	1	0.00348643
+cellular carbohydrate metabolic process	147	1	0.00136426
+cellular process	147	7	0.00727603
+cellular protein localization	147	1	0.00136426
+cellular protein modification process	147	1	0.00454752
+cellular response to dna damage stimulus	147	10	0.0151584
+cellular response to lipopolysaccharide	147	1	0.000303168
+cellular response to x-ray	147	1	0.000151584
+cellular_component	147	4	0.360618
+cellularization	147	2	0.0066697
+central nervous system development	147	1	0.0127331
+centriole replication	147	1	0.00363802
+centrosome	147	1	0.0103077
+centrosome localization	147	1	0.00212218
+centrosome organization	147	3	0.00848871
+centrosome separation	147	1	0.00212218
+chaeta development	147	2	0.0095498
+chaeta morphogenesis	147	1	0.00697287
+chaperone binding	147	1	0.00272851
+chitin-based cuticle development	147	1	0.0227376
+chitin-based embryonic cuticle biosynthetic process	147	1	0.00272851
+chitin-based larval cuticle pattern formation	147	1	0.00166742
+chromatin binding	147	4	0.0181901
+chromatin remodeling	147	2	0.00591178
+chromatin-mediated maintenance of transcription	147	1	0.00121267
+cis-golgi network	147	1	0.00121267
+clathrin coat of coated pit	147	1	0.000303168
+clathrin coat of synaptic vesicle	147	1	0.000151584
+clathrin coat of trans-golgi network vesicle	147	1	0.000303168
+clathrin complex	147	1	0.000303168
+clathrin light chain binding	147	1	0.000151584
+clathrin vesicle coat	147	1	0.000303168
+clathrin-coated vesicle	147	1	0.00151584
+cleavage furrow	147	1	0.00333485
+coated pit	147	1	0.000909504
+coated vesicle	147	1	0.00227376
+compound eye development	147	4	0.0190996
+compound eye morphogenesis	147	2	0.0124299
+compound eye photoreceptor cell differentiation	147	1	0.00409277
+compound eye photoreceptor development	147	1	0.00363802
+compound eye retinal cell programmed cell death	147	1	0.00151584
+cop9 signalosome	147	2	0.00136426
+copi vesicle coat	147	3	0.00121267
+copii vesicle coat	147	2	0.000909504
+copii-coated vesicle budding	147	2	0.000303168
+copper ion binding	147	1	0.00333485
+courtship behavior	147	1	0.00394119
+cullin deneddylation	147	2	0.00136426
+cytoplasm	147	36	0.15022
+cytoplasmic membrane-bounded vesicle	147	1	0.00136426
+cytoplasmic microtubule organization	147	2	0.0028801
+cytoplasmic mrna processing body	147	1	0.00227376
+cytoplasmic transport, nurse cell to oocyte	147	1	0.00227376
+cytoplasmic vesicle	147	1	0.00333485
+cytoskeleton	147	2	0.00879188
+cytoskeleton organization	147	3	0.00682128
+cytosol	147	8	0.0234955
+damaged dna binding	147	1	0.00363802
+defense response	147	1	0.0156132
+defense response to gram-negative bacterium	147	3	0.0140973
+dendrite	147	1	0.00651811
+dendrite guidance	147	2	0.00318327
+dendrite morphogenesis	147	4	0.0268304
+determination of adult lifespan	147	8	0.0230408
+dibutyl phthalate binding	147	1	0.000151584
+dihydroorotase activity	147	1	0.000151584
+diphenyl phthalate binding	147	1	0.000151584
+dna binding	147	14	0.104593
+dna endoreduplication	147	1	0.00257693
+dna repair	147	1	0.0124299
+dna secondary structure binding	147	1	0.000151584
+dna unwinding involved in dna replication	147	1	0.000303168
+dna-dependent atpase activity	147	1	0.00212218
+dna-directed rna polymerase activity	147	5	0.00439594
+dna-directed rna polymerase i complex	147	5	0.000909504
+dna-directed rna polymerase iii complex	147	1	0.00136426
+dna-templated transcription, initiation	147	1	0.00333485
+dolichyl-diphosphooligosaccharide-protein glycotransferase activity	147	1	0.000606336
+dorsal appendage formation	147	1	0.00712445
+dorsal closure	147	2	0.0150068
+dosage compensation	147	1	0.00181901
+dsrna transport	147	1	0.00394119
+dutp diphosphatase activity	147	1	0.000151584
+dutp metabolic process	147	1	0.000151584
+dynactin complex	147	2	0.00166742
+dynein binding	147	1	0.00075792
+early endosome	147	1	0.00560861
+ecdysone metabolic process	147	1	0.000454752
+embryo development ending in birth or egg hatching	147	1	0.00151584
+embryonic development via the syncytial blastoderm	147	2	0.00727603
+embryonic pattern specification	147	1	0.00333485
+encapsulation of foreign target	147	1	0.00212218
+endocytosis	147	2	0.00788237
+endomembrane system	147	3	0.0256177
+endopeptidase activator activity	147	1	0.000454752
+endopeptidase activity	147	14	0.0101561
+endoplasmic reticulum	147	5	0.0277399
+endoplasmic reticulum exit site	147	1	0.000909504
+endoribonuclease activity	147	1	0.00136426
+epithelial cell fate determination, open tracheal system	147	1	0.00106109
+epithelial cell migration, open tracheal system	147	1	0.00515386
+epithelium development	147	2	0.00485069
+er to golgi transport vesicle	147	1	0.000909504
+establishment of epithelial cell apical/basal polarity	147	1	0.00166742
+establishment of imaginal disc-derived wing hair orientation	147	1	0.0037896
+establishment of ommatidial planar polarity	147	1	0.00469911
+establishment of planar polarity	147	2	0.00500227
+estradiol 17-beta-dehydrogenase activity	147	1	0.000303168
+estrogen metabolic process	147	1	0.000151584
+euchromatin	147	1	0.00181901
+eukaryotic translation elongation factor 1 complex	147	2	0.00075792
+eukaryotic translation initiation factor 3 complex	147	5	0.00272851
+exonuclease activity	147	1	0.00166742
+extracellular matrix organization	147	2	0.00121267
+extracellular region	147	1	0.0839776
+extracellular space	147	1	0.0598757
+eye photoreceptor cell differentiation	147	1	0.00075792
+eye-antennal disc morphogenesis	147	1	0.0037896
+f-actin capping protein complex	147	1	0.000303168
+fact complex	147	3	0.000606336
+fatty acid beta-oxidation	147	1	0.00318327
+fatty acid metabolic process	147	1	0.00197059
+female gonad development	147	1	0.00197059
+fertilization	147	1	0.000303168
+fertilization, exchange of chromosomal proteins	147	1	0.000606336
+fk506 binding	147	1	0.00106109
+fructose-bisphosphate aldolase activity	147	1	0.000303168
+g-protein coupled receptor activity	147	1	0.0177353
+g-protein coupled receptor signaling pathway	147	1	0.0224344
+gene silencing	147	1	0.00272851
+germ-line stem cell division	147	1	0.00318327
+germ-line stem cell population maintenance	147	1	0.00591178
+germarium-derived female germ-line cyst formation	147	1	0.00606336
+gluconeogenesis	147	1	0.000606336
+glucose metabolic process	147	2	0.00151584
+glutamine binding	147	1	0.000151584
+glutamine catabolic process	147	1	0.000151584
+glutamine metabolic process	147	1	0.00106109
+glyceraldehyde-3-phosphate dehydrogenase (nad+) (phosphorylating) activity	147	2	0.000454752
+glycine-trna ligase activity	147	1	0.000303168
+glycolytic process	147	7	0.00394119
+glycyl-trna aminoacylation	147	1	0.000303168
+golgi apparatus	147	3	0.0150068
+golgi membrane	147	1	0.00303168
+golgi organization	147	2	0.0104593
+golgi stack	147	2	0.00485069
+golgi vesicle transport	147	1	0.00333485
+gtp binding	147	3	0.0247082
+gtpase activating protein binding	147	1	0.000606336
+gtpase activity	147	3	0.0222829
+head involution	147	1	0.00606336
+heart morphogenesis	147	1	0.00151584
+heat shock protein binding	147	1	0.00106109
+helicase activity	147	2	0.00636653
+heme binding	147	1	0.0206154
+hemocyte proliferation	147	2	0.00166742
+hemopoiesis	147	1	0.00333485
+heterochromatin	147	1	0.00227376
+hindgut morphogenesis	147	1	0.0028801
+histone binding	147	1	0.00181901
+histone deacetylase complex	147	1	0.000454752
+histone h3-k27 acetylation	147	1	0.000303168
+histone h3-k4 methylation	147	1	0.00257693
+histone locus body	147	1	0.00136426
+histone modification	147	1	0.000909504
+humoral immune response	147	1	0.00303168
+hydrolase activity	147	4	0.0198575
+hydrolase activity, acting on acid anhydrides	147	1	0.00166742
+hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances	147	2	0.00181901
+hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	147	1	0.00166742
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	147	1	0.0028801
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides	147	1	0.000303168
+imaginal disc fusion, thorax closure	147	1	0.0028801
+imaginal disc pattern formation	147	1	0.00166742
+imaginal disc-derived leg morphogenesis	147	4	0.00939821
+imaginal disc-derived leg segmentation	147	1	0.00181901
+imaginal disc-derived wing hair organization	147	1	0.00318327
+imaginal disc-derived wing margin morphogenesis	147	4	0.00454752
+imaginal disc-derived wing morphogenesis	147	3	0.0318327
+imaginal disc-derived wing vein morphogenesis	147	3	0.00712445
+imaginal disc-derived wing vein specification	147	2	0.00788237
+ino80 complex	147	2	0.00181901
+integral component of membrane	147	2	0.164923
+intracellular	147	3	0.0425951
+intracellular protein transport	147	7	0.0162195
+intracellular ribonucleoprotein complex	147	3	0.00363802
+intracellular transport	147	1	0.00257693
+intramolecular transferase activity, phosphotransferases	147	1	0.00106109
+investment cone	147	1	0.00075792
+iron-sulfur cluster assembly	147	1	0.00197059
+iron-sulfur cluster binding	147	1	0.00469911
+isocitrate dehydrogenase (nad+) activity	147	1	0.000909504
+jak-stat cascade	147	1	0.00181901
+jnk cascade	147	1	0.00409277
+jump response	147	1	0.00106109
+juvenile hormone mediated signaling pathway	147	1	0.000454752
+juvenile hormone response element binding	147	1	0.000303168
+kinetochore	147	1	0.00500227
+kinetochore microtubule	147	1	0.00181901
+kinetochore organization	147	1	0.00075792
+l-lactate dehydrogenase activity	147	1	0.000303168
+lactoylglutathione lyase activity	147	1	0.000151584
+lamellipodium	147	2	0.000454752
+lamellocyte differentiation	147	1	0.00075792
+larval chitin-based cuticle development	147	1	0.00212218
+larval locomotory behavior	147	1	0.0037896
+larval lymph gland hemopoiesis	147	1	0.00121267
+larval midgut cell programmed cell death	147	1	0.0028801
+larval salivary gland morphogenesis	147	1	0.00197059
+larval somatic muscle development	147	1	0.00272851
+lateral inhibition	147	4	0.0315295
+ligase activity	147	1	0.00151584
+lipid particle	147	15	0.0319842
+lipid storage	147	1	0.00181901
+liquid clearance, open tracheal system	147	1	0.00181901
+locomotory behavior	147	1	0.00227376
+long-term memory	147	1	0.00985296
+lumen formation, open tracheal system	147	1	0.00212218
+lymph gland development	147	1	0.00272851
+m band	147	4	0.00136426
+magnesium ion binding	147	2	0.00712445
+maintenance of neuroblast polarity	147	1	0.000454752
+male meiosis cytokinesis	147	1	0.00409277
+mapk cascade	147	1	0.00166742
+melanotic encapsulation of foreign target	147	1	0.00454752
+membrane	147	2	0.121116
+membrane budding	147	1	0.000303168
+membrane coat	147	2	0.00197059
+membrane tubulation	147	2	0.00075792
+mesoderm development	147	2	0.0103077
+metabolic process	147	8	0.0566924
+metal ion binding	147	11	0.0657875
+micropyle formation	147	1	0.000606336
+microtubule associated complex	147	22	0.0480521
+microtubule motor activity	147	1	0.00818554
+microtubule plus-end	147	1	0.00106109
+microtubule-based movement	147	1	0.0130362
+microtubule-based transport	147	1	0.000606336
+midbody	147	2	0.00318327
+midgut development	147	1	0.00469911
+mitochondrial electron transport, ubiquinol to cytochrome c	147	1	0.00197059
+mitochondrial matrix	147	3	0.00879188
+mitochondrial membrane	147	1	0.00712445
+mitochondrial respiratory chain complex iii	147	1	0.00197059
+mitochondrial transport	147	1	0.00727603
+mitochondrion	147	11	0.0492648
+mitochondrion transport along microtubule	147	1	0.000909504
+mitotic anaphase	147	1	0.00106109
+mitotic cell cycle	147	1	0.00818554
+mitotic cytokinesis	147	3	0.00788237
+mitotic g2 dna damage checkpoint	147	5	0.0106109
+mitotic nuclear division	147	5	0.0160679
+mitotic spindle assembly	147	4	0.00727603
+mitotic spindle elongation	147	5	0.0121267
+mitotic spindle midzone assembly	147	1	0.000151584
+mitotic spindle organization	147	12	0.0292557
+mll1/2 complex	147	1	0.00106109
+mll3/4 complex	147	1	0.00166742
+molecular_function	147	2	0.376383
+monovalent inorganic cation transmembrane transporter activity	147	1	0.000303168
+monovalent inorganic cation transport	147	1	0.000606336
+mrna 3'-utr binding	147	2	0.0037896
+mrna 5'-utr binding	147	1	0.000454752
+mrna binding	147	7	0.0275883
+mrna cleavage	147	2	0.00227376
+mrna cleavage and polyadenylation specificity factor complex	147	1	0.00106109
+mrna cleavage factor complex	147	1	0.000606336
+mrna polyadenylation	147	2	0.00272851
+mrna processing	147	3	0.00530544
+mrna splice site selection	147	1	0.00151584
+mrna splicing, via spliceosome	147	14	0.0292557
+mrna transport	147	1	0.00151584
+multicellular organism reproduction	147	1	0.0339548
+multicellular organismal aging	147	1	0.000454752
+muscle organ development	147	4	0.0109141
+mushroom body development	147	2	0.0104593
+myoblast fusion	147	5	0.0066697
+myosin binding	147	1	0.00469911
+nad binding	147	3	0.00500227
+nadp binding	147	2	0.00197059
+negative regulation of actin filament polymerization	147	1	0.000909504
+negative regulation of actin nucleation	147	1	0.000303168
+negative regulation of antimicrobial humoral response	147	2	0.000606336
+negative regulation of apoptotic process	147	2	0.00833712
+negative regulation of chromatin silencing	147	1	0.00136426
+negative regulation of filopodium assembly	147	1	0.000454752
+negative regulation of g1/s transition of mitotic cell cycle	147	1	0.00166742
+negative regulation of gene expression	147	1	0.00864029
+negative regulation of innate immune response	147	1	0.00363802
+negative regulation of jnk cascade	147	1	0.00272851
+negative regulation of neuroblast proliferation	147	3	0.00181901
+negative regulation of notch signaling pathway	147	1	0.0066697
+negative regulation of oskar mrna translation	147	2	0.00121267
+negative regulation of synaptic growth at neuromuscular junction	147	1	0.00591178
+negative regulation of transcription from rna polymerase ii promoter	147	1	0.0230408
+negative regulation of transcription, dna-templated	147	1	0.0140973
+negative regulation of wnt signaling pathway	147	1	0.00409277
+nervous system development	147	1	0.0156132
+neuroblast fate commitment	147	1	0.000454752
+neurogenesis	147	23	0.0847355
+neurological system process	147	1	0.000454752
+neuromuscular junction	147	1	0.0075792
+neuromuscular junction development	147	1	0.00621495
+neuromuscular process	147	1	0.000454752
+neuron development	147	1	0.0066697
+neuron differentiation	147	1	0.00166742
+neuron projection morphogenesis	147	3	0.0163711
+neuron remodeling	147	1	0.00409277
+neurotransmitter secretion	147	2	0.0148552
+nitrogen compound metabolic process	147	1	0.00181901
+notch signaling pathway	147	1	0.00697287
+nua4 histone acetyltransferase complex	147	1	0.000909504
+nuclear exosome (rnase complex)	147	1	0.00197059
+nuclear pore	147	2	0.00606336
+nuclear pore outer ring	147	1	0.00106109
+nuclear-transcribed mrna poly(a) tail shortening	147	1	0.00121267
+nucleic acid binding	147	18	0.0883735
+nucleolus	147	1	0.0137941
+nucleoplasm	147	2	0.00530544
+nucleosomal dna binding	147	1	0.000151584
+nucleotidase activity	147	1	0.000303168
+nucleotide binding	147	8	0.0341064
+nucleotidyltransferase activity	147	1	0.00166742
+nucleus	147	39	0.23541
+odorant binding	147	1	0.0172806
+olfactory behavior	147	1	0.00697287
+oligosaccharyltransferase complex	147	1	0.000606336
+oocyte localization involved in germarium-derived egg chamber formation	147	1	0.00227376
+oocyte microtubule cytoskeleton polarization	147	2	0.00333485
+oogenesis	147	7	0.034258
+open tracheal system development	147	2	0.0165227
+ovarian follicle cell development	147	1	0.00848871
+ovarian follicle cell stalk formation	147	2	0.00318327
+oxidation-reduction process	147	7	0.0662422
+oxidoreductase activity	147	4	0.0392603
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, nad or nadp as acceptor	147	2	0.00242534
+oxidoreductase activity, acting on the ch-oh group of donors, nad or nadp as acceptor	147	2	0.00576019
+p granule	147	1	0.00424435
+paracrine signaling	147	1	0.00106109
+pbaf complex	147	1	0.000151584
+peptidyl-proline modification	147	1	0.00106109
+peptidyl-prolyl cis-trans isomerase activity	147	1	0.00409277
+perinuclear endoplasmic reticulum	147	1	0.000606336
+perinuclear region of cytoplasm	147	3	0.00697287
+peripheral nervous system development	147	1	0.0125815
+peroxisome	147	3	0.0103077
+phagocytosis	147	8	0.0310747
+phosphatidylinositol metabolic process	147	1	0.00136426
+phosphoglycerate mutase activity	147	1	0.000606336
+phospholipid binding	147	1	0.00409277
+phosphopyruvate hydratase activity	147	1	0.000151584
+phosphopyruvate hydratase complex	147	1	0.000151584
+photoreceptor cell differentiation	147	1	0.000606336
+plasma membrane	147	12	0.0763984
+plasma membrane proton-transporting v-type atpase complex	147	1	0.00212218
+pole plasm	147	1	0.00212218
+pole plasm oskar mrna localization	147	3	0.00515386
+poly(a)-specific ribonuclease activity	147	1	0.000303168
+poly-pyrimidine tract binding	147	1	0.00106109
+polynucleotide adenylyltransferase activity	147	1	0.00075792
+polytene chromosome	147	3	0.0186448
+polytene chromosome interband	147	2	0.00515386
+polytene chromosome puff	147	2	0.00485069
+positive regulation of cell growth	147	1	0.00394119
+positive regulation of cell proliferation	147	1	0.00469911
+positive regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	147	1	0.000151584
+positive regulation of defense response to virus by host	147	1	0.00151584
+positive regulation of developmental growth	147	1	0.000303168
+positive regulation of endocytosis	147	1	0.00136426
+positive regulation of epidermal growth factor receptor signaling pathway	147	1	0.00121267
+positive regulation of erk1 and erk2 cascade	147	2	0.00545703
+positive regulation of filopodium assembly	147	2	0.00227376
+positive regulation of gene silencing by mirna	147	1	0.00075792
+positive regulation of growth	147	1	0.00181901
+positive regulation of heart contraction	147	1	0.00075792
+positive regulation of histone h3-k4 methylation	147	1	0.000151584
+positive regulation of innate immune response	147	2	0.00500227
+positive regulation of jak-stat cascade	147	1	0.00348643
+positive regulation of lamellipodium assembly	147	1	0.00106109
+positive regulation of multicellular organism growth	147	1	0.0037896
+positive regulation of nfat protein import into nucleus	147	2	0.00242534
+positive regulation of notch signaling pathway	147	4	0.00545703
+positive regulation of ras protein signal transduction	147	2	0.00621495
+positive regulation of synaptic growth at neuromuscular junction	147	2	0.00348643
+positive regulation of transcription elongation from rna polymerase ii promoter	147	1	0.00166742
+positive regulation of transcription from rna polymerase ii promoter	147	3	0.0283462
+positive regulation of transcription, dna-templated	147	6	0.0133394
+positive regulation of translation	147	1	0.00212218
+precatalytic spliceosome	147	12	0.0224344
+primary sex determination	147	1	0.000606336
+proteasome assembly	147	1	0.000454752
+proteasome complex	147	9	0.00469911
+proteasome core complex	147	12	0.00409277
+proteasome core complex, alpha-subunit complex	147	5	0.00181901
+proteasome regulatory particle	147	3	0.00363802
+proteasome regulatory particle, base subcomplex	147	2	0.00166742
+proteasome regulatory particle, lid subcomplex	147	1	0.00151584
+proteasome-mediated ubiquitin-dependent protein catabolic process	147	15	0.00682128
+protein binding	147	37	0.331969
+protein catabolic process	147	2	0.00303168
+protein complex	147	2	0.0118236
+protein dephosphorylation	147	1	0.0124299
+protein deubiquitination	147	1	0.00530544
+protein dimerization activity	147	4	0.0125815
+protein folding	147	5	0.0144005
+protein heterodimerization activity	147	2	0.0301652
+protein homodimerization activity	147	1	0.0154616
+protein import into nucleus	147	1	0.0037896
+protein localization	147	1	0.00833712
+protein localization to kinetochore	147	1	0.00106109
+protein n-linked glycosylation	147	1	0.00197059
+protein phosphatase 1 binding	147	2	0.00409277
+protein phosphatase inhibitor activity	147	1	0.00121267
+protein phosphatase type 1 complex	147	1	0.00197059
+protein phosphatase type 2a complex	147	1	0.00106109
+protein phosphatase type 2a regulator activity	147	1	0.000909504
+protein secretion	147	2	0.00500227
+protein self-association	147	1	0.00075792
+protein serine/threonine phosphatase activity	147	1	0.00545703
+protein stabilization	147	3	0.0037896
+protein transmembrane transporter activity	147	1	0.00166742
+protein transporter activity	147	2	0.00560861
+protein ubiquitination	147	4	0.0128846
+proteolysis	147	10	0.082007
+proteolysis involved in cellular protein catabolic process	147	12	0.00394119
+proton transport	147	1	0.00515386
+proton-transporting atpase activity, rotational mechanism	147	1	0.00621495
+proton-transporting two-sector atpase complex, catalytic domain	147	1	0.00121267
+proton-transporting v-type atpase, v1 domain	147	1	0.00166742
+prp19 complex	147	1	0.00136426
+pseudocleavage involved in syncytial blastoderm formation	147	2	0.00136426
+puparial adhesion	147	1	0.00181901
+purine ribonucleoside salvage	147	1	0.00075792
+pyruvate carboxylase activity	147	1	0.000151584
+pyruvate metabolic process	147	1	0.00166742
+r3/r4 cell fate commitment	147	1	0.00242534
+r7 cell fate commitment	147	1	0.00197059
+reactive oxygen species metabolic process	147	1	0.00075792
+regulation of actin filament length	147	1	0.000151584
+regulation of actin filament polymerization	147	2	0.00197059
+regulation of actin polymerization or depolymerization	147	1	0.00121267
+regulation of alternative mrna splicing, via spliceosome	147	2	0.00909504
+regulation of apoptotic process	147	1	0.0037896
+regulation of apoptotic signaling pathway	147	1	0.000303168
+regulation of autophagy	147	1	0.00409277
+regulation of calcium ion transport into cytosol	147	1	0.000151584
+regulation of cell cycle	147	4	0.0144005
+regulation of cell growth	147	1	0.00242534
+regulation of cell shape	147	1	0.013491
+regulation of cell size	147	1	0.00242534
+regulation of chromatin assembly or disassembly	147	2	0.000454752
+regulation of chromatin silencing	147	1	0.00166742
+regulation of dna binding	147	1	0.000454752
+regulation of dna-templated transcription, elongation	147	1	0.00075792
+regulation of epidermal growth factor receptor signaling pathway	147	1	0.000909504
+regulation of g-protein coupled receptor protein signaling pathway	147	1	0.00136426
+regulation of growth	147	2	0.00303168
+regulation of hemocyte proliferation	147	1	0.00424435
+regulation of imaginal disc-derived wing size	147	1	0.0028801
+regulation of jak-stat cascade	147	1	0.00181901
+regulation of lamellipodium assembly	147	2	0.00106109
+regulation of lipid storage	147	2	0.00227376
+regulation of mitotic nuclear division	147	1	0.00363802
+regulation of mrna splicing, via spliceosome	147	1	0.00151584
+regulation of organ growth	147	1	0.00242534
+regulation of phosphoprotein phosphatase activity	147	1	0.000454752
+regulation of pole plasm oskar mrna localization	147	1	0.0037896
+regulation of programmed cell death	147	1	0.00121267
+regulation of ras protein signal transduction	147	1	0.000909504
+regulation of response to dna damage stimulus	147	1	0.00242534
+regulation of signal transduction	147	1	0.00166742
+regulation of synaptic growth at neuromuscular junction	147	1	0.00469911
+regulation of transcription from rna polymerase ii promoter	147	2	0.0213734
+regulation of transcription, dna-templated	147	11	0.0715477
+regulation of translational initiation	147	1	0.00121267
+regulation of tube architecture, open tracheal system	147	1	0.00197059
+regulation of tube diameter, open tracheal system	147	2	0.00166742
+regulation of tube length, open tracheal system	147	2	0.0037896
+removal of superoxide radicals	147	1	0.00075792
+response to ethanol	147	1	0.00151584
+response to heat	147	1	0.0104593
+response to hydrogen peroxide	147	1	0.000606336
+response to mechanical stimulus	147	2	0.00227376
+response to oxidative stress	147	4	0.0106109
+response to pheromone	147	1	0.00212218
+response to stress	147	2	0.00333485
+response to temperature stimulus	147	1	0.000303168
+response to uv	147	1	0.00151584
+retina homeostasis	147	1	0.000303168
+retrograde axon cargo transport	147	2	0.000303168
+retrograde synaptic vesicle transport	147	1	0.000303168
+retrograde vesicle-mediated transport, golgi to er	147	3	0.00166742
+rhabdomere development	147	2	0.00530544
+rho gtpase binding	147	1	0.00136426
+rhodopsin biosynthetic process	147	1	0.00136426
+ribonucleoside binding	147	1	0.000606336
+rna 3'-end processing	147	1	0.000151584
+rna binding	147	3	0.0278915
+rna helicase activity	147	2	0.00257693
+rna polyadenylation	147	1	0.000303168
+rna polymerase ii transcription factor activity, sequence-specific dna binding	147	1	0.00409277
+rna splicing	147	2	0.00257693
+saga complex	147	1	0.00348643
+second mitotic wave involved in compound eye morphogenesis	147	1	0.00151584
+secretory granule	147	1	0.00075792
+secretory granule organization	147	1	0.000909504
+segment specification	147	2	0.00348643
+segmentation	147	1	0.00151584
+seh1-associated complex	147	1	0.00121267
+sensory organ development	147	1	0.00985296
+sensory perception of chemical stimulus	147	1	0.0140973
+sensory perception of smell	147	1	0.013491
+sensory perception of sound	147	1	0.00833712
+sepiapterin reductase activity	147	1	0.000454752
+septate junction	147	1	0.00454752
+septate junction assembly	147	1	0.00454752
+sequence-specific dna binding	147	2	0.0407761
+serine-type endopeptidase activity	147	1	0.0428983
+set1c/compass complex	147	1	0.00121267
+sex determination	147	1	0.0028801
+signal transducer activity	147	1	0.0075792
+signal transduction	147	4	0.03062
+single-stranded dna binding	147	2	0.00272851
+single-stranded rna binding	147	1	0.00075792
+smad protein import into nucleus	147	2	0.00166742
+small gtpase mediated signal transduction	147	1	0.0148552
+small nuclear ribonucleoprotein complex	147	3	0.0066697
+small protein activating enzyme activity	147	1	0.000606336
+smooth muscle contraction	147	1	0.000303168
+sodium:potassium-exchanging atpase activity	147	1	0.00121267
+sodium:potassium-exchanging atpase complex	147	1	0.00121267
+somatic muscle development	147	4	0.00560861
+somatic stem cell division	147	1	0.00136426
+somatic stem cell population maintenance	147	1	0.00212218
+sperm individualization	147	4	0.00773079
+spermatid development	147	1	0.00651811
+spindle assembly	147	1	0.00409277
+spindle microtubule	147	1	0.00212218
+spindle pole centrosome	147	1	0.000606336
+spliceosomal complex	147	10	0.0103077
+stem cell division	147	1	0.00075792
+stem cell population maintenance	147	1	0.00106109
+steroid dehydrogenase activity	147	1	0.00075792
+steroid metabolic process	147	1	0.000454752
+striated muscle thin filament	147	1	0.000454752
+structural constituent of cytoskeleton	147	4	0.0066697
+structural molecule activity	147	7	0.00833712
+superoxide dismutase activity	147	1	0.00075792
+superoxide metabolic process	147	1	0.000909504
+swr1 complex	147	1	0.000151584
+synapse maturation	147	1	0.000909504
+synaptic growth at neuromuscular junction	147	3	0.00515386
+synaptic transmission	147	2	0.00803395
+synaptic vesicle	147	3	0.0104593
+synaptic vesicle coating	147	1	0.00212218
+synaptic vesicle exocytosis	147	1	0.00363802
+synaptic vesicle priming	147	1	0.00242534
+testosterone dehydrogenase (nad+) activity	147	1	0.000151584
+tetrahydrobiopterin biosynthetic process	147	1	0.000606336
+thiamine pyrophosphate transport	147	1	0.000303168
+thiamine pyrophosphate-transporting atpase activity	147	1	0.000303168
+threonine-type endopeptidase activity	147	12	0.00409277
+tissue homeostasis	147	1	0.000303168
+trachea morphogenesis	147	1	0.00318327
+trans-golgi network	147	1	0.00272851
+transcription coactivator activity	147	3	0.00636653
+transcription elongation factor complex	147	1	0.00181901
+transcription factor activity, rna polymerase ii core promoter sequence-specific binding involved in preinitiation complex assembly	147	1	0.00303168
+transcription factor activity, sequence-specific dna binding	147	5	0.0618463
+transcription factor binding	147	1	0.0150068
+transcription factor complex	147	1	0.00924663
+transcription factor tfiid complex	147	2	0.0037896
+transcription from rna polymerase i promoter	147	5	0.000909504
+transcription from rna polymerase iii promoter	147	1	0.00136426
+transcription initiation from rna polymerase ii promoter	147	2	0.00970138
+transcription, dna-templated	147	6	0.0125815
+transcriptional activator activity, rna polymerase ii core promoter proximal region sequence-specific binding	147	1	0.00682128
+transcriptionally active chromatin	147	2	0.00333485
+transferase activity, transferring acyl groups other than amino-acyl groups	147	1	0.0066697
+transketolase activity	147	1	0.000303168
+translation	147	4	0.0284978
+translation elongation factor activity	147	2	0.00242534
+translation initiation factor activity	147	6	0.00848871
+translation repressor activity, nucleic acid binding	147	1	0.00121267
+translational elongation	147	2	0.00303168
+translational initiation	147	5	0.00818554
+transmembrane transport	147	1	0.0468395
+transmembrane transporter activity	147	1	0.0159163
+tricarboxylic acid cycle	147	1	0.00591178
+triose-phosphate isomerase activity	147	1	0.000151584
+trna aminoacylation for protein translation	147	1	0.00500227
+u1 snrnp	147	1	0.00136426
+u2 snrnp	147	5	0.00242534
+u4 snrna binding	147	1	0.000454752
+u4 snrnp	147	1	0.000303168
+u6 snrna binding	147	1	0.000454752
+u6 snrnp	147	1	0.00136426
+ubiquinol-cytochrome-c reductase activity	147	1	0.00181901
+ubiquitin activating enzyme activity	147	1	0.000454752
+ubiquitin binding	147	1	0.00136426
+ubiquitin-dependent protein catabolic process	147	10	0.0128846
+ubiquitin-protein transferase activity	147	3	0.0304684
+ubiquitin-specific protease activity	147	1	0.00606336
+ubiquitinyl hydrolase activity	147	1	0.00333485
+unfolded protein binding	147	4	0.00985296
+vacuolar acidification	147	1	0.000606336
+vacuolar proton-transporting v-type atpase, v1 domain	147	1	0.00212218
+ventral furrow formation	147	1	0.00257693
+vesicle docking involved in exocytosis	147	1	0.00121267
+vesicle fusion with golgi apparatus	147	1	0.000151584
+vesicle membrane	147	1	0.000909504
+vesicle-mediated transport	147	3	0.0210702
+wash complex	147	1	0.000909504
+wing disc development	147	1	0.0125815
+wing disc dorsal/ventral pattern formation	147	1	0.00697287
+wnt signaling pathway	147	2	0.00833712
+wound healing	147	1	0.00742762
+z disc	147	4	0.00439594
+zinc ion binding	147	12	0.0989844
+MM:
+
+'de novo' pyrimidine nucleobase biosynthetic process	96	1	0.000375869
+'de novo' ump biosynthetic process	96	1	0.000187935
+actin binding	96	2	0.0177911
+actin cytoskeleton	96	4	0.0116519
+actin cytoskeleton organization	96	1	0.00808119
+actin filament binding	96	4	0.00707887
+actin filament bundle assembly	96	1	0.00150348
+actin filament depolymerization	96	1	0.000501159
+actin filament organization	96	2	0.00451043
+activation of gtpase activity	96	1	0.00200464
+adp binding	96	1	0.0018167
+aging	96	2	0.0114014
+alternative mrna splicing, via spliceosome	96	1	0.000814383
+amino acid binding	96	1	0.00150348
+aminoacyl-trna editing activity	96	1	0.000689094
+aminoacyl-trna ligase activity	96	1	0.00225522
+androgen receptor binding	96	1	0.00137819
+androgen receptor signaling pathway	96	2	0.00119025
+antigen binding	96	1	0.00231786
+aorta development	96	1	0.00137819
+aortic smooth muscle cell differentiation	96	1	6.26449e-05
+apical plasma membrane	96	2	0.0169768
+apolipoprotein binding	96	1	0.000814383
+apoptotic chromosome condensation	96	1	0.000313224
+apoptotic process	96	2	0.0240556
+arginine biosynthetic process	96	1	0.000375869
+arp2/3 complex-mediated actin nucleation	96	3	0.000939673
+arp2/3 protein complex	96	3	0.000689094
+aspartate carbamoyltransferase activity	96	1	0.00012529
+asymmetric cell division	96	1	0.000187935
+atp binding	96	10	0.0910856
+atp-dependent chromatin remodeling	96	5	0.00150348
+atpase activity	96	2	0.0113387
+axon	96	1	0.0168515
+axon cytoplasm	96	1	0.00012529
+b cell activation	96	1	0.00137819
+b cell differentiation	96	1	0.00357076
+b cell mediated immunity	96	1	0.000187935
+baf-type complex	96	6	0.00100232
+basolateral plasma membrane	96	1	0.0106496
+bent dna binding	96	1	0.00012529
+bicellular tight junction	96	1	0.00758003
+binding	96	5	0.0218631
+biological_process	96	3	0.30389
+blastocyst growth	96	1	0.000563804
+blastocyst hatching	96	1	0.000187935
+blood vessel development	96	1	0.00369605
+blood vessel remodeling	96	1	0.00212993
+brain development	96	1	0.0136566
+brush border	96	1	0.00407192
+brush border membrane	96	1	0.00344547
+c3hc4-type ring finger domain binding	96	1	0.000313224
+caf-1 complex	96	1	0.000187935
+calcium ion binding	96	1	0.0422853
+calcium ion-dependent exocytosis	96	1	0.000877028
+carbamoyl-phosphate synthase (ammonia) activity	96	1	0.00012529
+carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	96	1	0.00012529
+carbohydrate binding	96	1	0.0112134
+carbohydrate metabolic process	96	1	0.00952202
+carboxyl- or carbamoyltransferase activity	96	1	0.00012529
+cardiac chamber development	96	1	6.26449e-05
+cardiac muscle cell differentiation	96	1	0.00200464
+cardiac vascular smooth muscle cell development	96	1	0.000313224
+catalytic activity	96	2	0.0215498
+catalytic step 2 spliceosome	96	7	0.00557539
+cation binding	96	1	0.00100232
+cell cycle	96	1	0.0115893
+cell cycle arrest	96	1	0.00494894
+cell division	96	1	0.0172273
+cell junction	96	1	0.0258723
+cell migration	96	1	0.010587
+cell morphogenesis	96	2	0.00419721
+cell motility	96	1	0.00119025
+cell projection	96	1	0.00526217
+cell projection membrane	96	1	0.000626449
+cell surface	96	2	0.0348932
+cell-cell junction	96	2	0.0100858
+cell-cell junction assembly	96	1	0.000501159
+cellular amino acid metabolic process	96	1	0.00131554
+cellular protein localization	96	1	0.00313224
+cellular response to dna damage stimulus	96	2	0.0129675
+cellular response to drug	96	1	0.00463572
+cellular response to epidermal growth factor stimulus	96	2	0.00150348
+cellular response to interleukin-4	96	1	0.00150348
+cellular response to organic cyclic compound	96	1	0.00570068
+cellular response to peptide hormone stimulus	96	1	0.00162877
+cellular response to vascular endothelial growth factor stimulus	96	1	0.00144083
+cellular response to vasopressin	96	1	0.00012529
+cellular_component	96	1	0.267556
+centriole	96	1	0.00601391
+centromeric dna binding	96	1	0.000187935
+centrosome	96	1	0.0259976
+chaperone binding	96	1	0.00457308
+chaperone-mediated protein complex assembly	96	1	0.000563804
+chaperone-mediated protein folding	96	1	0.00187935
+chromatin	96	1	0.00607655
+chromatin assembly	96	1	0.000501159
+chromatin binding	96	6	0.0237424
+chromatin modification	96	1	0.00538746
+chromatin organization	96	1	0.000814383
+chromatin remodeling	96	5	0.00413456
+chromatin silencing at rdna	96	1	0.00169141
+chromosome condensation	96	1	0.000689094
+chromosome passenger complex localization to kinetochore	96	1	6.26449e-05
+chromosome segregation	96	2	0.00444779
+chromosome, centromeric core domain	96	1	6.26449e-05
+chromosome, centromeric region	96	1	0.0030696
+cilium morphogenesis	96	1	0.00388398
+circadian regulation of gene expression	96	1	0.00319489
+clathrin-mediated endocytosis	96	1	0.000689094
+commitment complex	96	1	0.000438514
+condensed chromosome	96	1	0.0018167
+condensed chromosome kinetochore	96	1	0.00419721
+contractile fiber	96	1	0.00106496
+cop9 signalosome	96	3	0.00194199
+core promoter binding	96	1	0.00400927
+core promoter sequence-specific dna binding	96	1	0.0023805
+coronary vasculature development	96	1	0.00175406
+cortical actin cytoskeleton	96	1	0.00219257
+ctp binding	96	1	0.00012529
+cullin deneddylation	96	1	0.000563804
+cytoplasm	96	35	0.316732
+cytoplasmic microtubule	96	1	0.00288166
+cytoplasmic periphery of the nuclear pore complex	96	1	0.00012529
+cytoplasmic translational initiation	96	1	6.26449e-05
+cytoskeleton	96	1	0.0189187
+cytoskeleton organization	96	2	0.00538746
+cytosol	96	11	0.0984777
+cytosolic proteasome complex	96	1	0.000501159
+damaged dna binding	96	1	0.00338282
+datp binding	96	1	0.000250579
+definitive erythrocyte differentiation	96	1	0.00012529
+dendrite	96	1	0.0205475
+dendrite cytoplasm	96	1	0.00100232
+dendritic spine	96	1	0.00682829
+determination of adult lifespan	96	1	0.000939673
+dihydroorotase activity	96	1	0.00012529
+dinucleotide insertion or deletion binding	96	1	0.000187935
+dinucleotide repeat insertion binding	96	1	0.00012529
+dna binding	96	8	0.0883919
+dna binding, bending	96	1	0.000939673
+dna damage checkpoint	96	1	0.00162877
+dna damage response, detection of dna damage	96	1	0.000375869
+dna ligation	96	1	0.000313224
+dna methylation on cytosine within a cg sequence	96	1	0.000313224
+dna polymerase binding	96	1	0.000814383
+dna recombination	96	1	0.00344547
+dna repair	96	2	0.0132181
+dna replication	96	1	0.00682829
+dna replication factor a complex	96	1	0.000814383
+dna replication-dependent nucleosome assembly	96	1	0.000939673
+dna replication-independent nucleosome assembly	96	1	0.000751738
+dna topoisomerase complex (atp-hydrolyzing)	96	1	6.26449e-05
+dna topoisomerase type ii (atp-hydrolyzing) activity	96	1	0.000250579
+dna topological change	96	1	0.000501159
+dna-dependent atpase activity	96	3	0.00175406
+double-strand break repair	96	2	0.00338282
+double-strand break repair via nonhomologous end joining	96	1	0.00106496
+double-strand/single-strand dna junction binding	96	1	6.26449e-05
+double-stranded dna binding	96	2	0.00607655
+double-stranded rna binding	96	2	0.00407192
+drug binding	96	2	0.00526217
+drug metabolic process	96	1	0.000939673
+dump biosynthetic process	96	1	6.26449e-05
+dutp catabolic process	96	1	6.26449e-05
+dutp diphosphatase activity	96	1	6.26449e-05
+dutp metabolic process	96	1	0.00012529
+early endosome membrane	96	1	0.00476101
+embryonic cleavage	96	1	0.000501159
+embryonic hindlimb morphogenesis	96	1	0.00200464
+embryonic organ development	96	1	0.00200464
+embryonic organ morphogenesis	96	1	0.000313224
+endoplasmic reticulum	96	2	0.04974
+endoplasmic reticulum membrane	96	1	0.0381507
+entrainment of circadian clock by photoperiod	96	1	0.00119025
+enzyme binding	96	4	0.0207981
+enzyme regulator activity	96	1	0.00100232
+ephrin receptor signaling pathway	96	1	0.00219257
+epicardium-derived cardiac endothelial cell differentiation	96	1	0.00012529
+epidermis morphogenesis	96	1	0.000438514
+er-associated ubiquitin-dependent protein catabolic process	96	1	0.00325753
+er-mitochondrion membrane contact site	96	1	0.000438514
+esc/e(z) complex	96	1	0.00100232
+establishment of apical/basal cell polarity	96	1	0.000250579
+establishment of protein localization	96	1	0.00225522
+establishment or maintenance of cell polarity	96	1	0.000939673
+eukaryotic 43s preinitiation complex	96	4	0.000939673
+eukaryotic 48s preinitiation complex	96	4	0.000939673
+eukaryotic translation initiation factor 3 complex	96	4	0.000939673
+eukaryotic translation initiation factor 3 complex, eif3m	96	4	0.000501159
+extracellular exosome	96	27	0.161123
+extracellular matrix organization	96	1	0.00563804
+extracellular space	96	4	0.0800601
+female meiotic division	96	1	0.000689094
+female pregnancy	96	1	0.00526217
+fha domain binding	96	1	6.26449e-05
+fibril organization	96	1	6.26449e-05
+filopodium	96	1	0.00413456
+focal adhesion	96	5	0.0235545
+focal adhesion assembly	96	1	0.00131554
+forebrain development	96	2	0.00463572
+formation of cytoplasmic translation initiation complex	96	2	0.000187935
+formation of translation preinitiation complex	96	4	0.0012529
+four-way junction dna binding	96	1	0.000939673
+g-protein coupled receptor binding	96	1	0.00375869
+g-rich strand telomeric dna binding	96	1	0.000250579
+germ cell development	96	1	0.00225522
+glial cell fate determination	96	1	0.000187935
+glomerular visceral epithelial cell differentiation	96	1	0.000375869
+glucocorticoid receptor signaling pathway	96	1	0.000313224
+glutamine metabolic process	96	1	0.0012529
+glycoprotein binding	96	1	0.00413456
+growth cone	96	2	0.00695358
+gtp binding	96	2	0.0223016
+gtpase activator activity	96	2	0.0131554
+gtpase activity	96	1	0.0137819
+guanine/thymine mispair binding	96	1	0.000187935
+hair cycle	96	1	0.000814383
+heart development	96	5	0.0144083
+heart morphogenesis	96	1	0.00332018
+heart trabecula formation	96	1	0.000814383
+heat shock protein binding	96	1	0.00294431
+helicase activity	96	1	0.00451043
+hematopoietic progenitor cell differentiation	96	1	0.00501159
+heterochromatin	96	2	0.0018167
+heteroduplex dna loop binding	96	1	6.26449e-05
+hindbrain development	96	1	0.00119025
+histone acetylation	96	1	0.00206728
+histone binding	96	1	0.00551275
+histone deacetylase binding	96	3	0.00645242
+histone deacetylation	96	1	0.00194199
+histone h2a acetylation	96	1	0.000939673
+histone h3 acetylation	96	1	0.00288166
+histone h4 acetylation	96	1	0.00200464
+histone pre-mrna dcp binding	96	1	0.000187935
+hsp70 protein binding	96	1	0.00200464
+hydrolase activity	96	2	0.0140951
+hydrolase activity, acting on acid anhydrides	96	1	0.000751738
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	96	1	0.00119025
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides	96	1	0.00012529
+identical protein binding	96	3	0.0377122
+in utero embryonic development	96	3	0.0149095
+inclusion body	96	1	0.00112761
+inner cell mass cell proliferation	96	1	0.000751738
+ino80 complex	96	1	0.000877028
+integral component of lumenal side of endoplasmic reticulum membrane	96	1	0.000751738
+integral component of membrane	96	2	0.371923
+integrin-mediated signaling pathway	96	1	0.0048863
+intra-s dna damage checkpoint	96	1	0.000626449
+intracellular	96	3	0.0908351
+intracellular estrogen receptor signaling pathway	96	1	0.000689094
+intracellular membrane-bounded organelle	96	5	0.0377122
+intracellular ribonucleoprotein complex	96	5	0.00701623
+intracellular signal transduction	96	2	0.0246194
+intracellular transport	96	1	0.00100232
+intrinsic apoptotic signaling pathway in response to dna damage	96	1	0.0030696
+intrinsic apoptotic signaling pathway in response to dna damage by p53 class mediator	96	1	0.00187935
+invadopodium	96	1	0.000375869
+ion channel binding	96	1	0.00645242
+ionotropic glutamate receptor binding	96	1	0.00150348
+isomerase activity	96	1	0.00131554
+isotype switching	96	1	0.000939673
+keratinocyte differentiation	96	1	0.0048863
+kinase binding	96	1	0.00494894
+kinetochore	96	2	0.00407192
+l-methionine biosynthetic process from methylthioadenosine	96	1	0.000313224
+lactation	96	1	0.00263108
+lamellipodium	96	2	0.00902086
+lens fiber cell development	96	1	0.000438514
+leucine import	96	1	6.26449e-05
+ligand-dependent nuclear receptor binding	96	1	0.00131554
+ligand-dependent nuclear receptor transcription coactivator activity	96	1	0.00275637
+ligase activity	96	1	0.0145963
+lipid biosynthetic process	96	1	0.000939673
+lipid particle	96	1	0.00344547
+liver development	96	2	0.00638978
+locomotor rhythm	96	1	0.000877028
+low-density lipoprotein particle receptor binding	96	1	0.00112761
+lung alveolus development	96	1	0.00231786
+lysine-acetylated histone binding	96	1	0.000939673
+magnesium ion binding	96	3	0.0117772
+maintenance of chromatin silencing	96	1	0.000250579
+maintenance of dna repeat elements	96	1	0.000313224
+male gonad development	96	1	0.00651507
+meiotic cell cycle	96	1	0.00225522
+meiotic chromosome movement towards spindle pole	96	1	0.000187935
+meiotic cytokinesis	96	1	0.00012529
+meiotic gene conversion	96	1	0.000250579
+meiotic sister chromatid cohesion, centromeric	96	1	0.000187935
+meiotic spindle elongation	96	1	6.26449e-05
+melanosome	96	3	0.00557539
+membrane	96	19	0.183362
+metabolic process	96	3	0.0684082
+metal ion binding	96	4	0.118148
+methyl-cpg binding	96	1	0.00112761
+methylation	96	1	0.0061392
+methylation-dependent chromatin silencing	96	2	0.000501159
+methylosome	96	2	0.000751738
+mhc class ii protein complex binding	96	1	0.000877028
+microspike	96	1	0.000187935
+microspike assembly	96	1	0.000250579
+microtubule	96	3	0.0166635
+microtubule binding	96	1	0.0116519
+microtubule cytoskeleton organization	96	1	0.00413456
+microtubule organizing center	96	1	0.00889557
+microvillus	96	1	0.00357076
+midbody	96	1	0.00732945
+mismatch repair	96	1	0.00119025
+mismatch repair complex	96	1	0.000250579
+mismatched dna binding	96	1	0.000626449
+mitochondrial matrix	96	1	0.0109629
+mitochondrion	96	4	0.0930276
+mitogen-activated protein kinase kinase binding	96	1	0.00100232
+mitotic dna integrity checkpoint	96	1	0.000187935
+mitotic nuclear division	96	1	0.012341
+mitotic sister chromatid separation	96	1	0.000187935
+mitotic spindle	96	1	0.00269373
+mitotic spindle midzone	96	1	0.000626449
+molecular_function	96	5	0.324062
+mrna binding	96	1	0.00657771
+mrna cleavage and polyadenylation specificity factor complex	96	1	0.000751738
+mrna processing	96	3	0.0107123
+mrna splicing, via spliceosome	96	4	0.0054501
+mrna transport	96	3	0.00350811
+muscle cell projection membrane	96	1	0.000187935
+mutlalpha complex binding	96	1	0.000313224
+mutsalpha complex	96	1	0.00012529
+mutsbeta complex	96	1	0.00012529
+myelin sheath	96	3	0.0107123
+nbaf complex	96	3	0.000814383
+negative regulation of androgen receptor signaling pathway	96	1	0.000814383
+negative regulation of apoptotic process	96	3	0.0294431
+negative regulation of apoptotic signaling pathway	96	2	0.00144083
+negative regulation of cell differentiation	96	1	0.00570068
+negative regulation of cell growth	96	1	0.00707887
+negative regulation of cell proliferation	96	1	0.0204222
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	96	1	0.00419721
+negative regulation of dna recombination	96	1	0.000375869
+negative regulation of focal adhesion assembly	96	1	0.000814383
+negative regulation of gtpase activity	96	1	0.00194199
+negative regulation of jun kinase activity	96	1	0.000689094
+negative regulation of mrna splicing, via spliceosome	96	1	0.00131554
+negative regulation of neuron apoptotic process	96	2	0.00839441
+negative regulation of neuron death	96	1	0.00263108
+negative regulation of neuron differentiation	96	1	0.00413456
+negative regulation of nucleic acid-templated transcription	96	1	0.00187935
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	96	1	0.000751738
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process	96	1	0.00119025
+negative regulation of protein dephosphorylation	96	1	0.000438514
+negative regulation of protein export from nucleus	96	1	0.000375869
+negative regulation of protein kinase activity	96	1	0.00557539
+negative regulation of protein phosphatase type 2a activity	96	1	0.00012529
+negative regulation of protein serine/threonine kinase activity	96	1	0.0012529
+negative regulation of protein ubiquitination	96	1	0.00250579
+negative regulation of reciprocal meiotic recombination	96	1	6.26449e-05
+negative regulation of stress-activated mapk cascade	96	1	0.000375869
+negative regulation of substrate adhesion-dependent cell spreading	96	1	0.000689094
+negative regulation of telomere maintenance via telomerase	96	1	0.000751738
+negative regulation of transcription from rna polymerase ii promoter	96	6	0.0428491
+negative regulation of transcription, dna-templated	96	2	0.0328886
+nervous system development	96	2	0.00958466
+neural retina development	96	2	0.000814383
+neural tube closure	96	1	0.00501159
+neural tube formation	96	1	0.00100232
+neurogenesis	96	1	0.00313224
+neuronal cell body	96	2	0.0229907
+neuronal stem cell population maintenance	96	1	0.00131554
+neutral amino acid transmembrane transporter activity	96	1	0.000751738
+nitric-oxide synthase regulator activity	96	1	0.000313224
+nitrogen compound metabolic process	96	1	0.00119025
+npbaf complex	96	4	0.000689094
+nua4 histone acetyltransferase complex	96	1	0.00112761
+nuclear chromatin	96	6	0.0113387
+nuclear chromosome	96	1	0.0018167
+nuclear chromosome, telomeric region	96	1	0.00438514
+nuclear envelope	96	1	0.00758003
+nuclear euchromatin	96	1	0.0018167
+nuclear export	96	1	0.000501159
+nuclear import	96	1	0.00012529
+nuclear matrix	96	1	0.00513688
+nuclear membrane	96	2	0.0127796
+nuclear pore	96	2	0.00325753
+nuclear pore cytoplasmic filaments	96	1	0.00012529
+nuclear proteasome complex	96	1	0.000438514
+nuclear speck	96	2	0.0112134
+nucleic acid binding	96	4	0.068972
+nucleocytoplasmic transport	96	1	0.00645242
+nucleocytoplasmic transporter activity	96	1	0.000814383
+nucleolus	96	6	0.0468584
+nucleoplasm	96	22	0.114891
+nucleoside metabolic process	96	1	0.000751738
+nucleosomal dna binding	96	4	0.00187935
+nucleosome assembly	96	1	0.00444779
+nucleosome binding	96	1	0.000814383
+nucleosome disassembly	96	2	0.000877028
+nucleotide binding	96	3	0.0251206
+nucleus	96	32	0.294681
+nurd complex	96	3	0.00112761
+nurf complex	96	1	0.000375869
+optic cup formation involved in camera-type eye development	96	1	6.26449e-05
+organ regeneration	96	1	0.0043225
+outflow tract morphogenesis	96	1	0.00275637
+oxidative phosphorylation	96	1	0.000501159
+oxidized purine dna binding	96	1	0.000313224
+p53 binding	96	1	0.00375869
+peptidyl-prolyl cis-trans isomerase activity	96	1	0.00256844
+peptidyl-serine dephosphorylation	96	1	0.000250579
+peptidyl-threonine phosphorylation	96	1	0.00225522
+perichromatin fibrils	96	1	0.000250579
+perinuclear region of cytoplasm	96	2	0.0360834
+pharyngeal arch artery morphogenesis	96	1	0.000187935
+picln-sm protein complex	96	2	0.000375869
+placenta blood vessel development	96	1	0.000563804
+placenta development	96	2	0.00269373
+plasma membrane	96	7	0.237549
+platelet aggregation	96	1	0.00225522
+podosome	96	1	0.00150348
+poly(a) rna binding	96	21	0.0668421
+positive regulation by host of viral process	96	1	0.000438514
+positive regulation by host of viral transcription	96	1	0.000751738
+positive regulation of angiogenesis	96	1	0.0061392
+positive regulation of apoptotic process	96	2	0.017102
+positive regulation of astrocyte differentiation	96	1	0.000751738
+positive regulation of attachment of spindle microtubules to kinetochore	96	1	0.000187935
+positive regulation of blood vessel endothelial cell migration	96	1	0.00106496
+positive regulation of cell differentiation	96	1	0.00263108
+positive regulation of cell proliferation	96	1	0.0290672
+positive regulation of cell size	96	1	0.000814383
+positive regulation of dephosphorylation	96	1	6.26449e-05
+positive regulation of dna binding	96	1	0.00175406
+positive regulation of endothelial cell chemotaxis	96	1	0.000313224
+positive regulation of endothelial cell chemotaxis by vegf-activated vascular endothelial growth factor receptor signaling pathway	96	1	0.000250579
+positive regulation of extracellular matrix disassembly	96	1	0.000313224
+positive regulation of extrinsic apoptotic signaling pathway in absence of ligand	96	1	0.000877028
+positive regulation of filopodium assembly	96	1	0.00156612
+positive regulation of g2/m transition of mitotic cell cycle	96	1	0.00100232
+positive regulation of glucose mediated signaling pathway	96	1	0.000187935
+positive regulation of gtpase activity	96	2	0.026812
+positive regulation of helicase activity	96	1	0.000375869
+positive regulation of interleukin-1 beta production	96	1	0.000501159
+positive regulation of lamellipodium assembly	96	1	0.00100232
+positive regulation of mrna splicing, via spliceosome	96	1	0.00100232
+positive regulation of neuron differentiation	96	1	0.0054501
+positive regulation of nitric oxide biosynthetic process	96	1	0.00231786
+positive regulation of podosome assembly	96	1	0.000689094
+positive regulation of pri-mirna transcription from rna polymerase ii promoter	96	1	0.000501159
+positive regulation of proteasomal protein catabolic process	96	1	0.000877028
+positive regulation of protein autoubiquitination	96	1	0.00012529
+positive regulation of protein binding	96	1	0.0036334
+positive regulation of protein import into nucleus, translocation	96	1	0.000814383
+positive regulation of protein serine/threonine kinase activity	96	1	0.00200464
+positive regulation of protein targeting to mitochondrion	96	1	0.00494894
+positive regulation of rna polymerase ii transcriptional preinitiation complex assembly	96	1	0.000563804
+positive regulation of sequence-specific dna binding transcription factor activity	96	1	0.00620184
+positive regulation of single stranded viral rna replication via double stranded dna intermediate	96	1	6.26449e-05
+positive regulation of skeletal muscle tissue regeneration	96	1	0.000250579
+positive regulation of striated muscle cell differentiation	96	1	0.000438514
+positive regulation of telomere maintenance via telomerase	96	1	0.00144083
+positive regulation of transcription from rna polymerase ii promoter	96	4	0.0589488
+positive regulation of transcription of nuclear large rrna transcript from rna polymerase i promoter	96	1	0.000375869
+positive regulation of transcription, dna-templated	96	3	0.0332644
+positive regulation of translation	96	1	0.00313224
+positive regulation of tumor necrosis factor biosynthetic process	96	1	0.000626449
+positive regulation of viral genome replication	96	1	0.0012529
+positive regulation of wnt signaling pathway	96	1	0.00212993
+postreplication repair	96	1	0.000563804
+pre-mrna intronic binding	96	1	0.000438514
+precatalytic spliceosome	96	2	0.00150348
+preribosome	96	1	6.26449e-05
+prespliceosome	96	1	0.000375869
+proteasomal protein catabolic process	96	1	0.000501159
+proteasome accessory complex	96	2	0.00100232
+proteasome complex	96	3	0.00375869
+proteasome regulatory particle	96	2	0.000626449
+proteasome regulatory particle, base subcomplex	96	1	0.000751738
+proteasome regulatory particle, lid subcomplex	96	1	0.000313224
+proteasome-activating atpase activity	96	1	0.000313224
+proteasome-mediated ubiquitin-dependent protein catabolic process	96	1	0.00657771
+protein autophosphorylation	96	1	0.0100232
+protein binding	96	54	0.66936
+protein binding, bridging	96	1	0.00369605
+protein c-terminus binding	96	3	0.0112761
+protein catabolic process	96	1	0.0023805
+protein complex	96	7	0.0290046
+protein complex assembly	96	1	0.00344547
+protein complex binding	96	2	0.0169141
+protein domain specific binding	96	3	0.0144083
+protein folding	96	3	0.00776796
+protein heterodimerization activity	96	2	0.0281902
+protein homodimerization activity	96	2	0.0432876
+protein import into mitochondrial outer membrane	96	1	0.000313224
+protein k63-linked ubiquitination	96	1	0.00225522
+protein k69-linked ufmylation	96	1	0.000313224
+protein kinase activity	96	1	0.0331391
+protein kinase binding	96	5	0.023805
+protein kinase c binding	96	2	0.00281902
+protein kinase c inhibitor activity	96	1	6.26449e-05
+protein kinase regulator activity	96	1	0.000563804
+protein localization to mitochondrion	96	1	0.000313224
+protein methylation	96	1	0.00156612
+protein n-terminus binding	96	1	0.00632713
+protein peptidyl-prolyl isomerization	96	1	0.00256844
+protein phosphatase 2a binding	96	1	0.00169141
+protein phosphatase type 2a complex	96	1	0.00112761
+protein phosphatase type 2a regulator activity	96	2	0.000939673
+protein polyubiquitination	96	1	0.00576333
+protein serine/threonine phosphatase activity	96	1	0.00275637
+protein transport	96	1	0.029631
+protein ubiquitination	96	1	0.0218004
+protein ufmylation	96	1	0.000313224
+prp19 complex	96	1	0.000877028
+purine ribonucleoside salvage	96	1	0.000250579
+purine-containing compound salvage	96	1	0.00012529
+rac gtpase binding	96	1	0.00263108
+ran gtpase binding	96	1	0.00156612
+regulation of actin cytoskeleton organization	96	1	0.00269373
+regulation of actin filament polymerization	96	2	0.00131554
+regulation of catalytic activity	96	1	0.00413456
+regulation of cell migration	96	2	0.00382134
+regulation of cell morphogenesis	96	1	0.0012529
+regulation of circadian rhythm	96	1	0.00288166
+regulation of dendritic spine morphogenesis	96	1	0.000751738
+regulation of dna methylation	96	1	0.000877028
+regulation of fibroblast migration	96	1	0.000626449
+regulation of gene expression, epigenetic	96	1	0.000939673
+regulation of growth	96	1	0.00332018
+regulation of heart contraction	96	1	0.00137819
+regulation of i-kappab kinase/nf-kappab signaling	96	1	0.00100232
+regulation of inflammatory response	96	1	0.00300695
+regulation of interferon-gamma-mediated signaling pathway	96	1	0.000187935
+regulation of intracellular estrogen receptor signaling pathway	96	1	0.000563804
+regulation of meiotic cell cycle process involved in oocyte maturation	96	1	6.26449e-05
+regulation of microtubule-based movement	96	1	0.00012529
+regulation of microvillus assembly	96	1	0.000438514
+regulation of mitophagy	96	1	0.00162877
+regulation of protein binding	96	1	0.00112761
+regulation of protein catabolic process	96	1	0.00112761
+regulation of protein phosphatase type 2a activity	96	2	0.00100232
+regulation of protein transport	96	1	0.000563804
+regulation of protein ubiquitination	96	1	0.00106496
+regulation of ruffle assembly	96	1	0.000501159
+regulation of signal transduction	96	1	0.00212993
+regulation of transcription, dna-templated	96	4	0.100858
+regulation of translational fidelity	96	1	0.000939673
+regulation of translational initiation	96	4	0.00194199
+regulation of type i interferon-mediated signaling pathway	96	1	0.00012529
+resolution of meiotic recombination intermediates	96	1	0.000626449
+response to amine	96	1	0.000939673
+response to axon injury	96	1	0.00187935
+response to caffeine	96	1	0.00100232
+response to cortisol	96	1	0.000250579
+response to drug	96	1	0.0221136
+response to endoplasmic reticulum stress	96	1	0.00444779
+response to estradiol	96	1	0.00820648
+response to exogenous dsrna	96	1	0.00244315
+response to heat	96	1	0.00344547
+response to interleukin-1	96	1	0.00225522
+response to ionizing radiation	96	1	0.00357076
+response to lipopolysaccharide	96	1	0.0131554
+response to nutrient levels	96	1	0.00400927
+response to organic cyclic compound	96	1	0.0109629
+response to organic substance	96	1	0.00751738
+response to salt stress	96	1	0.000814383
+response to stress	96	1	0.00156612
+response to testosterone	96	2	0.0023805
+response to tumor necrosis factor	96	1	0.00175406
+response to unfolded protein	96	1	0.00162877
+response to uv-b	96	1	0.000626449
+response to virus	96	2	0.00513688
+response to x-ray	96	1	0.00137819
+retina homeostasis	96	1	0.00150348
+rhythmic process	96	1	0.00263108
+ribosome	96	1	0.0110881
+rna binding	96	4	0.0290672
+rna polymerase i core element sequence-specific dna binding	96	1	0.000501159
+rna polymerase ii core promoter proximal region sequence-specific dna binding	96	5	0.0201716
+rna polymerase ii distal enhancer sequence-specific dna binding	96	4	0.00419721
+rna polymerase ii regulatory region sequence-specific dna binding	96	1	0.0116519
+rna polymerase ii repressing transcription factor binding	96	1	0.00175406
+rna polymerase ii transcription coactivator activity	96	1	0.00206728
+rna splicing	96	2	0.00814383
+rna transport	96	1	6.26449e-05
+rough endoplasmic reticulum	96	1	0.00300695
+rrna processing	96	1	0.0054501
+ruffle	96	1	0.00551275
+ruffle membrane	96	1	0.00419721
+s-methyl-5-thioadenosine phosphorylase activity	96	1	6.26449e-05
+sequence-specific dna binding	96	1	0.0365846
+sh3 domain binding	96	1	0.00651507
+signal transduction	96	2	0.0526843
+signal transduction involved in dna damage checkpoint	96	1	0.00012529
+single base insertion or deletion binding	96	1	0.00012529
+single guanine insertion binding	96	1	0.000187935
+single thymine insertion binding	96	1	0.00012529
+single-stranded dna binding	96	3	0.00444779
+single-stranded telomeric dna binding	96	1	0.000250579
+sister chromatid segregation	96	1	0.000187935
+site of double-strand break	96	1	0.00187935
+small gtpase binding	96	1	0.000626449
+smn-sm protein complex	96	2	0.00100232
+smooth endoplasmic reticulum	96	1	0.00137819
+somatic hypermutation of immunoglobulin genes	96	1	0.000689094
+somatic recombination of immunoglobulin gene segments	96	1	0.000250579
+somatic recombination of immunoglobulin genes involved in immune response	96	1	0.00012529
+sperm motility	96	1	0.00344547
+spermatid development	96	1	0.00720416
+spermatogenesis	96	1	0.0205475
+spinal cord development	96	1	0.0023805
+spindle	96	3	0.00601391
+spindle localization	96	1	0.000250579
+spliceosomal complex	96	5	0.0048863
+spliceosomal complex assembly	96	2	0.000877028
+spliceosomal snrnp assembly	96	2	0.00156612
+spliceosomal tri-snrnp complex	96	1	0.000313224
+spliceosomal tri-snrnp complex assembly	96	1	0.000563804
+stem cell population maintenance	96	1	0.00375869
+stress fiber	96	1	0.00332018
+structural constituent of cytoskeleton	96	2	0.00382134
+substantia nigra development	96	1	0.00231786
+sulfonylurea receptor binding	96	1	0.000187935
+swi/snf complex	96	4	0.000814383
+synaptic vesicle endocytosis	96	1	0.00119025
+tat protein binding	96	1	0.000438514
+tbp-class protein binding	96	1	0.00106496
+telomerase holoenzyme complex	96	2	0.00106496
+telomerase rna binding	96	1	0.000877028
+telomeric repeat-containing rna binding	96	1	6.26449e-05
+terminal bouton	96	1	0.00382134
+tissue development	96	1	0.000877028
+toxin transport	96	2	0.00244315
+tpr domain binding	96	1	0.000313224
+transcription coactivator activity	96	2	0.010399
+transcription corepressor activity	96	3	0.00883293
+transcription factor activity, sequence-specific dna binding	96	1	0.0510556
+transcription factor binding	96	1	0.0193573
+transcription regulatory region dna binding	96	1	0.0129675
+transcription, dna-templated	96	10	0.0835683
+transferase activity, transferring pentosyl groups	96	1	0.000501159
+translation	96	1	0.0150348
+translation activator activity	96	1	0.000438514
+translation elongation factor activity	96	1	0.00144083
+translation initiation factor activity	96	4	0.00394663
+translation initiation factor binding	96	1	0.000939673
+translational elongation	96	1	0.00156612
+translational initiation	96	3	0.00400927
+trna aminoacylation for protein translation	96	1	0.00225522
+trna binding	96	1	0.00250579
+trna-splicing ligase complex	96	1	0.000438514
+trophectodermal cell differentiation	96	1	0.00112761
+tryptophan transport	96	1	0.000187935
+u1 snrnp	96	2	0.00106496
+u11/u12 snrnp	96	1	6.26449e-05
+u12-type spliceosomal complex	96	3	0.00162877
+u2 snrna binding	96	2	0.000375869
+u2 snrnp	96	4	0.00119025
+u4 snrnp	96	2	0.000626449
+u4/u6 x u5 tri-snrnp complex	96	1	0.00137819
+u5 snrnp	96	2	0.00106496
+u7 snrna binding	96	1	0.000187935
+u7 snrnp	96	2	0.000438514
+ubiquitin binding	96	2	0.00350811
+ubiquitin ligase complex	96	1	0.00457308
+ubiquitin protein ligase activity	96	1	0.0108376
+ubiquitin protein ligase binding	96	2	0.0155986
+ubiquitin-dependent protein catabolic process	96	1	0.00927144
+ubiquitin-protein transferase activity	96	1	0.01729
+ubiquitin-ubiquitin ligase activity	96	1	0.000689094
+unfolded protein binding	96	3	0.00425985
+urea cycle	96	1	0.000626449
+utp binding	96	2	0.000250579
+utp biosynthetic process	96	1	0.000689094
+valine-trna ligase activity	96	1	0.00012529
+valyl-trna aminoacylation	96	1	0.00012529
+vasculogenesis	96	1	0.00344547
+vasculogenesis involved in coronary vascular morphogenesis	96	1	0.000751738
+ventricular septum development	96	1	0.00200464
+vesicle	96	2	0.00701623
+viral nucleocapsid	96	2	0.000877028
+virion attachment to host cell	96	1	6.26449e-05
+y-form dna binding	96	1	0.000250579
+z disc	96	1	0.00682829
+zinc ion binding	96	4	0.0674059
+DM:
+
+MM:
+

@@ -1,0 +1,100 @@
+translation	0.0890037
+structural constituent of ribosome	0.0879651
+ribosome	0.0850888
+intracellular	0.0646089
+mitotic spindle elongation	0.0572053
+mitotic spindle organization	0.0544888
+cytosolic large ribosomal subunit	0.0523849
+centrosome duplication	0.0365389
+cytosolic small ribosomal subunit	0.0351008
+cytoplasm	0.0267118
+nucleolus	0.0160856
+RNA binding	0.0153666
+nuclear chromosome	0.0149937
+small ribosomal subunit	0.0143013
+centrosome organization	0.0135823
+nucleus	0.0115849
+proteasome-mediated ubiquitin-dependent protein catabolic process	0.0115582
+endopeptidase activity	0.010999
+neurogenesis	0.0107593
+microtubule associated complex	0.00998695
+proteolysis	0.00905484
+protein binding	0.00825588
+cellular response to DNA damage stimulus	0.00732376
+translational elongation	0.00689765
+proteasome complex	0.00655144
+ubiquitin-dependent protein catabolic process	0.00636502
+proteasome regulatory particle	0.00628512
+cytosolic ribosome	0.00617859
+proteasome core complex	0.00583238
+proteolysis involved in cellular protein catabolic process	0.00535301
+ribosome biogenesis	0.00535301
+threonine-type endopeptidase activity	0.00535301
+rRNA binding	0.00458068
+large ribosomal subunit	0.00388825
+cellular process	0.00386162
+ATP binding	0.00383499
+proteasome regulatory particle, base subcomplex	0.00378173
+nucleic acid binding	0.00351541
+negative regulation of neuron apoptotic process	0.00324909
+rRNA processing	0.00324909
+cell proliferation	0.00322246
+DNA repair	0.00319582
+DNA-(apurinic or apyrimidinic site) lyase activity	0.00314256
+cytosol	0.00276971
+hydrolase activity	0.00271645
+ribosomal small subunit biogenesis	0.00271645
+protein catabolic process	0.00258329
+myosin binding	0.00247676
+proteasome core complex, alpha-subunit complex	0.00247676
+mRNA binding	0.0024235
+lipid particle	0.00239687
+nucleotide binding	0.0023436
+proteasome regulatory particle, lid subcomplex	0.00199739
+translational initiation	0.00199739
+oogenesis	0.00197076
+intracellular ribonucleoprotein complex	0.0018376
+peripheral nervous system development	0.00181097
+compound eye development	0.00178434
+immune response	0.00178434
+mitotic nuclear division	0.00178434
+mitotic spindle assembly	0.00173107
+molecular_function	0.00167781
+insulin receptor signaling pathway	0.00162454
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.00159791
+neuronal cell body	0.00159791
+nuclear matrix	0.00159791
+oxidized purine nucleobase lesion DNA N-glycosylase activity	0.00159791
+regulation of cell size	0.00159791
+growth	0.00154465
+ribosome binding	0.00146475
+binding	0.00143812
+ribosomal small subunit assembly	0.00143812
+polytene chromosome puff	0.00141149
+pupariation	0.00135823
+cellular_component	0.0012517
+ATPase activity	0.00119843
+endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.0011718
+endonucleolytic cleavage to generate mature 3'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.0011718
+rRNA export from nucleus	0.0011718
+enzyme regulator activity	0.00114517
+metal ion binding	0.00114517
+regulation of protein catabolic process	0.00114517
+small-subunit processome	0.00109191
+DNA binding	0.00103864
+GTP binding	0.000985379
+GTPase activity	0.000958747
+zinc ion binding	0.000905484
+lateral inhibition	0.00085222
+translation elongation factor activity	0.00085222
+biological_process	0.000825588
+determination of adult lifespan	0.000772324
+integral component of membrane	0.000745692
+protein deubiquitination	0.000745692
+ubiquitin-specific protease activity	0.000745692
+eukaryotic translation elongation factor 1 complex	0.00071906
+plasma membrane	0.00071906
+regulation of transcription, DNA-templated	0.000665797
+transcription factor activity, sequence-specific DNA binding	0.000639165
+mRNA splicing, via spliceosome	0.000612533
+protein ubiquitination	0.000612533

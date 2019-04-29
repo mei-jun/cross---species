@@ -1,0 +1,103 @@
+protein binding	0.043354
+nucleus	0.0271558
+cytoplasm	0.0238209
+extracellular exosome	0.0204859
+nucleoplasm	0.0161982
+poly(A) RNA binding	0.0138161
+membrane	0.0133397
+ATP binding	0.0109576
+DNA binding	0.00905193
+cytosol	0.00714626
+transcription, DNA-templated	0.00666984
+chromatin binding	0.00571701
+enzyme binding	0.00571701
+protein C-terminus binding	0.00571701
+magnesium ion binding	0.00524059
+nucleolus	0.00524059
+protein complex	0.00524059
+BAF-type complex	0.00476417
+double-stranded DNA binding	0.00476417
+heart development	0.00476417
+mitochondrion	0.00476417
+protein kinase binding	0.00476417
+cellular response to DNA damage stimulus	0.00428776
+plasma membrane	0.00428776
+protein homodimerization activity	0.00428776
+single-stranded DNA binding	0.00428776
+catalytic step 2 spliceosome	0.00381134
+eukaryotic 43S preinitiation complex	0.00381134
+eukaryotic 48S preinitiation complex	0.00381134
+eukaryotic translation initiation factor 3 complex	0.00381134
+eukaryotic translation initiation factor 3 complex, eIF3m	0.00381134
+formation of translation preinitiation complex	0.00381134
+in utero embryonic development	0.00381134
+kinetochore	0.00381134
+nucleotide binding	0.00381134
+regulation of translational initiation	0.00381134
+translation initiation factor activity	0.00381134
+ATPase activity	0.00333492
+DNA repair	0.00333492
+double-strand break repair	0.00333492
+focal adhesion	0.00333492
+intracellular membrane-bounded organelle	0.00333492
+molecular_function	0.00333492
+negative regulation of neuron apoptotic process	0.00333492
+positive regulation of transcription, DNA-templated	0.00333492
+response to testosterone	0.00333492
+translational initiation	0.00333492
+ADP binding	0.0028585
+B cell differentiation	0.0028585
+B cell mediated immunity	0.0028585
+GTPase activator activity	0.0028585
+MutLalpha complex binding	0.0028585
+MutSalpha complex	0.0028585
+MutSbeta complex	0.0028585
+Y-form DNA binding	0.0028585
+binding	0.0028585
+catalytic activity	0.0028585
+cell cycle arrest	0.0028585
+centromeric DNA binding	0.0028585
+damaged DNA binding	0.0028585
+determination of adult lifespan	0.0028585
+dinucleotide insertion or deletion binding	0.0028585
+dinucleotide repeat insertion binding	0.0028585
+double-strand/single-strand DNA junction binding	0.0028585
+four-way junction DNA binding	0.0028585
+germ cell development	0.0028585
+guanine/thymine mispair binding	0.0028585
+heteroduplex DNA loop binding	0.0028585
+intra-S DNA damage checkpoint	0.0028585
+intracellular ribonucleoprotein complex	0.0028585
+intrinsic apoptotic signaling pathway in response to DNA damage	0.0028585
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	0.0028585
+isotype switching	0.0028585
+maintenance of DNA repeat elements	0.0028585
+male gonad development	0.0028585
+meiotic gene conversion	0.0028585
+metal ion binding	0.0028585
+mismatch repair	0.0028585
+mismatch repair complex	0.0028585
+mismatched DNA binding	0.0028585
+negative regulation of DNA recombination	0.0028585
+negative regulation of reciprocal meiotic recombination	0.0028585
+negative regulation of transcription from RNA polymerase II promoter	0.0028585
+nuclear chromatin	0.0028585
+nuclear chromosome, telomeric region	0.0028585
+oxidative phosphorylation	0.0028585
+oxidized purine DNA binding	0.0028585
+placenta development	0.0028585
+positive regulation of GTPase activity	0.0028585
+positive regulation of helicase activity	0.0028585
+positive regulation of transcription from RNA polymerase II promoter	0.0028585
+postreplication repair	0.0028585
+response to UV-B	0.0028585
+response to X-ray	0.0028585
+signal transduction	0.0028585
+single base insertion or deletion binding	0.0028585
+single guanine insertion binding	0.0028585
+single thymine insertion binding	0.0028585
+somatic hypermutation of immunoglobulin genes	0.0028585
+somatic recombination of immunoglobulin gene segments	0.0028585
+somatic recombination of immunoglobulin genes involved in immune response	0.0028585
+spindle	0.0028585
+spliceosomal complex	0.0028585
